@@ -1,0 +1,6 @@
+// This file was modified by p3sw. Do not distribute without permission.
+// Mobile "buy now" screen
+{
+  "namespace": "tabbed_upsell",
+  "tabbed_upseel_screen_panel@update_news.news_panel": {}
+}

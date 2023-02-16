@@ -1,0 +1,52 @@
+// This file was modified by p3sw. Do not distribute without permission.
+{
+  "namespace": "update_news",
+
+
+  "news_panel@common_dialogs.main_panel_no_buttons": {
+    "size": ["80%", "80%"],
+    "$text_name": "Changelog",
+    "$child_control": "update_news.news_scrolling_panel"
+  },
+
+
+  "news_panel_content": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": ["100%", 256],
+    "offset": [4, 4],
+    "controls": [
+      {
+        "content": {
+          "type": "stack_panel",
+          "size": ["fill", "100%"],
+          "controls": [
+            {
+              "current_version": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "$pack_version"
+              }
+            },
+            {
+              "current_changelog": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- the pack is now compatible with 1.16.40\n- from now on, there will be a 1.16.40-1.18.2 variant and a 1.18.10+ variant of the resource pack\n- added support for every language (translations may not be fully accurate. lang files were generated with AnyLanguage)\n- added unique textures to many discontinued mobs to make them distinguishable from normal variants\n- added missing education edition textures\n- added red outlines to most crash blocks. element blocks, however, still need red outlines\n- added new textures to smooth stone bricks, chiseled purpur and many other blocks\n- updated broken anvil textures\n- fixed lang file errors\n- fixed errors in terrain_texture.json\n- fixed the start screen ui\n- 1.18.10+ Glowstone Entity Rendering is now selected by default\n... and way more !!"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+
+  "news_scrolling_panel@common.scrolling_panel": {
+    "$show_background": false,
+    "$scrolling_content": "update_news.news_panel_content"
+  }
+
+
+}

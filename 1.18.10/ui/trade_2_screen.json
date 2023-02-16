@@ -1,0 +1,53 @@
+{
+    "namespace": "trade2",
+    "hover_button": {
+        "type": "button",
+        "layer": 1,
+        "default_focus_precedence": 1,
+        "hover_control": "hover_text",
+        "consume_event": false,
+        "button_mappings": [{"to_button_id": "button.container_slot_hovered", "mapping_type": "pressed", "consume_event": false}],
+        "controls": [{"hover_text@common.hover_text": {"bindings": [{"binding_type": "collection_details"}, {"binding_name": "#hover_text", "binding_condition": "visible"}]}}],
+        "bindings": [{"binding_type": "collection_details"}]
+    },
+    "trade_icons@trade2.toggle_content": {
+        "layer": 11,
+        "offset": [0, 4],
+        "$template_toggle": "trade2.toggle_content"
+    },
+    "trade_toggle_holder": {
+        "type": "panel",
+        "size": ["100%", "60%c - 1px"],
+        "controls": [
+            {"trade_toggle@trade2.trade_toggle": {"anchor_from": "top_middle", "anchor_to": "top_middle"}},
+            {"trade_icons@trade2.trade_icons": {"anchor_from": "top_middle", "anchor_to": "top_middle"}}
+        ]
+    },
+
+    
+    "tier_stack_panel": {
+        "type": "stack_panel",
+        "size": [ "100%", "100%c + 1px" ],
+        "orientation": "vertical",
+        "controls": [
+            {"padding": {"type": "panel",  "size": [0, 2]}},
+            {"tier_label_holder": {"type": "panel", "size": [ "100%", "100%cm" ],
+                "controls": [
+                    {"tier_label@trade2.tier_label": {"size": [ "100%", "default" ], "offset": [ 2, 0 ], "layer": 2}},
+                    {"tier_label_locked@trade2.tier_label_locked": {"size": [ "100%", "default" ], "offset": [ 2, 0 ], "layer": 2}}
+                ],
+                "bindings": [{"binding_name": "#show_level", "binding_name_override": "#visible"}]
+            }},
+            {"trade_toggle_stack_panel@trade2.trade_toggle_stack_panel": {}}
+        ],
+        "bindings": [
+            {
+                // "binding_name": "#tier_visible",
+                "binding_name_override": "#visible",
+                "binding_type": "collection",
+                "binding_collection_name": "$collection_name",
+                "binding_condition": "always"
+            }
+        ]
+    }
+}

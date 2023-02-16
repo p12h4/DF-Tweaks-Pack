@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["p3sw"],
+    "url": "https://github.com/p12h4/DF-Tweaks-Pack"
+  },
+  "header": {
+    "description": "§lMade by p3sw. All languages are supported! (Translations may not be fully accurate.)\n§3Fixes discontinued item names, adds indicators to tooltips of EDU items or items that are removed in future updates, puts a red outline on Crash Blocks and lots of QoL changes!\nThis Pack includes following Texture Packs from Bedrock Tweaks:\n• Visual Infested Stone (Items)\n• Trading Helper\n• Directional Observers\nThis pack also makes Glowstone visible on Entities that are wearing Glowstone.",
+    "name": "§lDiscontinued Feature Tweaks (4.2.0)",
+    "uuid": "0e0f0028-4dfd-48eb-a333-43a7973b570a",
+    "version": [4, 2, 0],
+    "min_engine_version": [1, 18, 10]
+  },
+  "modules": [
+    {
+      "description": "§lMade by p3sw. All languages are supported! (Translations may not be fully accurate.)\n§3Fixes discontinued item names, adds indicators to tooltips of EDU items or items that are removed in future updates, puts a red outline on Crash Blocks and lots of QoL changes!\nThis Pack includes following Texture Packs from Bedrock Tweaks:\n• Visual Infested Stone (Items)\n• Trading Helper\n• Directional Observers\nThis pack also makes Glowstone visible on Entities that are wearing Glowstone.",
+      "type": "resources",
+      "uuid": "257592ed-7c01-44da-b859-e3c7e7d6fd00",
+      "version": [4, 2, 0]
+    }
+  ]
+}
