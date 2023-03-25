@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.piglin_brute": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "part_visibility": [
+        {
+          "leftear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+        },
+        {
+          "rightear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+        }
+      ],
+      "textures": ["Texture.default"]
+    }
+  }
+}

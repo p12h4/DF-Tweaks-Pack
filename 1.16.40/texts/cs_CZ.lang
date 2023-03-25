@@ -1,0 +1,124 @@
+item.glow_stick.black.name=Černá Glow Stick 
+item.copper_horn.name=Měděný roh 
+
+
+tile.end_gateway.name=Konec brány
+tile.end_portal.name=Ukončit dlaždici portálu
+tile.end_portal_frame.name=Koncový portálový rám
+tile.glowingobsidian.name=Zářící obsidián
+tile.underwater_torch.name=Podvodní pochodeň 
+tile.purpur_block.smooth.name=Hladká purpurová
+tile.reserved6.name=Rezervováno 6
+tile.info_update.name=Aktualizovat blok
+tile.info_update2.name=Aktualizovat blok 2
+tile.chemical_heat.name=Chemické teplo 
+tile.hard_glass.name=Tvrdé sklo 
+tile.hard_glass_pane.name=Tabule z tvrdého skla 
+tile.stone_slab.wood.name=Zkamenělá dubová deska
+tile.allow.name=Povolit 
+tile.deny.name=Odmítnout 
+tile.border_block.name=Hranice 
+tile.lava.name=Statická láva
+tile.flowing_lava.name=Tekoucí láva
+tile.water.name=Statická voda
+tile.flowing_water.name=Tekoucí voda
+tile.bubble_column.name=Bublinový sloupec
+tile.movingBlock.name=Pohybující se bloková dlaždice
+tile.powder_snow.name=Práškový sněhový blok
+tile.chorus_plant.name=Chorus Stem
+tile.cut_copper_block.name=Řez měděného bloku 
+tile.cut_copper_block.waxed.name=Voskovaný řezaný měděný blok 
+tile.cut_copper_block.exposed.name=Odkrytý řezaný měděný blok 
+tile.cut_copper_block.exposed.waxed.name=Waxed Exposed Cut Block Block 
+tile.cut_copper_block.weathered.name=Zvětralý řezaný měděný blok 
+tile.cut_copper_block.weathered.waxed.name=Voskovaný zvětralý řez měděný blok 
+tile.cut_copper_block.oxidized.name=Oxidovaný měděný blok 
+
+
+
+
+item.banner.base.white=Bílý Banner Base
+item.banner.base.orange=Oranžový Banner Base
+item.banner.base.magenta=Purpurová základna banneru
+item.banner.base.lightBlue=Světle modrá Banner Base
+item.banner.base.yellow=Žlutý Banner Base
+item.banner.base.lime=Lime Banner Base
+item.banner.base.pink=Růžový Banner Base
+item.banner.base.gray=Základna šedého banneru
+item.banner.base.silver=Světle šedá základna banneru
+item.banner.base.cyan=Základna azurového banneru
+item.banner.base.purple=Základna fialového banneru
+item.banner.base.blue=Modrý Banner Base
+item.banner.base.brown=Hnědá základna banneru
+item.banner.base.green=Základna zeleného banneru
+item.banner.base.red=Základna červeného praporu
+item.banner.base.black=Černá Banner Base
+
+
+createWorldScreen.gameMode.spectator=Divák
+createWorldScreen.gameMode.hardcore=Hardcore
+
+
+tile.colored_torch.red.name=Červená pochodeň
+tile.colored_torch.green.name=Zelená pochodeň
+
+
+tile.colored_torch.blue.name=Modrá pochodeň
+tile.colored_torch.purple.name=Fialová pochodeň
+
+
+tile.client_request_placeholder_block.name=Zástupný blok požadavku klienta
+item.spawn_egg.name=Potěr
+tile.glow_frame.name=Zářící rám
+tile.frame.name=Rám
+tile.flower_pot.name=Květináč
+tile.kelp.name=Kelp
+tile.double_stone_slab.wood.name=Zkamenělá dubová deska
+tile.waxed_oxidized_double_cut_copper_slab.name=Voskovaná oxidovaná dvojitě řezaná měděná deska
+tile.waxed_weathered_double_cut_copper_slab.name=Voskovaná zvětralá dvojitě řezaná měděná deska
+tile.waxed_exposed_double_cut_copper_slab.name=Voskovaná exponovaná dvojitě řezaná měděná deska
+tile.waxed_double_cut_copper_slab.name=Voskovaná dvojitě řezaná měděná deska
+tile.oxidized_double_cut_copper_slab.name=Oxidovaná dvojitě řezaná měděná deska
+tile.weathered_double_cut_copper_slab.name=Zvětralá dvojitě řezaná měděná deska
+tile.exposed_double_cut_copper_slab.name=Odkrytá dvojitě řezaná měděná deska
+tile.double_cut_copper_slab.name=Dvojitě řezaná měděná deska
+tile.double_stone_slab4.mossy_stone_brick.name=Dvojitá mechová kamenná cihlová deska
+tile.double_stone_slab3.end_brick.name=Oboustranná cihlová deska
+tile.polished_blackstone_double_slab.name=Dvojitá deska leštěná Blackstone
+tile.polished_blackstone_brick_double_slab.name=Dvojitá deska z leštěných cihel Blackstone
+tile.blackstone_double_slab.name=Blackstone Double Deska
+tile.lit_deepslate_redstone_ore.name=Lit Deepslate Redstone Rude
+tile.lit_redstone_ore.name=Zapálená ruda Redstone
+tile.unpowered_repeater.name=Nenapájený opakovač
+tile.powered_repeater.name=Napájený opakovač
+tile.powered_comparator.name=Poháněný komparátor
+tile.unpowered_comparator.name=Nenapájený komparátor
+tile.daylight_detector_inverted.name=Detektor převráceného denního světla
+tile.lit_redstone_lamp.name=Rozsvícená lampa Redstone
+tile.pistonarmcollision.name=Kolize ramene pístu
+tile.stickypistonarmcollision.name=Kolize lepivého ramene pístu
+tile.lit_furnace.name=Zapálená pec
+tile.lit_smoker.name=Zapálený kuřák
+tile.lit_blast_furnace.name=Zapálená vysoká pec
+tile.lava_cauldron.name=Lávový kotel
+tile.bamboo_sapling.oak.name=Dub bambusový stromek
+tile.bamboo_sapling.birch.name=Březový stromek bambusu
+tile.bamboo_sapling.acacia.name=Akátový bambusový stromek
+tile.bamboo_sapling.spruce.name=Smrkový bambusový stromek
+tile.bamboo_sapling.big_oak.name=Tmavý dub bambusový stromek
+tile.bamboo_sapling.jungle.name=Stromek bambusu z džungle
+tile.wall_banner.name=Nástěnný banner
+tile.wall_sign.name=Dubové nástěnné znamení
+tile.darkoak_wall_sign.name=Tmavý dub nástěnné znamení
+tile.acacia_wall_sign.name=Nástěnná cedule z akácie
+tile.jungle_wall_sign.name=Nápis na zeď džungle
+tile.birch_wall_sign.name=Bříza Nástěnné Znamení
+tile.spruce_wall_sign.name=Smrkové nástěnné znamení
+tile.warped_wall_sign.name=Pokřivené nástěnné znamení
+tile.crimson_wall_sign.name=Crimson Wall Sign
+tile.wooden_door.name=Dveře z dubového dřeva
+tile.dark_oak_door.name=Dřevěné dveře z tmavého dubu
+tile.acacia_door.name=Akátové dveře
+tile.birch_door.name=Březové dveře
+tile.spruce_door.name=Smrkové dveře
+tile.jungle_door.name=Dveře džungle

@@ -1,0 +1,124 @@
+item.glow_stick.black.name=Tongkat Cahaya Hitam 
+item.copper_horn.name=Tanduk Tembaga 
+
+
+tile.end_gateway.name=Gerbang Akhir
+tile.end_portal.name=Ubin Portal Akhir
+tile.end_portal_frame.name=Akhiri Bingkai Portal
+tile.glowingobsidian.name=Obsidian yang bersinar
+tile.underwater_torch.name=Obor Bawah Air 
+tile.purpur_block.smooth.name=Purpura Halus
+tile.reserved6.name=Dicadangkan 6
+tile.info_update.name=Perbarui Blok
+tile.info_update2.name=Perbarui Blok 2
+tile.chemical_heat.name=Panas Kimia 
+tile.hard_glass.name=Kaca Keras 
+tile.hard_glass_pane.name=Panel Kaca Keras 
+tile.stone_slab.wood.name=Lempengan Ek yang Membatu
+tile.allow.name=Izinkan 
+tile.deny.name=Tolak 
+tile.border_block.name=Perbatasan 
+tile.lava.name=Lava Statis
+tile.flowing_lava.name=Lava Mengalir
+tile.water.name=Air Statis
+tile.flowing_water.name=Air mengalir
+tile.bubble_column.name=Kolom Gelembung
+tile.movingBlock.name=Memindahkan Blok Ubin
+tile.powder_snow.name=Blok Salju Bubuk
+tile.chorus_plant.name=Batang paduan suara
+tile.cut_copper_block.name=Potong Blok Tembaga 
+tile.cut_copper_block.waxed.name=Blok Tembaga Potong Wax 
+tile.cut_copper_block.exposed.name=Blok Tembaga Potong Terbuka 
+tile.cut_copper_block.exposed.waxed.name=Blok Tembaga Potong Terkena Wax 
+tile.cut_copper_block.weathered.name=Blok Tembaga Potong Lapuk 
+tile.cut_copper_block.weathered.waxed.name=Blok Tembaga Potong Lapuk Lapuk 
+tile.cut_copper_block.oxidized.name=Blok Tembaga Potong Teroksidasi 
+
+
+
+
+item.banner.base.white=Basis Spanduk Putih
+item.banner.base.orange=Basis Spanduk Oranye
+item.banner.base.magenta=Basis Spanduk Magenta
+item.banner.base.lightBlue=Basis Spanduk Biru Muda
+item.banner.base.yellow=Pangkalan Spanduk Kuning
+item.banner.base.lime=Basis Spanduk Kapur
+item.banner.base.pink=Basis Spanduk Merah Muda
+item.banner.base.gray=Basis Spanduk Abu-abu
+item.banner.base.silver=Basis Spanduk Abu-abu Muda
+item.banner.base.cyan=Pangkalan Spanduk Cyan
+item.banner.base.purple=Basis Spanduk Ungu
+item.banner.base.blue=Pangkalan Spanduk Biru
+item.banner.base.brown=Basis Spanduk Coklat
+item.banner.base.green=Basis Spanduk Hijau
+item.banner.base.red=Pangkalan Spanduk Merah
+item.banner.base.black=Basis Spanduk Hitam
+
+
+createWorldScreen.gameMode.spectator=Penonton
+createWorldScreen.gameMode.hardcore=Hardcore
+
+
+tile.colored_torch.red.name=Obor Merah
+tile.colored_torch.green.name=Obor Hijau
+
+
+tile.colored_torch.blue.name=Obor Biru
+tile.colored_torch.purple.name=Obor Ungu
+
+
+tile.client_request_placeholder_block.name=Blok Placeholder Permintaan Klien
+item.spawn_egg.name=Muncul
+tile.glow_frame.name=Bingkai Cahaya
+tile.frame.name=Bingkai
+tile.flower_pot.name=Pot bunga
+tile.kelp.name=Kelp
+tile.double_stone_slab.wood.name=Lempengan Ek yang Membatu
+tile.waxed_oxidized_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Teroksidasi Wax
+tile.waxed_weathered_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Lapuk Lapuk
+tile.waxed_exposed_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Terkena Wax
+tile.waxed_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Berlilin
+tile.oxidized_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Teroksidasi
+tile.weathered_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Lapuk
+tile.exposed_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Terbuka
+tile.double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda
+tile.double_stone_slab4.mossy_stone_brick.name=Lempengan Batu Bata Berlumut Ganda
+tile.double_stone_slab3.end_brick.name=Lempengan Bata Ujung Ganda
+tile.polished_blackstone_double_slab.name=Pelat Ganda Blackstone yang Dipoles
+tile.polished_blackstone_brick_double_slab.name=Lempengan Batu Bata Ganda Batu Hitam yang Dipoles
+tile.blackstone_double_slab.name=Lempengan Ganda Blackstone
+tile.lit_deepslate_redstone_ore.name=Menyalakan Bijih Redstone Deepslate
+tile.lit_redstone_ore.name=Bijih Redstone yang menyala
+tile.unpowered_repeater.name=Repeater Tidak Bertenaga
+tile.powered_repeater.name=Penguat Bertenaga
+tile.powered_comparator.name=Pembanding Bertenaga
+tile.unpowered_comparator.name=Pembanding Tanpa Daya
+tile.daylight_detector_inverted.name=Detektor Siang Hari Terbalik
+tile.lit_redstone_lamp.name=Lampu Redstone menyala
+tile.pistonarmcollision.name=Tabrakan Lengan Piston
+tile.stickypistonarmcollision.name=Tabrakan Lengan Piston Lengket
+tile.lit_furnace.name=Menyalakan Furnace
+tile.lit_smoker.name=Menyalakan Perokok
+tile.lit_blast_furnace.name=Menyalakan Blast Furnace
+tile.lava_cauldron.name=Kuali Lava
+tile.bamboo_sapling.oak.name=Bibit Bambu Ek
+tile.bamboo_sapling.birch.name=Bibit Bambu Birch
+tile.bamboo_sapling.acacia.name=Bibit Bambu Akasia
+tile.bamboo_sapling.spruce.name=Bibit Bambu Cemara
+tile.bamboo_sapling.big_oak.name=Bibit Bambu Ek Gelap
+tile.bamboo_sapling.jungle.name=Bibit Bambu Hutan
+tile.wall_banner.name=Spanduk Dinding
+tile.wall_sign.name=Tanda Tembok Ek
+tile.darkoak_wall_sign.name=Tanda Tembok Ek Gelap
+tile.acacia_wall_sign.name=Tanda Dinding Akasia
+tile.jungle_wall_sign.name=Tanda Tembok Hutan
+tile.birch_wall_sign.name=Tanda Tembok Birch
+tile.spruce_wall_sign.name=Tanda Dinding Spruce
+tile.warped_wall_sign.name=Tanda Tembok Bengkok
+tile.crimson_wall_sign.name=Tanda Tembok Crimson
+tile.wooden_door.name=Pintu Kayu Ek
+tile.dark_oak_door.name=Pintu Kayu Ek Gelap
+tile.acacia_door.name=Pintu Akasia
+tile.birch_door.name=Pintu Birch
+tile.spruce_door.name=Pintu Cemara
+tile.jungle_door.name=Pintu Hutan
