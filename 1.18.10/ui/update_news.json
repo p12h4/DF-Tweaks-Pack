@@ -1,0 +1,51 @@
+{
+  "namespace": "update_news",
+
+
+  "news_panel@common_dialogs.main_panel_no_buttons": {
+    "size": ["80%", "80%"],
+    "$text_name": "Changelog",
+    "$child_control": "update_news.news_scrolling_panel"
+  },
+
+
+  "news_panel_content": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": ["100%", 256],
+    "offset": [4, 4],
+    "controls": [
+      {
+        "content": {
+          "type": "stack_panel",
+          "size": ["fill", "100%"],
+          "controls": [
+            {
+              "current_version": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "$pack_version"
+              }
+            },
+            {
+              "current_changelog": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- added glowstone visibility to zombified piglins\n- fixed \u0022[Geometry][error]-minecraft:tadpole | minecraft:tadpole | geometry not found?\u0022 Content Log Error\n- fixed the zombie villager glowstone model\n- minor changes and improvements\n- replaced deprecated molang queries with new ones\n- replaced the pack version text at the bottom of the screen with a toast notification\n"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+
+  "news_scrolling_panel@common.scrolling_panel": {
+    "$show_background": false,
+    "$scrolling_content": "update_news.news_panel_content"
+  }
+
+
+}

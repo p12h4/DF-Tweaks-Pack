@@ -1,0 +1,39 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.glowstone_worn.disabled": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "variable.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default",
+        "Texture.enchanted"
+      ],
+      "part_visibility": [
+        {
+          "head": false
+        }
+      ]
+    },
+    "controller.render.glowstone_worn.enabled": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "variable.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default",
+        "Texture.enchanted"
+      ],
+      "part_visibility": [
+        {
+          "head": true
+        }
+      ]
+    }
+  }
+}

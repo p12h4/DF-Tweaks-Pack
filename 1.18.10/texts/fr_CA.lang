@@ -1,0 +1,124 @@
+item.glow_stick.black.name=Bâton Lumineux Noir 
+item.copper_horn.name=Corne en cuivre 
+
+
+tile.end_gateway.name=Passerelle de fin
+tile.end_portal.name=Tuile de portail de fin
+tile.end_portal_frame.name=Portique de fin
+tile.glowingobsidian.name=Obsidienne incandescente
+tile.underwater_torch.name=Torche sous-marine 
+tile.purpur_block.smooth.name=Purpur lisse
+tile.reserved6.name=Réservé 6
+tile.info_update.name=Mettre à jour le bloc
+tile.info_update2.name=Mettre à jour le bloc 2
+tile.chemical_heat.name=Chaleur chimique 
+tile.hard_glass.name=Verre dur 
+tile.hard_glass_pane.name=Vitre en verre dur 
+tile.stone_slab.wood.name=Dalle de chêne pétrifié
+tile.allow.name=Autoriser 
+tile.deny.name=Refuser 
+tile.border_block.name=Bordure 
+tile.lava.name=Lave statique
+tile.flowing_lava.name=Lave qui coule
+tile.water.name=Eau statique
+tile.flowing_water.name=Eau qui coule
+tile.bubble_column.name=Colonne à bulles
+tile.movingBlock.name=Tuile de bloc mobile
+tile.powder_snow.name=Bloc de neige poudreuse
+tile.chorus_plant.name=Tige de chœur
+tile.cut_copper_block.name=Couper le bloc de cuivre 
+tile.cut_copper_block.waxed.name=Bloc de cuivre taillé ciré 
+tile.cut_copper_block.exposed.name=Bloc de cuivre coupé exposé 
+tile.cut_copper_block.exposed.waxed.name=Bloc de cuivre coupé exposé ciré 
+tile.cut_copper_block.weathered.name=Bloc de cuivre coupé par les intempéries 
+tile.cut_copper_block.weathered.waxed.name=Bloc de cuivre ciré et patiné 
+tile.cut_copper_block.oxidized.name=Bloc de cuivre coupé oxydé 
+
+
+
+
+item.banner.base.white=Base de bannière blanche
+item.banner.base.orange=Base de bannière orange
+item.banner.base.magenta=Base de bannière magenta
+item.banner.base.lightBlue=Base de bannière bleu clair
+item.banner.base.yellow=Base de bannière jaune
+item.banner.base.lime=Base de bannière de citron vert
+item.banner.base.pink=Base de bannière rose
+item.banner.base.gray=Base de bannière grise
+item.banner.base.silver=Base de bannière gris clair
+item.banner.base.cyan=Base de bannière cyan
+item.banner.base.purple=Base de bannière violette
+item.banner.base.blue=Base de la bannière bleue
+item.banner.base.brown=Base de bannière marron
+item.banner.base.green=Base de bannière verte
+item.banner.base.red=Base de bannière rouge
+item.banner.base.black=Base de bannière noire
+
+
+createWorldScreen.gameMode.spectator=Spectateur
+createWorldScreen.gameMode.hardcore=Hardcore
+
+
+tile.colored_torch.red.name=Torche rouge
+tile.colored_torch.green.name=Torche verte
+
+
+tile.colored_torch.blue.name=Torche bleue
+tile.colored_torch.purple.name=Torche violette
+
+
+tile.client_request_placeholder_block.name=Bloc d'espace réservé de demande client
+item.spawn_egg.name=Frayer
+tile.glow_frame.name=Cadre lumineux
+tile.frame.name=Cadre
+tile.flower_pot.name=Pot de fleur
+tile.kelp.name=Varech
+tile.double_stone_slab.wood.name=Dalle de chêne pétrifié
+tile.waxed_oxidized_double_cut_copper_slab.name=Dalle de cuivre double coupe oxydée cirée
+tile.waxed_weathered_double_cut_copper_slab.name=Dalle de cuivre à double coupe cirée et patinée
+tile.waxed_exposed_double_cut_copper_slab.name=Dalle de cuivre à double coupe exposée cirée
+tile.waxed_double_cut_copper_slab.name=Dalle de cuivre double coupe cirée
+tile.oxidized_double_cut_copper_slab.name=Dalle de cuivre à double coupe oxydée
+tile.weathered_double_cut_copper_slab.name=Dalle de cuivre à double coupe patinée
+tile.exposed_double_cut_copper_slab.name=Dalle de cuivre à double coupe exposée
+tile.double_cut_copper_slab.name=Dalle de cuivre à double coupe
+tile.double_stone_slab4.mossy_stone_brick.name=Dalle de brique en pierre double moussue
+tile.double_stone_slab3.end_brick.name=Dalle de brique à double extrémité
+tile.polished_blackstone_double_slab.name=Dalle double en pierre noire polie
+tile.polished_blackstone_brick_double_slab.name=Dalle double en brique Blackstone polie
+tile.blackstone_double_slab.name=Dalle Double Blackstone
+tile.lit_deepslate_redstone_ore.name=Minerai de redstone d'ardoise profonde allumé
+tile.lit_redstone_ore.name=Minerai de redstone allumé
+tile.unpowered_repeater.name=Répéteur non alimenté
+tile.powered_repeater.name=Répéteur alimenté
+tile.powered_comparator.name=Comparateur alimenté
+tile.unpowered_comparator.name=Comparateur non alimenté
+tile.daylight_detector_inverted.name=Détecteur de lumière du jour inversé
+tile.lit_redstone_lamp.name=Lampe de Redstone allumée
+tile.pistonarmcollision.name=Collision du bras de piston
+tile.stickypistonarmcollision.name=Collision du bras de piston collant
+tile.lit_furnace.name=Four allumé
+tile.lit_smoker.name=Fumeur allumé
+tile.lit_blast_furnace.name=Haut fourneau allumé
+tile.lava_cauldron.name=Chaudron de lave
+tile.bamboo_sapling.oak.name=Jeune pousse de bambou de chêne
+tile.bamboo_sapling.birch.name=Jeune arbre de bambou de bouleau
+tile.bamboo_sapling.acacia.name=Jeune pousse de bambou d'acacia
+tile.bamboo_sapling.spruce.name=Jeune pousse de bambou épicéa
+tile.bamboo_sapling.big_oak.name=Jeune pousse de bambou en chêne foncé
+tile.bamboo_sapling.jungle.name=Jeune pousse de bambou de la jungle
+tile.wall_banner.name=Bannière murale
+tile.wall_sign.name=Panneau mural en chêne
+tile.darkoak_wall_sign.name=Panneau mural en chêne foncé
+tile.acacia_wall_sign.name=Panneau mural en acacia
+tile.jungle_wall_sign.name=Panneau mural de la jungle
+tile.birch_wall_sign.name=Panneau mural en bouleau
+tile.spruce_wall_sign.name=Panneau mural en épicéa
+tile.warped_wall_sign.name=Panneau mural déformé
+tile.crimson_wall_sign.name=Panneau mural cramoisi
+tile.wooden_door.name=Porte en bois de chêne
+tile.dark_oak_door.name=Porte en bois de chêne foncé
+tile.acacia_door.name=Porte en acacia
+tile.birch_door.name=Porte en bouleau
+tile.spruce_door.name=Porte en épicéa
+tile.jungle_door.name=Porte de la jungle

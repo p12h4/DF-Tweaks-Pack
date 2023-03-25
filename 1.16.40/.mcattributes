@@ -1,0 +1,4 @@
+diagnostic.disable.258=true
+diagnostic.disable.minecraft.animation.unused=true
+diagnostic.disable.resourcepack.render_controller.missing=true
+diagnostic.disable.resourcepack.texture.undefined=true

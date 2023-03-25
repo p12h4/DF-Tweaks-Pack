@@ -1,0 +1,124 @@
+item.glow_stick.black.name=Bastão luminoso preto 
+item.copper_horn.name=Chifre de Cobre 
+
+
+tile.end_gateway.name=End Gateway
+tile.end_portal.name=Bloco do Portal do Fim
+tile.end_portal_frame.name=Moldura do portal final
+tile.glowingobsidian.name=Obsidiana Brilhante
+tile.underwater_torch.name=Lanterna subaquática 
+tile.purpur_block.smooth.name=Púrpuro Suave
+tile.reserved6.name=Reservado 6
+tile.info_update.name=Bloco de atualização
+tile.info_update2.name=Bloco de atualização 2
+tile.chemical_heat.name=Calor Químico 
+tile.hard_glass.name=Vidro Duro 
+tile.hard_glass_pane.name=Painel de vidro rígido 
+tile.stone_slab.wood.name=Placa de Carvalho Petrificado
+tile.allow.name=Permitir 
+tile.deny.name=Negar 
+tile.border_block.name=Borda 
+tile.lava.name=lava estática
+tile.flowing_lava.name=lava fluindo
+tile.water.name=água estática
+tile.flowing_water.name=Água corrente
+tile.bubble_column.name=Coluna de Bolha
+tile.movingBlock.name=Bloco de Movimentação
+tile.powder_snow.name=Bloco de neve em pó
+tile.chorus_plant.name=Refrão
+tile.cut_copper_block.name=Bloco de cobre cortado 
+tile.cut_copper_block.waxed.name=Bloco de cobre cortado encerado 
+tile.cut_copper_block.exposed.name=Bloco de cobre cortado exposto 
+tile.cut_copper_block.exposed.waxed.name=Bloco de cobre cortado exposto encerado 
+tile.cut_copper_block.weathered.name=Bloco de Cobre Cortado Envelhecido 
+tile.cut_copper_block.weathered.waxed.name=Bloco de cobre cortado envelhecido encerado 
+tile.cut_copper_block.oxidized.name=Bloco de Cobre Oxidado 
+
+
+
+
+item.banner.base.white=Base de faixa branca
+item.banner.base.orange=Base de Banner Laranja
+item.banner.base.magenta=Base de Banner Magenta
+item.banner.base.lightBlue=Base de banner azul claro
+item.banner.base.yellow=Bandeira Amarela Base
+item.banner.base.lime=Base de Bandeira de Limão
+item.banner.base.pink=Base de Banner Rosa
+item.banner.base.gray=Base de banner cinza
+item.banner.base.silver=Base de banner cinza claro
+item.banner.base.cyan=Base de Banner Ciano
+item.banner.base.purple=Base de Banner Roxo
+item.banner.base.blue=Base da Bandeira Azul
+item.banner.base.brown=Base de Banner Marrom
+item.banner.base.green=Bandeira Verde Base
+item.banner.base.red=Base da Bandeira Vermelha
+item.banner.base.black=Base de bandeira preta
+
+
+createWorldScreen.gameMode.spectator=Espectador
+createWorldScreen.gameMode.hardcore=Hardcore
+
+
+tile.colored_torch.red.name=Tocha Vermelha
+tile.colored_torch.green.name=Tocha Verde
+
+
+tile.colored_torch.blue.name=Tocha Azul
+tile.colored_torch.purple.name=Tocha Roxa
+
+
+tile.client_request_placeholder_block.name=Bloco de espaço reservado para solicitação do cliente
+item.spawn_egg.name=Gerar
+tile.glow_frame.name=Moldura Brilhante
+tile.frame.name=Quadro
+tile.flower_pot.name=Vaso de flores
+tile.kelp.name=Kelp
+tile.double_stone_slab.wood.name=Placa de Carvalho Petrificado
+tile.waxed_oxidized_double_cut_copper_slab.name=Laje de cobre de corte duplo oxidado encerado
+tile.waxed_weathered_double_cut_copper_slab.name=Laje de cobre de corte duplo encerado envelhecido
+tile.waxed_exposed_double_cut_copper_slab.name=Laje de cobre de corte duplo exposta encerada
+tile.waxed_double_cut_copper_slab.name=Placa de cobre de corte duplo encerada
+tile.oxidized_double_cut_copper_slab.name=Laje de cobre de corte duplo oxidado
+tile.weathered_double_cut_copper_slab.name=Laje de Cobre de Corte Duplo Envelhecido
+tile.exposed_double_cut_copper_slab.name=Laje de Cobre de Corte Duplo Exposto
+tile.double_cut_copper_slab.name=Laje de cobre de corte duplo
+tile.double_stone_slab4.mossy_stone_brick.name=Laje de tijolo de pedra musgosa dupla
+tile.double_stone_slab3.end_brick.name=Laje de tijolo de extremidade dupla
+tile.polished_blackstone_double_slab.name=Laje dupla de pedra negra polida
+tile.polished_blackstone_brick_double_slab.name=Laje Dupla de Tijolo Blackstone Polido
+tile.blackstone_double_slab.name=Blackstone Laje Dupla
+tile.lit_deepslate_redstone_ore.name=Minério de Redstone Ardósia Acesa
+tile.lit_redstone_ore.name=Minério de Redstone Aceso
+tile.unpowered_repeater.name=Repetidor sem energia
+tile.powered_repeater.name=Repetidor Alimentado
+tile.powered_comparator.name=Comparador Alimentado
+tile.unpowered_comparator.name=Comparador não alimentado
+tile.daylight_detector_inverted.name=Detector de luz do dia invertido
+tile.lit_redstone_lamp.name=Lâmpada Redstone Acesa
+tile.pistonarmcollision.name=Colisão do Braço do Pistão
+tile.stickypistonarmcollision.name=Colisão de braço de pistão pegajoso
+tile.lit_furnace.name=forno aceso
+tile.lit_smoker.name=fumante aceso
+tile.lit_blast_furnace.name=Alto Forno Aceso
+tile.lava_cauldron.name=caldeirão de lava
+tile.bamboo_sapling.oak.name=Muda de Bambu de Carvalho
+tile.bamboo_sapling.birch.name=muda de bambu de bétula
+tile.bamboo_sapling.acacia.name=muda de bambu acácia
+tile.bamboo_sapling.spruce.name=Muda de Bambu Spruce
+tile.bamboo_sapling.big_oak.name=Muda de Bambu Carvalho Escuro
+tile.bamboo_sapling.jungle.name=muda de bambu da selva
+tile.wall_banner.name=Banner de parede
+tile.wall_sign.name=Sinal de parede de carvalho
+tile.darkoak_wall_sign.name=Sinal de parede de carvalho escuro
+tile.acacia_wall_sign.name=Sinal de parede de acácia
+tile.jungle_wall_sign.name=Sinal de parede da selva
+tile.birch_wall_sign.name=sinal de parede de bétula
+tile.spruce_wall_sign.name=Sinal de parede em abeto
+tile.warped_wall_sign.name=Sinal de parede distorcido
+tile.crimson_wall_sign.name=Sinal de parede carmesim
+tile.wooden_door.name=Porta de madeira de carvalho
+tile.dark_oak_door.name=Porta de madeira de carvalho escuro
+tile.acacia_door.name=porta acácia
+tile.birch_door.name=porta de bétula
+tile.spruce_door.name=porta de abeto
+tile.jungle_door.name=porta da selva
