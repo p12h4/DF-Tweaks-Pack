@@ -112,3 +112,8 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - minor changes and improvements
 - replaced deprecated molang queries with new ones
 - replaced the pack version text at the bottom of the screen with a toast notification
+
+4.2.2:
+- fixed german translations
+- internal changes
+- removed the panorama for now as it was broken

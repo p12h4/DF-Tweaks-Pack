@@ -36,68 +36,35 @@
   "element_1": {
     "textures": "element_label_1"
   },
+  "element_2": {
+    "textures": "element_label_2"
+  },
+  "element_3": {
+    "textures": "element_label_3"
+  },
+  "element_4": {
+    "textures": "element_label_4"
+  },
+  "element_5": {
+    "textures": "element_label_5"
+  },
+  "element_6": {
+    "textures": "element_label_6"
+  },
+  "element_7": {
+    "textures": "element_label_7"
+  },
+  "element_8": {
+    "textures": "element_label_8"
+  },
+  "element_9": {
+    "textures": "element_label_9"
+  },
   "element_10": {
     "textures": "element_label_10"
   },
-  "element_100": {
-    "textures": "element_label_100"
-  },
-  "element_101": {
-    "textures": "element_label_101"
-  },
-  "element_102": {
-    "textures": "element_label_102"
-  },
-  "element_103": {
-    "textures": "element_label_103"
-  },
-  "element_104": {
-    "textures": "element_label_104"
-  },
-  "element_105": {
-    "textures": "element_label_105"
-  },
-  "element_106": {
-    "textures": "element_label_106"
-  },
-  "element_107": {
-    "textures": "element_label_107"
-  },
-  "element_108": {
-    "textures": "element_label_108"
-  },
-  "element_109": {
-    "textures": "element_label_109"
-  },
   "element_11": {
     "textures": "element_label_11"
-  },
-  "element_110": {
-    "textures": "element_label_110"
-  },
-  "element_111": {
-    "textures": "element_label_111"
-  },
-  "element_112": {
-    "textures": "element_label_112"
-  },
-  "element_113": {
-    "textures": "element_label_113"
-  },
-  "element_114": {
-    "textures": "element_label_114"
-  },
-  "element_115": {
-    "textures": "element_label_115"
-  },
-  "element_116": {
-    "textures": "element_label_116"
-  },
-  "element_117": {
-    "textures": "element_label_117"
-  },
-  "element_118": {
-    "textures": "element_label_118"
   },
   "element_12": {
     "textures": "element_label_12"
@@ -122,9 +89,6 @@
   },
   "element_19": {
     "textures": "element_label_19"
-  },
-  "element_2": {
-    "textures": "element_label_2"
   },
   "element_20": {
     "textures": "element_label_20"
@@ -156,9 +120,6 @@
   "element_29": {
     "textures": "element_label_29"
   },
-  "element_3": {
-    "textures": "element_label_3"
-  },
   "element_30": {
     "textures": "element_label_30"
   },
@@ -188,9 +149,6 @@
   },
   "element_39": {
     "textures": "element_label_39"
-  },
-  "element_4": {
-    "textures": "element_label_4"
   },
   "element_40": {
     "textures": "element_label_40"
@@ -222,9 +180,6 @@
   "element_49": {
     "textures": "element_label_49"
   },
-  "element_5": {
-    "textures": "element_label_5"
-  },
   "element_50": {
     "textures": "element_label_50"
   },
@@ -254,9 +209,6 @@
   },
   "element_59": {
     "textures": "element_label_59"
-  },
-  "element_6": {
-    "textures": "element_label_6"
   },
   "element_60": {
     "textures": "element_label_60"
@@ -288,9 +240,6 @@
   "element_69": {
     "textures": "element_label_69"
   },
-  "element_7": {
-    "textures": "element_label_7"
-  },
   "element_70": {
     "textures": "element_label_70"
   },
@@ -320,9 +269,6 @@
   },
   "element_79": {
     "textures": "element_label_79"
-  },
-  "element_8": {
-    "textures": "element_label_8"
   },
   "element_80": {
     "textures": "element_label_80"
@@ -354,9 +300,6 @@
   "element_89": {
     "textures": "element_label_89"
   },
-  "element_9": {
-    "textures": "element_label_9"
-  },
   "element_90": {
     "textures": "element_label_90"
   },
@@ -386,6 +329,63 @@
   },
   "element_99": {
     "textures": "element_label_99"
+  },
+  "element_100": {
+    "textures": "element_label_100"
+  },
+  "element_101": {
+    "textures": "element_label_101"
+  },
+  "element_102": {
+    "textures": "element_label_102"
+  },
+  "element_103": {
+    "textures": "element_label_103"
+  },
+  "element_104": {
+    "textures": "element_label_104"
+  },
+  "element_105": {
+    "textures": "element_label_105"
+  },
+  "element_106": {
+    "textures": "element_label_106"
+  },
+  "element_107": {
+    "textures": "element_label_107"
+  },
+  "element_108": {
+    "textures": "element_label_108"
+  },
+  "element_109": {
+    "textures": "element_label_109"
+  },
+  "element_110": {
+    "textures": "element_label_110"
+  },
+  "element_111": {
+    "textures": "element_label_111"
+  },
+  "element_112": {
+    "textures": "element_label_112"
+  },
+  "element_113": {
+    "textures": "element_label_113"
+  },
+  "element_114": {
+    "textures": "element_label_114"
+  },
+  "element_115": {
+    "textures": "element_label_115"
+  },
+  "element_116": {
+    "textures": "element_label_116"
+  },
+  "element_117": {
+    "textures": "element_label_117"
+  },
+  "element_118": {
+    "textures": "element_label_118"
   },
   "fire": {
     "blockshape": "block",

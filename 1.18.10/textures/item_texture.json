@@ -4,6 +4,12 @@
   "num_mip_levels": 4,
   "padding": 8,
   "texture_data": {
+    "balloon": {
+      "textures": "textures/items/balloon"
+    },
+    "bleach": {
+      "textures": "textures/items/bleach"
+    },
     "compound": {
       "textures": [
         "textures/items/compounds/salt", //salt
@@ -50,15 +56,6 @@
     "ice_bomb": {
       "textures": "textures/items/ice_bomb"
     },
-    "bleach": {
-      "textures": "textures/items/bleach"
-    },
-    "rapid_fertilizer": {
-      "textures": "textures/items/rapid_fertilizer"
-    },
-    "balloon": {
-      "textures": "textures/items/balloon"
-    },
     "medicine": {
       "textures": [
         "textures/items/medicine_blindness",
@@ -66,6 +63,9 @@
         "textures/items/medicine_poison",
         "textures/items/medicine_weakness"
       ]
+    },
+    "rapid_fertilizer": {
+      "textures": "textures/items/rapid_fertilizer"
     },
     "sparkler": {
       "textures": [

@@ -217,7 +217,7 @@
           "$hover_button_texture": "textures/ui/Marketplace_Hover",
           "$pressed_button_texture": "textures/ui/Marketplace_Hover",
           "$default_text_color": [0, 0, 0],
-          "$light_button_hover_text_color": [0.499, 0.195, 0.515], // Equation to convert an RGB Value from the 0-255 range to the 0-1 scale: RGB / 255
+          "$light_button_hover_text_color": [0.499, 0.195, 0.515],
           "$light_button_pressed_text_color": [1, 1, 1],
           "$light_border_default_color": [0.075, 0.075, 0.075],
           "$light_border_hover_color": [1, 1, 0.086],
