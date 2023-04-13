@@ -21,9 +21,13 @@ function BuildPack($Folders) {
       Write-Host "Adding Folder: `"$Folder`" to `"$cd\Discontinued.Feature.Tweaks.$Folder.mcpack`""
       Copy-Item -Recurse -Force -Path "$Folder" -Destination "$cd\temp"
       CompressJSONs "$cd\temp\$Folder\attachables", "$cd\temp\$Folder\entity", "$cd\temp\$Folder\items", "$cd\temp\$Folder\models\entity", "$cd\temp\$Folder\render_controllers"
-      [System.IO.Compression.ZipFile]::CreateFromDirectory("$cd\temp\$Folder", "$cd\Discontinued.Feature.Tweaks.$Folder.zip")
-      Rename-Item -ErrorAction Continue -Force "$cd\Discontinued.Feature.Tweaks.$Folder.zip" "$cd\Discontinued.Feature.Tweaks.$Folder.mcpack"
+      if ([bool](Test-Path -Path "$cd\Discontinued.Feature.Tweaks.$Folder.mcpack") -eq $True) {
+         Remove-Item -Force -Path "$cd\Discontinued.Feature.Tweaks.$Folder.mcpack"
+      }
+      [System.IO.Compression.ZipFile]::CreateFromDirectory("$cd\temp\$Folder", "$cd\temp\Discontinued.Feature.Tweaks.$Folder.zip")
+      Rename-Item -ErrorAction Continue -Force "$cd\temp\Discontinued.Feature.Tweaks.$Folder.zip" "$cd\temp\Discontinued.Feature.Tweaks.$Folder.mcpack"
    }
+   Move-Item -Path "$cd\temp\*.mcpack" -Destination "$cd"
    Remove-Item -Recurse -Force -Path "$cd\temp"
 }
 
