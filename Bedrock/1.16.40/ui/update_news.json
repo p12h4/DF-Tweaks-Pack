@@ -1,0 +1,101 @@
+{
+  "namespace": "update_news",
+
+   /*
+   ==============================
+        Screen
+   ==============================
+  */
+  "news_panel@common_dialogs.main_panel_no_buttons": {
+    "size": ["80%", "80%"],
+    "$text_name": "Changelog",
+    "$child_control": "update_news.news_scrolling_panel"
+  },
+  "news_scrolling_panel@common.scrolling_panel": {
+    "$show_background": false,
+    "$scrolling_content": "update_news.news_panel_content"
+  },
+
+  /*
+   ==============================
+        Screen Content
+   ==============================
+  */
+  "news_panel_content": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": ["100%", 256],
+    "offset": [4, 4],
+    "controls": [
+      {
+        "content": {
+          "type": "stack_panel",
+          "size": ["fill", "100%"],
+          "controls": [
+            {
+              "current_version": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "$pack_version"
+              }
+            },
+            {
+              "current_changelog": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- more internal changes\n- reduced texture file sizes using pngquant\n- resolved an issue where nether sprout tiles were displaying excessively large in item frames\n"
+              }
+            },
+            {
+              "previous_version_1_1": {
+                "type": "label",
+                "font_scale_factor": 0.9,
+                "text": "\nPrevious Version"
+              }
+            },
+            {
+              "previous_version_1_2": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "\nPack Version: 4.2.2-1"
+              }
+            },
+            {
+              "previous_changelog_1": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- fixed german translations\n- internal changes\n- removed the panorama for now as it was broken\n"
+              }
+            },
+            {
+              "previous_version_2_1": {
+                "type": "label",
+                "font_scale_factor": 0.9,
+                "text": "\nPrevious Version"
+              }
+            },
+            {
+              "previous_version_2_2": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "\nPack Version: 4.2.1"
+              }
+            },
+            {
+              "previous_changelog_2": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- added glowstone visibility to zombified piglins\n- fixed \u0022[Geometry][error]-minecraft:tadpole | minecraft:tadpole | geometry not found?\u0022 Content Log Error\n- fixed the zombie villager glowstone model\n- minor changes and improvements\n- replaced deprecated molang queries with new ones\n- replaced the pack version text at the bottom of the screen with a toast notification\n"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+
+
+}
