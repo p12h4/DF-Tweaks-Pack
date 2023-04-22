@@ -1,3 +1,6 @@
+#requires -Version 6.0
+#requires -PSEdition Core
+
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 $cd = $PSScriptRoot
 
