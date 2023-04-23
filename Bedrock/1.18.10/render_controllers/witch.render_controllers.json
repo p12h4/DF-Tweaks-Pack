@@ -1,0 +1,35 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.witch": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "part_visibility": [
+        {
+          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')",
+          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+        }
+      ],
+      "textures": ["Texture.default"]
+    },
+    "controller.render.witch.v1.0": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "part_visibility": [
+        {
+          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')",
+          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+        }
+      ],
+      "textures": ["Texture.default"]
+    }
+  }
+}

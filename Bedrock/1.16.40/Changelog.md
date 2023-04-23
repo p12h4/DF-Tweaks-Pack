@@ -122,3 +122,7 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - more internal changes
 - reduced texture file sizes using pngquant
 - resolved an issue where nether sprout tiles were displaying excessively large in item frames
+
+4.2.3:
+- added a distinguishable texture to tamed ocelots
+- added glowstone visibility to witches

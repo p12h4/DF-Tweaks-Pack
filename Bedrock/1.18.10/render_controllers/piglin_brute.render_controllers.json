@@ -10,10 +10,7 @@
       ],
       "part_visibility": [
         {
-          "leftear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
-        },
-        {
-          "rightear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "*ear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
         }
       ],
       "textures": ["Texture.default"]
