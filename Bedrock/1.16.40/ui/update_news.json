@@ -44,7 +44,7 @@
               "current_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- added a distinguishable texture to tamed ocelots\n- added glowstone visibility to witches"
+                "text": "- added a distinguishable water color to deep warm oceans\n- added unique water colors to the remaining Nether biomes that previously had the same color as the default color\n- resolved an issue where the pack notification was appearing below the title image"
               }
             },
             {
@@ -59,14 +59,14 @@
                 "type": "label",
                 "font_scale_factor": 0.8,
                 "color": [0.4, 0.4, 0.4],
-                "text": "\nPack Version: 4.2.2-2"
+                "text": "\nPack Version: 4.2.3"
               }
             },
             {
               "previous_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- more internal changes\n- reduced texture file sizes using pngquant\n- resolved an issue where nether sprout tiles were displaying excessively large in item frames\n"
+                "text": "- added a distinguishable texture to tamed ocelots\n- added glowstone visibility to witches"
               }
             }
           ]

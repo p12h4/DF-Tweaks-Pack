@@ -13,52 +13,52 @@
 - Made Glowstone visible on other mobs
 
 1.0.3:
-- Added more tile.name items to the lang files
+- added more tile.name items to the lang files
 
 1.0.4:
-- Added the Trading Helper Texture Pack from https://bedrocktweaks.net/resource-packs/
+- added the Trading Helper Texture Pack from https://bedrocktweaks.net/resource-packs/
 
 1.0.5:
-- Added Textures to Mysterious Frames and Mysterious Frame Slots
+- added Textures to Mysterious Frames and Mysterious Frame Slots
 
 1.0.6-1:
-- Added Sounds to Mysterious Frames and Mysterious Frame Slots
-- Added a different texture for missing textures
-- Made Glowstone Visible on Zombie Villagers, Wither Skeletons, Piglin Brutes and Zombified Piglins
+- added Sounds to Mysterious Frames and Mysterious Frame Slots
+- added a different texture for missing textures
+- made Glowstone Visible on Zombie Villagers, Wither Skeletons, Piglin Brutes and Zombified Piglins
 
 1.0.6-2:
-- Made Glowstone visible on Piglins
+- made Glowstone visible on Piglins
 
 2.0.0:
-- Added the Directional Observers Pack from https://bedrocktweaks.net/resource-packs/
-- Fixed the bug where glowstone will render on your head even if you aren't wearing Glowstone! Huge thanks to voidredstone#3664 for fixing it! This fix only works for 1.18.10 and above
+- added the Directional Observers Pack from https://bedrocktweaks.net/resource-packs/
+- fixed the bug where glowstone will render on your head even if you aren't wearing Glowstone! Huge thanks to voidredstone#3664 for fixing it! This fix only works for 1.18.10 and above
 
 2.1.0:
-- Changed the Mysterious Frame textures
+- changed the Mysterious Frame textures
 
 2.2.0:
-- Added support for 1.16.220 & .221
-- Added textures to Compound Creators, Lab Tables, Material Reducers, Element Constructors, Hardened Stained Glass (all colors) and Element blocks
-- Added the original copper block textures to the old cut copper
+- added support for 1.16.220 & .221
+- added textures to Compound Creators, Lab Tables, Material Reducers, Element Constructors, Hardened Stained Glass (all colors) and Element blocks
+- added the original copper block textures to the old cut copper
 
 2.2.1:
-- Added a red outline to all crash blocks that can be obtained at the moment
-- Added textures to colored Torches
+- added a red outline to all crash blocks that can be obtained at the moment
+- added textures to colored Torches
 
 3.0.0:
-- Added a slightly different texture to Petrified Oak Slabs to be able to distinguish them from normal Oak Slabs
-- Added the pack version to the texture pack name
-- Merged the Fire Visualizer Texture Pack with Discontinued Feature Tweaks
-- The pack now works from 1.16.100 - present version (Some features may not work in 1.16.100 but everything should work in 1.16.210 and above)
-- Updated the description
+- added a slightly different texture to Petrified Oak Slabs to be able to distinguish them from normal Oak Slabs
+- added the pack version to the texture pack name
+- merged the Fire Visualizer Texture Pack with Discontinued Feature Tweaks
+- the pack now works from 1.16.100 - present version (Some features may not work in 1.16.100 but everything should work in 1.16.210 and above)
+- updated the description
 
 4.0.0:
-- Added Chorus Plants to the .lang files and renamed them to Chrous Stems
-- Added a custom icon:
+- added Chorus Plants to the .lang files and renamed them to Chrous Stems
+- added a custom icon:
   • EDU logo (U+E0BF: )
-- Added a red outline to White Hardened Stained Glass
-- Changed the panorama (Same seed, but day time instead of night time)
-- Illegals now have rarities. Any illegals that aren't mentioned are common. List of rarities:
+- added a red outline to White Hardened Stained Glass
+- changed the panorama (Same seed, but day time instead of night time)
+- illegals now have rarities. Any illegals that aren't mentioned are common. List of rarities:
 
 Uncommon (yellow hover color): Update Block, Update Block 2, Reserved 6, Chemical Heat, Hard Glass, Hard Glass Panes, Allow, Deny
 
@@ -67,15 +67,15 @@ Rare (cyan hover color): Unknown, Lit Furnace, Bedrock, Chorus Plant, Underwater
 Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigsaw Blocks, Mob Spawners, Barriers, Structure Void, Structure Block, Command Block (all variants), Light Block (all variants), Monster Eggs (all variants), Portal, Black Glow Stick, Invisible Bedrock
 
 4.1.0:
-- Added Cut Copper Blocks (Removed ones, not the current ones) to the "Epic" rarity
-- Added a custom icon:
+- added Cut Copper Blocks (Removed ones, not the current ones) to the "Epic" rarity
+- added a custom icon:
   • "Removed Item" logo (U+E09F: )
-- Added more strings to the .lang files
+- added more strings to the .lang files
 
 4.1.1:
-- Added Nether wall signs to the lang files
-- Added the pack version at the bottom of the start screen
-- Removed unnecessary code in the ui files which now makes the pack compatible with older minecraft versions
+- added Nether wall signs to the lang files
+- added the pack version at the bottom of the start screen
+- removed unnecessary code in the ui files which now makes the pack compatible with older minecraft versions
 
 4.2.0 (first github release):
 - 1.18.10+ Glowstone Entity Rendering is now selected by default
@@ -99,9 +99,9 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - fixed lang file errors
 - fixed the order of texture_list.json and updated it
 - fixed the start screen ui
-- from now on, there will be a 1.16.40-1.18.2 variant and a 1.18.10+ variant of the resource pack
 - removed unused entries in blocks.json
 - the pack is now compatible with 1.16.40
+  • from now on, there will be a 1.16.40-1.18.2 variant and a 1.18.10+ variant of the resource pack
 - updated broken anvil textures (added a white outline at the top of the anvil)
 - updated the manifest description
 
@@ -126,3 +126,8 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 4.2.3:
 - added a distinguishable texture to tamed ocelots
 - added glowstone visibility to witches
+
+4.2.4:
+- added a distinguishable water color to deep warm oceans
+- added unique water colors to the remaining Nether biomes that previously had the same color as the default color
+- resolved an issue where the pack notification was appearing below the title image

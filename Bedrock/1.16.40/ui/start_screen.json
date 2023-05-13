@@ -56,6 +56,7 @@
   */
   "pack_toast_notification": {
     "type": "panel",
+    "layer": 75,
     "$toast_animation": ["@start.toast_animation_init"],
     "bindings": [
       {
@@ -79,7 +80,7 @@
               "label": {
                 "type": "label",
                 "size": [200, "default"],
-                "text": "('Discontinued Feature Tweaks (1.16.40 - 1.18.2)\n' + $pack_version)",
+                "text": "('Discontinued Feature Tweaks (1.18.10+)\n' + $pack_version)",
                 "text_alignment": "center",
                 "font_scale_factor": 0.7,
                 "font_type": "MinecraftTen"

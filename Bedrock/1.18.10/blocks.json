@@ -27,7 +27,6 @@
     "textures": "colored_torch"
   },
   "cut_copper_block": {
-    "sound": "copper",
     "textures": "cut_copper_block"
   },
   "element_0": {

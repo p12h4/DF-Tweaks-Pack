@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "DF:glowstone_worn.zombie_villager_v2",
+      "identifier": "Tweaks:glowstone_worn.zombie_villager_v2",
       "item": {
         "minecraft:glowstone": "query.is_owner_identifier_any('minecraft:zombie_villager_v2') == 1.0"
       },
