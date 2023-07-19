@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Муха (старий)
+item.minecraft.goat_horn.sound.9=Мрія (стара)
+
+
+
 ## Banner Base
 item.banner.base.black=База чорного прапора
 item.banner.base.blue=База Блакитного прапора
@@ -16,15 +22,46 @@ item.banner.base.silver=Світло-сіра основа банеру
 item.banner.base.white=Основа білого прапора
 item.banner.base.yellow=Основа жовтого прапора
 
+
+
 ## Items
 item.copper_horn.name=Мідний ріг 
 item.glow_stick.black.name=Black Glow Stick 
 item.spawn_egg.name=Спаун
 
-## Tiles
-tile.acacia_door.name=Двері з акації
+
+
+## Wall Signs
+tile.wall_sign.name=Дубовий настінний знак
+tile.birch_wall_sign.name=Березовий настінний знак
+tile.spruce_wall_sign.name=Настінний знак «Ялина».
+tile.jungle_wall_sign.name=Джунглі стіни знак
 tile.acacia_wall_sign.name=Настінний знак акації
+tile.darkoak_wall_sign.name=Темний дуб настінний знак
+tile.crimson_wall_sign.name=Багряний настінний знак
+tile.warped_wall_sign.name=Деформований стінний знак
+tile.mangrove_wall_sign.name=Мангровий стінний знак
+tile.bamboo_wall_sign.name=Бамбуковий настінний знак
+tile.cherry_wall_sign.name=Вишневий стіновий знак
+tile.mangrove_standing_sign.name=Мангровий знак
+tile.bamboo_standing_sign.name=Бамбуковий знак
+tile.cherry_standing_sign.name=Вишневий знак
+
+
+
+## Education Edition
+tile.border_block.name=Кордон 
+tile.chemical_heat.name=Хімічне тепло 
 tile.allow.name=Дозволити 
+tile.deny.name=Відмовити 
+tile.underwater_torch.name=Підводний факел 
+tile.hard_glass.name=Тверде скло 
+tile.hard_glass_pane.name=Тверде скло 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Двері з акації
 tile.bamboo_sapling.acacia.name=Саджанець бамбука акації
 tile.bamboo_sapling.big_oak.name=Саджанець бамбука темного дуба
 tile.bamboo_sapling.birch.name=Саджанець березового бамбука
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Саджанець бамбука в джунг�
 tile.bamboo_sapling.oak.name=Саджанець бамбука дуба
 tile.bamboo_sapling.spruce.name=Саджанець бамбука ялини
 tile.birch_door.name=Березові двері
-tile.birch_wall_sign.name=Березовий настінний знак
 tile.blackstone_double_slab.name=Подвійна плита Blackstone
-tile.border_block.name=Кордон 
 tile.bubble_column.name=Бульбашкова колона
-tile.chemical_heat.name=Хімічне тепло 
 tile.chorus_plant.name=Основа приспіву
 tile.client_request_placeholder_block.name=Блок заповнювача запиту клієнта
 tile.colored_torch.blue.name=Синій факел
 tile.colored_torch.green.name=Зелений факел
 tile.colored_torch.purple.name=Фіолетовий факел
 tile.colored_torch.red.name=Червоний факел
-tile.crimson_wall_sign.name=Багряний настінний знак
 tile.cut_copper_block.exposed.name=Відкритий мідний блок 
 tile.cut_copper_block.exposed.waxed.name=Вощений експонований мідний блок 
 tile.cut_copper_block.name=Вирізаний мідний блок 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Вощений мідний блок 
 tile.cut_copper_block.weathered.name=Витриманий мідний блок 
 tile.cut_copper_block.weathered.waxed.name=Вощений витриманий мідний блок 
 tile.dark_oak_door.name=Двері з темного дуба
-tile.darkoak_wall_sign.name=Темний дуб настінний знак
 tile.daylight_detector_inverted.name=Перевернутий детектор денного світла
-tile.deny.name=Відмовити 
 tile.double_cut_copper_slab.name=Мідна плита подвійного різання
 tile.double_stone_slab.wood.name=Скам'яніла дубова плита
 tile.double_stone_slab3.end_brick.name=Двостороння цегляна плита
@@ -69,12 +100,9 @@ tile.flowing_water.name=Текуча вода
 tile.frame.name=рамка
 tile.glow_frame.name=Світиться рамка
 tile.glowingobsidian.name=Сяючий обсидіан
-tile.hard_glass.name=Тверде скло 
-tile.hard_glass_pane.name=Тверде скло 
 tile.info_update.name=Блок оновлення
 tile.info_update2.name=Блок оновлення 2
 tile.jungle_door.name=Двері джунглів
-tile.jungle_wall_sign.name=Джунглі стіни знак
 tile.kelp.name=Ламінарія
 tile.lava.name=Статична лава
 tile.lava_cauldron.name=Лавовий котел
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Ретранслятор з живленням
 tile.purpur_block.smooth.name=Гладкий пурпур
 tile.reserved6.name=Зарезервовано 6
 tile.spruce_door.name=Смерекові двері
-tile.spruce_wall_sign.name=Настінний знак «Ялина».
 tile.stickypistonarmcollision.name=Зіткнення липкої поршневої руки
 tile.stone_slab.wood.name=Скам'яніла дубова плита
-tile.underwater_torch.name=Підводний факел 
 tile.unpowered_comparator.name=Компаратор без живлення
 tile.unpowered_repeater.name=Без живлення ретранслятор
 tile.wall_banner.name=Настінний банер
-tile.wall_sign.name=Дубовий настінний знак
-tile.warped_wall_sign.name=Деформований стінний знак
 tile.water.name=Статична вода
 tile.waxed_double_cut_copper_slab.name=Вощена подвійна мідна плита
 tile.waxed_exposed_double_cut_copper_slab.name=Мідна плита подвійного різання з вощеним покриттям

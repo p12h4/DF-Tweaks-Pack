@@ -1,3 +1,3 @@
 {
-  "ui_defs": ["ui/update_news.json"]
+  "ui_defs": ["ui/pack_changelog.json"]
 }

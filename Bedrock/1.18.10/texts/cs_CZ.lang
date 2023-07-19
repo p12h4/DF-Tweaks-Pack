@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=létat (starý)
+item.minecraft.goat_horn.sound.9=Sen (starý)
+
+
+
 ## Banner Base
 item.banner.base.black=Černá Banner Base
 item.banner.base.blue=Modrý Banner Base
@@ -16,15 +22,46 @@ item.banner.base.silver=Světle šedá základna banneru
 item.banner.base.white=Bílý Banner Base
 item.banner.base.yellow=Žlutý Banner Base
 
+
+
 ## Items
 item.copper_horn.name=Měděný roh 
 item.glow_stick.black.name=Černá Glow Stick 
 item.spawn_egg.name=Potěr
 
-## Tiles
-tile.acacia_door.name=Akátové dveře
+
+
+## Wall Signs
+tile.wall_sign.name=Dubové nástěnné znamení
+tile.birch_wall_sign.name=Bříza Nástěnné Znamení
+tile.spruce_wall_sign.name=Smrkové nástěnné znamení
+tile.jungle_wall_sign.name=Nápis na zeď džungle
 tile.acacia_wall_sign.name=Nástěnná cedule z akácie
+tile.darkoak_wall_sign.name=Tmavý dub nástěnné znamení
+tile.crimson_wall_sign.name=Crimson Wall Sign
+tile.warped_wall_sign.name=Pokřivené nástěnné znamení
+tile.mangrove_wall_sign.name=Mangrove nástěnné znamení
+tile.bamboo_wall_sign.name=Bambusová nástěnná cedule
+tile.cherry_wall_sign.name=Cherry Wall Sign
+tile.mangrove_standing_sign.name=Mangrovové znamení
+tile.bamboo_standing_sign.name=Bambusový znak
+tile.cherry_standing_sign.name=Třešňové znamení
+
+
+
+## Education Edition
+tile.border_block.name=Hranice 
+tile.chemical_heat.name=Chemické teplo 
 tile.allow.name=Povolit 
+tile.deny.name=Odmítnout 
+tile.underwater_torch.name=Podvodní pochodeň 
+tile.hard_glass.name=Tvrdé sklo 
+tile.hard_glass_pane.name=Tabule z tvrdého skla 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Akátové dveře
 tile.bamboo_sapling.acacia.name=Akátový bambusový stromek
 tile.bamboo_sapling.big_oak.name=Tmavý dub bambusový stromek
 tile.bamboo_sapling.birch.name=Březový stromek bambusu
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Stromek bambusu z džungle
 tile.bamboo_sapling.oak.name=Dub bambusový stromek
 tile.bamboo_sapling.spruce.name=Smrkový bambusový stromek
 tile.birch_door.name=Březové dveře
-tile.birch_wall_sign.name=Bříza Nástěnné Znamení
 tile.blackstone_double_slab.name=Blackstone Double Deska
-tile.border_block.name=Hranice 
 tile.bubble_column.name=Bublinový sloupec
-tile.chemical_heat.name=Chemické teplo 
 tile.chorus_plant.name=Chorus Stem
 tile.client_request_placeholder_block.name=Zástupný blok požadavku klienta
 tile.colored_torch.blue.name=Modrá pochodeň
 tile.colored_torch.green.name=Zelená pochodeň
 tile.colored_torch.purple.name=Fialová pochodeň
 tile.colored_torch.red.name=Červená pochodeň
-tile.crimson_wall_sign.name=Crimson Wall Sign
 tile.cut_copper_block.exposed.name=Odkrytý řezaný měděný blok 
 tile.cut_copper_block.exposed.waxed.name=Waxed Exposed Cut Block Block 
 tile.cut_copper_block.name=Řez měděného bloku 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Voskovaný řezaný měděný blok 
 tile.cut_copper_block.weathered.name=Zvětralý řezaný měděný blok 
 tile.cut_copper_block.weathered.waxed.name=Voskovaný zvětralý řez měděný blok 
 tile.dark_oak_door.name=Dřevěné dveře z tmavého dubu
-tile.darkoak_wall_sign.name=Tmavý dub nástěnné znamení
 tile.daylight_detector_inverted.name=Detektor převráceného denního světla
-tile.deny.name=Odmítnout 
 tile.double_cut_copper_slab.name=Dvojitě řezaná měděná deska
 tile.double_stone_slab.wood.name=Zkamenělá dubová deska
 tile.double_stone_slab3.end_brick.name=Oboustranná cihlová deska
@@ -69,12 +100,9 @@ tile.flowing_water.name=Tekoucí voda
 tile.frame.name=Rám
 tile.glow_frame.name=Zářící rám
 tile.glowingobsidian.name=Zářící obsidián
-tile.hard_glass.name=Tvrdé sklo 
-tile.hard_glass_pane.name=Tabule z tvrdého skla 
 tile.info_update.name=Aktualizovat blok
 tile.info_update2.name=Aktualizovat blok 2
 tile.jungle_door.name=Dveře džungle
-tile.jungle_wall_sign.name=Nápis na zeď džungle
 tile.kelp.name=Kelp
 tile.lava.name=Statická láva
 tile.lava_cauldron.name=Lávový kotel
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Napájený opakovač
 tile.purpur_block.smooth.name=Hladká purpurová
 tile.reserved6.name=Rezervováno 6
 tile.spruce_door.name=Smrkové dveře
-tile.spruce_wall_sign.name=Smrkové nástěnné znamení
 tile.stickypistonarmcollision.name=Kolize lepivého ramene pístu
 tile.stone_slab.wood.name=Zkamenělá dubová deska
-tile.underwater_torch.name=Podvodní pochodeň 
 tile.unpowered_comparator.name=Nenapájený komparátor
 tile.unpowered_repeater.name=Nenapájený opakovač
 tile.wall_banner.name=Nástěnný banner
-tile.wall_sign.name=Dubové nástěnné znamení
-tile.warped_wall_sign.name=Pokřivené nástěnné znamení
 tile.water.name=Statická voda
 tile.waxed_double_cut_copper_slab.name=Voskovaná dvojitě řezaná měděná deska
 tile.waxed_exposed_double_cut_copper_slab.name=Voskovaná exponovaná dvojitě řezaná měděná deska

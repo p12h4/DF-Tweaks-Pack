@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Voler (ancien)
+item.minecraft.goat_horn.sound.9=Rêve (ancien)
+
+
+
 ## Banner Base
 item.banner.base.black=Base de bannière noire
 item.banner.base.blue=Base de la bannière bleue
@@ -16,15 +22,46 @@ item.banner.base.silver=Base de bannière gris clair
 item.banner.base.white=Base de bannière blanche
 item.banner.base.yellow=Base de bannière jaune
 
+
+
 ## Items
 item.copper_horn.name=Corne en cuivre 
 item.glow_stick.black.name=Bâton Lumineux Noir 
 item.spawn_egg.name=Frayer
 
-## Tiles
-tile.acacia_door.name=Porte en acacia
+
+
+## Wall Signs
+tile.wall_sign.name=Panneau mural en chêne
+tile.birch_wall_sign.name=Panneau mural en bouleau
+tile.spruce_wall_sign.name=Panneau mural en épicéa
+tile.jungle_wall_sign.name=Panneau mural de la jungle
 tile.acacia_wall_sign.name=Panneau mural en acacia
+tile.darkoak_wall_sign.name=Panneau mural en chêne foncé
+tile.crimson_wall_sign.name=Panneau mural cramoisi
+tile.warped_wall_sign.name=Panneau mural déformé
+tile.mangrove_wall_sign.name=Panneau de mur de mangrove
+tile.bamboo_wall_sign.name=Panneau mural en bambou
+tile.cherry_wall_sign.name=Signe de mur de cerise
+tile.mangrove_standing_sign.name=Signe de la mangrove
+tile.bamboo_standing_sign.name=Signe de bambou
+tile.cherry_standing_sign.name=Signe de cerise
+
+
+
+## Education Edition
+tile.border_block.name=Bordure 
+tile.chemical_heat.name=Chaleur chimique 
 tile.allow.name=Autoriser 
+tile.deny.name=Refuser 
+tile.underwater_torch.name=Torche sous-marine 
+tile.hard_glass.name=Verre dur 
+tile.hard_glass_pane.name=Vitre en verre dur 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Porte en acacia
 tile.bamboo_sapling.acacia.name=Jeune pousse de bambou d'acacia
 tile.bamboo_sapling.big_oak.name=Jeune pousse de bambou en chêne foncé
 tile.bamboo_sapling.birch.name=Jeune arbre de bambou de bouleau
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Jeune pousse de bambou de la jungle
 tile.bamboo_sapling.oak.name=Jeune pousse de bambou de chêne
 tile.bamboo_sapling.spruce.name=Jeune pousse de bambou épicéa
 tile.birch_door.name=Porte en bouleau
-tile.birch_wall_sign.name=Panneau mural en bouleau
 tile.blackstone_double_slab.name=Dalle Double Blackstone
-tile.border_block.name=Bordure 
 tile.bubble_column.name=Colonne à bulles
-tile.chemical_heat.name=Chaleur chimique 
 tile.chorus_plant.name=Tige de chœur
 tile.client_request_placeholder_block.name=Bloc d'espace réservé de demande client
 tile.colored_torch.blue.name=Torche bleue
 tile.colored_torch.green.name=Torche verte
 tile.colored_torch.purple.name=Torche violette
 tile.colored_torch.red.name=Torche rouge
-tile.crimson_wall_sign.name=Panneau mural cramoisi
 tile.cut_copper_block.exposed.name=Bloc de cuivre coupé exposé 
 tile.cut_copper_block.exposed.waxed.name=Bloc de cuivre coupé exposé ciré 
 tile.cut_copper_block.name=Couper le bloc de cuivre 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Bloc de cuivre taillé ciré 
 tile.cut_copper_block.weathered.name=Bloc de cuivre coupé par les intempéries 
 tile.cut_copper_block.weathered.waxed.name=Bloc de cuivre ciré et patiné 
 tile.dark_oak_door.name=Porte en bois de chêne foncé
-tile.darkoak_wall_sign.name=Panneau mural en chêne foncé
 tile.daylight_detector_inverted.name=Détecteur de lumière du jour inversé
-tile.deny.name=Refuser 
 tile.double_cut_copper_slab.name=Dalle de cuivre à double coupe
 tile.double_stone_slab.wood.name=Dalle de chêne pétrifié
 tile.double_stone_slab3.end_brick.name=Dalle de brique à double extrémité
@@ -69,12 +100,9 @@ tile.flowing_water.name=Eau qui coule
 tile.frame.name=Cadre
 tile.glow_frame.name=Cadre lumineux
 tile.glowingobsidian.name=Obsidienne incandescente
-tile.hard_glass.name=Verre dur 
-tile.hard_glass_pane.name=Vitre en verre dur 
 tile.info_update.name=Mettre à jour le bloc
 tile.info_update2.name=Mettre à jour le bloc 2
 tile.jungle_door.name=Porte de la jungle
-tile.jungle_wall_sign.name=Panneau mural de la jungle
 tile.kelp.name=Varech
 tile.lava.name=Lave statique
 tile.lava_cauldron.name=Chaudron de lave
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Répéteur alimenté
 tile.purpur_block.smooth.name=Purpur lisse
 tile.reserved6.name=Réservé 6
 tile.spruce_door.name=Porte en épicéa
-tile.spruce_wall_sign.name=Panneau mural en épicéa
 tile.stickypistonarmcollision.name=Collision du bras de piston collant
 tile.stone_slab.wood.name=Dalle de chêne pétrifié
-tile.underwater_torch.name=Torche sous-marine 
 tile.unpowered_comparator.name=Comparateur non alimenté
 tile.unpowered_repeater.name=Répéteur non alimenté
 tile.wall_banner.name=Bannière murale
-tile.wall_sign.name=Panneau mural en chêne
-tile.warped_wall_sign.name=Panneau mural déformé
 tile.water.name=Eau statique
 tile.waxed_double_cut_copper_slab.name=Dalle de cuivre double coupe cirée
 tile.waxed_exposed_double_cut_copper_slab.name=Dalle de cuivre à double coupe exposée cirée

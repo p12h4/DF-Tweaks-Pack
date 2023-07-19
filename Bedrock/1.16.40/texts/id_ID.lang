@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Terbang (lama)
+item.minecraft.goat_horn.sound.9=Mimpi (lama)
+
+
+
 ## Banner Base
 item.banner.base.black=Basis Spanduk Hitam
 item.banner.base.blue=Pangkalan Spanduk Biru
@@ -16,15 +22,46 @@ item.banner.base.silver=Basis Spanduk Abu-abu Muda
 item.banner.base.white=Basis Spanduk Putih
 item.banner.base.yellow=Pangkalan Spanduk Kuning
 
+
+
 ## Items
 item.copper_horn.name=Tanduk Tembaga 
 item.glow_stick.black.name=Tongkat Cahaya Hitam 
 item.spawn_egg.name=Muncul
 
-## Tiles
-tile.acacia_door.name=Pintu Akasia
+
+
+## Wall Signs
+tile.wall_sign.name=Tanda Tembok Ek
+tile.birch_wall_sign.name=Tanda Tembok Birch
+tile.spruce_wall_sign.name=Tanda Dinding Spruce
+tile.jungle_wall_sign.name=Tanda Tembok Hutan
 tile.acacia_wall_sign.name=Tanda Dinding Akasia
+tile.darkoak_wall_sign.name=Tanda Tembok Ek Gelap
+tile.crimson_wall_sign.name=Tanda Tembok Crimson
+tile.warped_wall_sign.name=Tanda Tembok Bengkok
+tile.mangrove_wall_sign.name=Tanda Dinding Mangrove
+tile.bamboo_wall_sign.name=Tanda Tembok Bambu
+tile.cherry_wall_sign.name=Tanda Tembok Ceri
+tile.mangrove_standing_sign.name=Tanda Mangrove
+tile.bamboo_standing_sign.name=Tanda Bambu
+tile.cherry_standing_sign.name=Tanda Ceri
+
+
+
+## Education Edition
+tile.border_block.name=Perbatasan 
+tile.chemical_heat.name=Panas Kimia 
 tile.allow.name=Izinkan 
+tile.deny.name=Tolak 
+tile.underwater_torch.name=Obor Bawah Air 
+tile.hard_glass.name=Kaca Keras 
+tile.hard_glass_pane.name=Panel Kaca Keras 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Pintu Akasia
 tile.bamboo_sapling.acacia.name=Bibit Bambu Akasia
 tile.bamboo_sapling.big_oak.name=Bibit Bambu Ek Gelap
 tile.bamboo_sapling.birch.name=Bibit Bambu Birch
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Bibit Bambu Hutan
 tile.bamboo_sapling.oak.name=Bibit Bambu Ek
 tile.bamboo_sapling.spruce.name=Bibit Bambu Cemara
 tile.birch_door.name=Pintu Birch
-tile.birch_wall_sign.name=Tanda Tembok Birch
 tile.blackstone_double_slab.name=Lempengan Ganda Blackstone
-tile.border_block.name=Perbatasan 
 tile.bubble_column.name=Kolom Gelembung
-tile.chemical_heat.name=Panas Kimia 
 tile.chorus_plant.name=Batang paduan suara
 tile.client_request_placeholder_block.name=Blok Placeholder Permintaan Klien
 tile.colored_torch.blue.name=Obor Biru
 tile.colored_torch.green.name=Obor Hijau
 tile.colored_torch.purple.name=Obor Ungu
 tile.colored_torch.red.name=Obor Merah
-tile.crimson_wall_sign.name=Tanda Tembok Crimson
 tile.cut_copper_block.exposed.name=Blok Tembaga Potong Terbuka 
 tile.cut_copper_block.exposed.waxed.name=Blok Tembaga Potong Terkena Wax 
 tile.cut_copper_block.name=Potong Blok Tembaga 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Blok Tembaga Potong Wax 
 tile.cut_copper_block.weathered.name=Blok Tembaga Potong Lapuk 
 tile.cut_copper_block.weathered.waxed.name=Blok Tembaga Potong Lapuk Lapuk 
 tile.dark_oak_door.name=Pintu Kayu Ek Gelap
-tile.darkoak_wall_sign.name=Tanda Tembok Ek Gelap
 tile.daylight_detector_inverted.name=Detektor Siang Hari Terbalik
-tile.deny.name=Tolak 
 tile.double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda
 tile.double_stone_slab.wood.name=Lempengan Ek yang Membatu
 tile.double_stone_slab3.end_brick.name=Lempengan Bata Ujung Ganda
@@ -69,12 +100,9 @@ tile.flowing_water.name=Air mengalir
 tile.frame.name=Bingkai
 tile.glow_frame.name=Bingkai Cahaya
 tile.glowingobsidian.name=Obsidian yang bersinar
-tile.hard_glass.name=Kaca Keras 
-tile.hard_glass_pane.name=Panel Kaca Keras 
 tile.info_update.name=Perbarui Blok
 tile.info_update2.name=Perbarui Blok 2
 tile.jungle_door.name=Pintu Hutan
-tile.jungle_wall_sign.name=Tanda Tembok Hutan
 tile.kelp.name=Kelp
 tile.lava.name=Lava Statis
 tile.lava_cauldron.name=Kuali Lava
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Penguat Bertenaga
 tile.purpur_block.smooth.name=Purpura Halus
 tile.reserved6.name=Dicadangkan 6
 tile.spruce_door.name=Pintu Cemara
-tile.spruce_wall_sign.name=Tanda Dinding Spruce
 tile.stickypistonarmcollision.name=Tabrakan Lengan Piston Lengket
 tile.stone_slab.wood.name=Lempengan Ek yang Membatu
-tile.underwater_torch.name=Obor Bawah Air 
 tile.unpowered_comparator.name=Pembanding Tanpa Daya
 tile.unpowered_repeater.name=Repeater Tidak Bertenaga
 tile.wall_banner.name=Spanduk Dinding
-tile.wall_sign.name=Tanda Tembok Ek
-tile.warped_wall_sign.name=Tanda Tembok Bengkok
 tile.water.name=Air Statis
 tile.waxed_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Wax
 tile.waxed_exposed_double_cut_copper_slab.name=Lempengan Tembaga Potong Ganda Terkena Wax

@@ -10,8 +10,8 @@
       ],
       "part_visibility": [
         {
-          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')",
-          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone', 'minecraft:pumpkin')",
+          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone', 'minecraft:pumpkin')"
         }
       ],
       "textures": ["Texture.default"]
@@ -25,8 +25,8 @@
       ],
       "part_visibility": [
         {
-          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')",
-          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "nose": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone', 'minecraft:pumpkin')",
+          "hat*": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone', 'minecraft:pumpkin')"
         }
       ],
       "textures": ["Texture.default"]

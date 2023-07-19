@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Uçmak (eski)
+item.minecraft.goat_horn.sound.9=Rüya (eski)
+
+
+
 ## Banner Base
 item.banner.base.black=Siyah Afiş Tabanı
 item.banner.base.blue=Mavi Afiş Tabanı
@@ -16,15 +22,46 @@ item.banner.base.silver=Açık Gri Afiş Tabanı
 item.banner.base.white=Beyaz Afiş Tabanı
 item.banner.base.yellow=Sarı Afiş Tabanı
 
+
+
 ## Items
 item.copper_horn.name=Bakır Boynuz 
 item.glow_stick.black.name=Siyah Kızdırma Çubuğu 
 item.spawn_egg.name=yumurtlama
 
-## Tiles
-tile.acacia_door.name=akasya kapısı
+
+
+## Wall Signs
+tile.wall_sign.name=meşe duvar işareti
+tile.birch_wall_sign.name=Huş Duvar İşareti
+tile.spruce_wall_sign.name=Ladin Duvar İşareti
+tile.jungle_wall_sign.name=Orman Duvarı İşareti
 tile.acacia_wall_sign.name=akasya duvar işareti
+tile.darkoak_wall_sign.name=Koyu Meşe Duvar İşareti
+tile.crimson_wall_sign.name=Kızıl Duvar İşareti
+tile.warped_wall_sign.name=Çarpık Duvar İşareti
+tile.mangrove_wall_sign.name=Mangrov Duvar İşareti
+tile.bamboo_wall_sign.name=Bambu Duvar İşareti
+tile.cherry_wall_sign.name=kiraz duvar işareti
+tile.mangrove_standing_sign.name=mangrov işareti
+tile.bamboo_standing_sign.name=Bambu Burcu
+tile.cherry_standing_sign.name=kiraz işareti
+
+
+
+## Education Edition
+tile.border_block.name=Kenarlık 
+tile.chemical_heat.name=Kimyasal Isı 
 tile.allow.name='ya izin ver
+tile.deny.name=Reddet 
+tile.underwater_torch.name=Sualtı Meşalesi 
+tile.hard_glass.name=Sert Cam 
+tile.hard_glass_pane.name=Sert Cam Bölme 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=akasya kapısı
 tile.bamboo_sapling.acacia.name=Akasya Bambu Fidanı
 tile.bamboo_sapling.big_oak.name=Koyu Meşe Bambu Fidanı
 tile.bamboo_sapling.birch.name=Huş Bambu Fidanı
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Orman Bambu Fidanı
 tile.bamboo_sapling.oak.name=Meşe Bambu Fidanı
 tile.bamboo_sapling.spruce.name=Ladin Bambu Fidanı
 tile.birch_door.name=Huş Kapı
-tile.birch_wall_sign.name=Huş Duvar İşareti
 tile.blackstone_double_slab.name=Blackstone Çift Döşeme
-tile.border_block.name=Kenarlık 
 tile.bubble_column.name=Kabarcık Sütunu
-tile.chemical_heat.name=Kimyasal Isı 
 tile.chorus_plant.name=Koro Kökü
 tile.client_request_placeholder_block.name=İstemci İsteği Yer Tutucu Bloğu
 tile.colored_torch.blue.name=Mavi Meşale
 tile.colored_torch.green.name=Yeşil Meşale
 tile.colored_torch.purple.name=mor meşale
 tile.colored_torch.red.name=kırmızı meşale
-tile.crimson_wall_sign.name=Kızıl Duvar İşareti
 tile.cut_copper_block.exposed.name=Açıkta Kesilmiş Bakır Blok 
 tile.cut_copper_block.exposed.waxed.name=Mumlu Açık Kesim Bakır Blok 
 tile.cut_copper_block.name=Kesilmiş Bakır Blok 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Mumlu Kesim Bakır Blok 
 tile.cut_copper_block.weathered.name=Yıpranmış Kesilmiş Bakır Blok 
 tile.cut_copper_block.weathered.waxed.name=Mumlu Yıpranmış Kesilmiş Bakır Blok 
 tile.dark_oak_door.name=Koyu Meşe Ahşap Kapı
-tile.darkoak_wall_sign.name=Koyu Meşe Duvar İşareti
 tile.daylight_detector_inverted.name=Ters Gün Işığı Dedektörü
-tile.deny.name=Reddet 
 tile.double_cut_copper_slab.name=Çift Kesim Bakır Levha
 tile.double_stone_slab.wood.name=Taşlaşmış Meşe Döşeme
 tile.double_stone_slab3.end_brick.name=Çift Uçlu Tuğla Döşeme
@@ -69,12 +100,9 @@ tile.flowing_water.name=akan su
 tile.frame.name=Çerçeve
 tile.glow_frame.name=Kızdırma Çerçevesi
 tile.glowingobsidian.name=Parlayan Obsidyen
-tile.hard_glass.name=Sert Cam 
-tile.hard_glass_pane.name=Sert Cam Bölme 
 tile.info_update.name=Bloğu Güncelle
 tile.info_update2.name=Blok 2'yi Güncelle
 tile.jungle_door.name=orman kapısı
-tile.jungle_wall_sign.name=Orman Duvarı İşareti
 tile.kelp.name=Kelp
 tile.lava.name=statik lav
 tile.lava_cauldron.name=Lav Kazanı
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Güçlü Tekrarlayıcı
 tile.purpur_block.smooth.name=Pürüzsüz Purpur
 tile.reserved6.name=Ayrılmış 6
 tile.spruce_door.name=Ladin Kapı
-tile.spruce_wall_sign.name=Ladin Duvar İşareti
 tile.stickypistonarmcollision.name=Yapışkan Piston Kolu Çarpması
 tile.stone_slab.wood.name=Taşlaşmış Meşe Döşeme
-tile.underwater_torch.name=Sualtı Meşalesi 
 tile.unpowered_comparator.name=Güçsüz Karşılaştırıcı
 tile.unpowered_repeater.name=Güçsüz Tekrarlayıcı
 tile.wall_banner.name=duvar afişi
-tile.wall_sign.name=meşe duvar işareti
-tile.warped_wall_sign.name=Çarpık Duvar İşareti
 tile.water.name=statik su
 tile.waxed_double_cut_copper_slab.name=Mumlu Çift Kesim Bakır Levha
 tile.waxed_exposed_double_cut_copper_slab.name=Mumlu Açık Çift Kesim Bakır Levha

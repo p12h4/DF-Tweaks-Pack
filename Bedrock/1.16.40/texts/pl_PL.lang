@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=latać (stary)
+item.minecraft.goat_horn.sound.9=Sen (stary)
+
+
+
 ## Banner Base
 item.banner.base.black=Baza Czarnego Sztandaru
 item.banner.base.blue=Baza Niebieskiego Sztandaru
@@ -16,15 +22,46 @@ item.banner.base.silver=Jasnoszara podstawa banera
 item.banner.base.white=Baza białego sztandaru
 item.banner.base.yellow=Żółta podstawa sztandaru
 
+
+
 ## Items
 item.copper_horn.name=Miedziany róg 
 item.glow_stick.black.name=Czarna pomadka fluorescencyjna 
 item.spawn_egg.name=Ikra
 
-## Tiles
-tile.acacia_door.name=Akacja Drzwi
+
+
+## Wall Signs
+tile.wall_sign.name=Dębowy znak ścienny
+tile.birch_wall_sign.name=Brzozowy znak ścienny
+tile.spruce_wall_sign.name=Świerkowy znak ścienny
+tile.jungle_wall_sign.name=Znak ścienny dżungli
 tile.acacia_wall_sign.name=Akacja ściana znak
+tile.darkoak_wall_sign.name=Znak ścienny z ciemnego dębu
+tile.crimson_wall_sign.name=Karmazynowy znak ścienny
+tile.warped_wall_sign.name=Wykrzywiony znak ścienny
+tile.mangrove_wall_sign.name=Znak ścienny mangrowe
+tile.bamboo_wall_sign.name=Bambusowy znak ścienny
+tile.cherry_wall_sign.name=Wiśniowy znak ścienny
+tile.mangrove_standing_sign.name=Znak namorzynowy
+tile.bamboo_standing_sign.name=znak bambusa
+tile.cherry_standing_sign.name=Wiśniowy znak
+
+
+
+## Education Edition
+tile.border_block.name=Obramowanie 
+tile.chemical_heat.name=Ciepło chemiczne 
 tile.allow.name=Zezwól 
+tile.deny.name=Odmów 
+tile.underwater_torch.name=Latarka podwodna 
+tile.hard_glass.name=Twarde szkło 
+tile.hard_glass_pane.name=Twarda szyba szklana 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Akacja Drzwi
 tile.bamboo_sapling.acacia.name=Sadzonka bambusa akacjowego
 tile.bamboo_sapling.big_oak.name=Sadzonka Bambusa Ciemnego Dębu
 tile.bamboo_sapling.birch.name=Drzewko Bambusa Brzozy
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Sadzonka Bambusa Dżungli
 tile.bamboo_sapling.oak.name=Sadzonka Bambusa Dębowego
 tile.bamboo_sapling.spruce.name=Świerk Bambus Sadzonka
 tile.birch_door.name=Brzozowe drzwi
-tile.birch_wall_sign.name=Brzozowy znak ścienny
 tile.blackstone_double_slab.name=Podwójna płyta Blackstone
-tile.border_block.name=Obramowanie 
 tile.bubble_column.name=Kolumna bąbelkowa
-tile.chemical_heat.name=Ciepło chemiczne 
 tile.chorus_plant.name=Trzon chóru
 tile.client_request_placeholder_block.name=Blok zastępczy żądania klienta
 tile.colored_torch.blue.name=Niebieska Pochodnia
 tile.colored_torch.green.name=zielona pochodnia
 tile.colored_torch.purple.name=Fioletowa Pochodnia
 tile.colored_torch.red.name=czerwona pochodnia
-tile.crimson_wall_sign.name=Karmazynowy znak ścienny
 tile.cut_copper_block.exposed.name=Odsłonięty szlifowany blok miedziany 
 tile.cut_copper_block.exposed.waxed.name=Woskowany bloczek z odkrytej szlifowanej miedzi 
 tile.cut_copper_block.name=Cięty blok miedziany 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Blok miedzi szlifowanej woskowanej 
 tile.cut_copper_block.weathered.name=Blok z wyblakłej ciętej miedzi 
 tile.cut_copper_block.weathered.waxed.name=Blok z woskowanej, ciętej, ciętej miedzi 
 tile.dark_oak_door.name=Drzwi z ciemnego dębu
-tile.darkoak_wall_sign.name=Znak ścienny z ciemnego dębu
 tile.daylight_detector_inverted.name=Odwrócony detektor światła dziennego
-tile.deny.name=Odmów 
 tile.double_cut_copper_slab.name=Podwójnie cięta płyta miedziana
 tile.double_stone_slab.wood.name=Skamieniała płyta dębowa
 tile.double_stone_slab3.end_brick.name=Płyta z cegły z podwójnym końcem
@@ -69,12 +100,9 @@ tile.flowing_water.name=Płynąca woda
 tile.frame.name=Rama
 tile.glow_frame.name=Blask ramki
 tile.glowingobsidian.name=Świecący obsydian
-tile.hard_glass.name=Twarde szkło 
-tile.hard_glass_pane.name=Twarda szyba szklana 
 tile.info_update.name=Zaktualizuj blok
 tile.info_update2.name=Zaktualizuj blok 2
 tile.jungle_door.name=Drzwi dżungli
-tile.jungle_wall_sign.name=Znak ścienny dżungli
 tile.kelp.name=Wodorosty morskie
 tile.lava.name=Statyczna lawa
 tile.lava_cauldron.name=Kocioł lawy
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Wzmacniacz zasilany
 tile.purpur_block.smooth.name=Gładki purpur
 tile.reserved6.name=Zarezerwowany 6
 tile.spruce_door.name=Świerkowe drzwi
-tile.spruce_wall_sign.name=Świerkowy znak ścienny
 tile.stickypistonarmcollision.name=Lepkie zderzenie ramienia tłoka
 tile.stone_slab.wood.name=Skamieniała płyta dębowa
-tile.underwater_torch.name=Latarka podwodna 
 tile.unpowered_comparator.name=Niezasilany komparator
 tile.unpowered_repeater.name=Niezasilany repeater
 tile.wall_banner.name=Baner ścienny
-tile.wall_sign.name=Dębowy znak ścienny
-tile.warped_wall_sign.name=Wykrzywiony znak ścienny
 tile.water.name=Woda statyczna
 tile.waxed_double_cut_copper_slab.name=Płyta miedziana woskowana podwójnie cięta
 tile.waxed_exposed_double_cut_copper_slab.name=Płyta miedziana woskowana, odsłonięta, podwójnie cięta

@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Voar (antigo)
+item.minecraft.goat_horn.sound.9=Sonho (antigo)
+
+
+
 ## Banner Base
 item.banner.base.black=Base de bandeira preta
 item.banner.base.blue=Base da Bandeira Azul
@@ -16,15 +22,46 @@ item.banner.base.silver=Base de banner cinza claro
 item.banner.base.white=Base de faixa branca
 item.banner.base.yellow=Bandeira Amarela Base
 
+
+
 ## Items
 item.copper_horn.name=Chifre de Cobre 
 item.glow_stick.black.name=Bastão luminoso preto 
 item.spawn_egg.name=Gerar
 
-## Tiles
-tile.acacia_door.name=porta acácia
+
+
+## Wall Signs
+tile.wall_sign.name=Sinal de parede de carvalho
+tile.birch_wall_sign.name=sinal de parede de bétula
+tile.spruce_wall_sign.name=Sinal de parede em abeto
+tile.jungle_wall_sign.name=Sinal de parede da selva
 tile.acacia_wall_sign.name=Sinal de parede de acácia
+tile.darkoak_wall_sign.name=Sinal de parede de carvalho escuro
+tile.crimson_wall_sign.name=Sinal de parede carmesim
+tile.warped_wall_sign.name=Sinal de parede distorcido
+tile.mangrove_wall_sign.name=Sinal de parede de mangue
+tile.bamboo_wall_sign.name=placa de parede de bambu
+tile.cherry_wall_sign.name=Sinal de parede de cereja
+tile.mangrove_standing_sign.name=sinal de mangue
+tile.bamboo_standing_sign.name=sinal de bambu
+tile.cherry_standing_sign.name=sinal de cereja
+
+
+
+## Education Edition
+tile.border_block.name=Borda 
+tile.chemical_heat.name=Calor Químico 
 tile.allow.name=Permitir 
+tile.deny.name=Negar 
+tile.underwater_torch.name=Lanterna subaquática 
+tile.hard_glass.name=Vidro Duro 
+tile.hard_glass_pane.name=Painel de vidro rígido 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=porta acácia
 tile.bamboo_sapling.acacia.name=muda de bambu acácia
 tile.bamboo_sapling.big_oak.name=Muda de Bambu Carvalho Escuro
 tile.bamboo_sapling.birch.name=muda de bambu de bétula
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=muda de bambu da selva
 tile.bamboo_sapling.oak.name=Muda de Bambu de Carvalho
 tile.bamboo_sapling.spruce.name=Muda de Bambu Spruce
 tile.birch_door.name=porta de bétula
-tile.birch_wall_sign.name=sinal de parede de bétula
 tile.blackstone_double_slab.name=Blackstone Laje Dupla
-tile.border_block.name=Borda 
 tile.bubble_column.name=Coluna de Bolha
-tile.chemical_heat.name=Calor Químico 
 tile.chorus_plant.name=Refrão
 tile.client_request_placeholder_block.name=Bloco de espaço reservado para solicitação do cliente
 tile.colored_torch.blue.name=Tocha Azul
 tile.colored_torch.green.name=Tocha Verde
 tile.colored_torch.purple.name=Tocha Roxa
 tile.colored_torch.red.name=Tocha Vermelha
-tile.crimson_wall_sign.name=Sinal de parede carmesim
 tile.cut_copper_block.exposed.name=Bloco de cobre cortado exposto 
 tile.cut_copper_block.exposed.waxed.name=Bloco de cobre cortado exposto encerado 
 tile.cut_copper_block.name=Bloco de cobre cortado 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Bloco de cobre cortado encerado 
 tile.cut_copper_block.weathered.name=Bloco de Cobre Cortado Envelhecido 
 tile.cut_copper_block.weathered.waxed.name=Bloco de cobre cortado envelhecido encerado 
 tile.dark_oak_door.name=Porta de madeira de carvalho escuro
-tile.darkoak_wall_sign.name=Sinal de parede de carvalho escuro
 tile.daylight_detector_inverted.name=Detector de luz do dia invertido
-tile.deny.name=Negar 
 tile.double_cut_copper_slab.name=Laje de cobre de corte duplo
 tile.double_stone_slab.wood.name=Placa de Carvalho Petrificado
 tile.double_stone_slab3.end_brick.name=Laje de tijolo de extremidade dupla
@@ -69,12 +100,9 @@ tile.flowing_water.name=Água corrente
 tile.frame.name=Quadro
 tile.glow_frame.name=Moldura Brilhante
 tile.glowingobsidian.name=Obsidiana Brilhante
-tile.hard_glass.name=Vidro Duro 
-tile.hard_glass_pane.name=Painel de vidro rígido 
 tile.info_update.name=Bloco de atualização
 tile.info_update2.name=Bloco de atualização 2
 tile.jungle_door.name=porta da selva
-tile.jungle_wall_sign.name=Sinal de parede da selva
 tile.kelp.name=Kelp
 tile.lava.name=lava estática
 tile.lava_cauldron.name=caldeirão de lava
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Repetidor Alimentado
 tile.purpur_block.smooth.name=Púrpuro Suave
 tile.reserved6.name=Reservado 6
 tile.spruce_door.name=porta de abeto
-tile.spruce_wall_sign.name=Sinal de parede em abeto
 tile.stickypistonarmcollision.name=Colisão de braço de pistão pegajoso
 tile.stone_slab.wood.name=Placa de Carvalho Petrificado
-tile.underwater_torch.name=Lanterna subaquática 
 tile.unpowered_comparator.name=Comparador não alimentado
-tile.unpowered_repeater.name=Repetidor sem alimentação
+tile.unpowered_repeater.name=Repetidor sem energia
 tile.wall_banner.name=Banner de parede
-tile.wall_sign.name=Sinal de parede de carvalho
-tile.warped_wall_sign.name=Sinal de parede distorcido
 tile.water.name=água estática
 tile.waxed_double_cut_copper_slab.name=Placa de cobre de corte duplo encerada
 tile.waxed_exposed_double_cut_copper_slab.name=Laje de cobre de corte duplo exposta encerada

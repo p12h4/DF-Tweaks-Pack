@@ -15,7 +15,7 @@
         "operation": "insert_front",
         "value": [
           {
-            "update_news_button_panel@start.update_news_button_panel": {}
+            "pack_changelog_button_panel@start.pack_changelog_button_panel": {}
           }
         ]
       },
@@ -80,7 +80,7 @@
               "label": {
                 "type": "label",
                 "size": [200, "default"],
-                "text": "('Discontinued Feature Tweaks (1.18.10+)\n' + $pack_version)",
+                "text": "('Discontinued Feature Tweaks (' + $compatible_version + ')\n' + $pack_version)",
                 "text_alignment": "center",
                 "font_scale_factor": 0.7,
                 "font_type": "MinecraftTen"
@@ -127,7 +127,7 @@
           Changelog Button
    ==============================
   */
-  "update_news_button_panel": {
+  "pack_changelog_button_panel": {
     "type": "stack_panel",
     "anchor_to": "bottom_middle",
     "anchor_from": "bottom_middle",
@@ -144,12 +144,12 @@
           "orientation": "horizontal",
           "controls": [
             {
-              "update_news_btn@start.column_frame": {
-                "visible": "$is_publish",
+              "pack_changelog_btn@start.column_frame": {
+                "visible": true,
                 "size": ["fill", "fill"],
                 "controls": [
                   {
-                    "update_news_icon_button@start.update_news_icon_button": {}
+                    "pack_changelog_icon_button@start.pack_changelog_icon_button": {}
                   }
                 ],
                 "bindings": [
@@ -169,24 +169,24 @@
       }
     ]
   },
-  "update_news_icon": {
+  "pack_changelog_icon": {
     "type": "image",
-    "texture": "textures/ui/update_news_button",
+    "texture": "textures/ui/pack_changelog_button",
     "layer": 3,
     "size": [22, 22]
   },
-  "update_news_button@common_buttons.light_content_button": {
+  "pack_changelog_button@common_buttons.light_content_button": {
     "size": [24, 24],
-    "$button_content": "start.update_news_icon",
+    "$button_content": "start.pack_changelog_icon",
     "$pressed_button_name": "button.menu_buy_game"
   },
-  "update_news_icon_button": {
-    "visible": "$is_publish",
+  "pack_changelog_icon_button": {
+    "visible": true,
     "type": "panel",
     "controls": [
       {
-        "update_news_button@start.update_news_button": {
-          "visible": "$is_publish"
+        "pack_changelog_button@start.pack_changelog_button": {
+          "visible": true
         }
       }
     ]

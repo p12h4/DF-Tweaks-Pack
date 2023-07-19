@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Repül (régi)
+item.minecraft.goat_horn.sound.9=álom (régi)
+
+
+
 ## Banner Base
 item.banner.base.black=Fekete Banner alap
 item.banner.base.blue=Kék Banner alap
@@ -11,20 +17,51 @@ item.banner.base.magenta=Magenta Banner alap
 item.banner.base.orange=Narancssárga zászlóalap
 item.banner.base.pink=Rózsaszín Banner alap
 item.banner.base.purple=Lila Banner alap
-item.banner.base.red=Red Banner Base
+item.banner.base.red=Red Banner alap
 item.banner.base.silver=Világosszürke Banner Alap
 item.banner.base.white=Fehér Banner alap
 item.banner.base.yellow=Sárga zászlóalap
+
+
 
 ## Items
 item.copper_horn.name=Rézkürt 
 item.glow_stick.black.name=Fekete Glow Stick 
 item.spawn_egg.name=Ívik
 
-## Tiles
-tile.acacia_door.name=Akác ajtó
+
+
+## Wall Signs
+tile.wall_sign.name=tölgy fal jele
+tile.birch_wall_sign.name=Nyírfal jele
+tile.spruce_wall_sign.name=Lucfenyő fal jele
+tile.jungle_wall_sign.name=Dzsungel fal jele
 tile.acacia_wall_sign.name=Akác faltábla
+tile.darkoak_wall_sign.name=Sötét tölgy fal jele
+tile.crimson_wall_sign.name=Bíbor Faltábla
+tile.warped_wall_sign.name=Elvetemült faltábla
+tile.mangrove_wall_sign.name=Mangrove fal jele
+tile.bamboo_wall_sign.name=Bambusz fal jele
+tile.cherry_wall_sign.name=Cseresznyefal jele
+tile.mangrove_standing_sign.name=Mangrove jel
+tile.bamboo_standing_sign.name=Bambusz jel
+tile.cherry_standing_sign.name=Cseresznye jel
+
+
+
+## Education Edition
+tile.border_block.name=Határ 
+tile.chemical_heat.name=Kémiai hő 
 tile.allow.name=Engedélyezze 
+tile.deny.name=Megtagadás 
+tile.underwater_torch.name=Víz alatti fáklya 
+tile.hard_glass.name=Kemény üveg 
+tile.hard_glass_pane.name=Kemény üvegtábla 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Akác ajtó
 tile.bamboo_sapling.acacia.name=Akác bambusz csemete
 tile.bamboo_sapling.big_oak.name=Sötét tölgy bambusz csemete
 tile.bamboo_sapling.birch.name=Nyír bambusz csemete
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Dzsungel bambuszcsemete
 tile.bamboo_sapling.oak.name=Tölgy bambusz csemete
 tile.bamboo_sapling.spruce.name=Luc bambusz csemete
 tile.birch_door.name=Nyírfa ajtó
-tile.birch_wall_sign.name=Nyírfal jele
 tile.blackstone_double_slab.name=Blackstone Double Slab
-tile.border_block.name=Határ 
 tile.bubble_column.name=Buborék oszlop
-tile.chemical_heat.name=Kémiai hő 
 tile.chorus_plant.name=Kórus Sztem
 tile.client_request_placeholder_block.name=Client Request Placeholder Blokk
 tile.colored_torch.blue.name=Kék Fáklya
 tile.colored_torch.green.name=Zöld Fáklya
 tile.colored_torch.purple.name=Lila fáklya
 tile.colored_torch.red.name=Vörös Fáklya
-tile.crimson_wall_sign.name=Bíbor Faltábla
 tile.cut_copper_block.exposed.name=Szabadon vágott rézblokk 
 tile.cut_copper_block.exposed.waxed.name=Viaszított, szabadon vágott rézblokk 
 tile.cut_copper_block.name=Vágott réztömb 
@@ -52,14 +85,12 @@ tile.cut_copper_block.waxed.name=Waxed Cut Copper Block 
 tile.cut_copper_block.weathered.name=Viharvert vágott rézblokk 
 tile.cut_copper_block.weathered.waxed.name=Viaszos, viharvert vágott rézblokk 
 tile.dark_oak_door.name=Sötét tölgyfa ajtó
-tile.darkoak_wall_sign.name=Sötét tölgy fal jele
 tile.daylight_detector_inverted.name=Fordított nappali fényérzékelő
-tile.deny.name=Megtagadás 
 tile.double_cut_copper_slab.name=Dupla vágott rézlap
 tile.double_stone_slab.wood.name=Megkövesedett tölgyfödém
 tile.double_stone_slab3.end_brick.name=Kétvégű téglalap
 tile.double_stone_slab4.mossy_stone_brick.name=Dupla mohás kőtéglalap
-tile.end_gateway.name=End Gateway
+tile.end_gateway.name=Vége az átjárónak
 tile.end_portal.name=Portál csempe vége
 tile.end_portal_frame.name=Portál keret vége
 tile.exposed_double_cut_copper_slab.name=Látható kettős vágott rézlap
@@ -69,12 +100,9 @@ tile.flowing_water.name=Folyó víz
 tile.frame.name=Keret
 tile.glow_frame.name=Glow Frame
 tile.glowingobsidian.name=Izzó Obszidián
-tile.hard_glass.name=Kemény üveg 
-tile.hard_glass_pane.name=Kemény üvegtábla 
 tile.info_update.name=Blokk frissítése
 tile.info_update2.name=Frissítse a 2. blokkot
 tile.jungle_door.name=Dzsungel ajtó
-tile.jungle_wall_sign.name=Dzsungel fal jele
 tile.kelp.name=Hínár
 tile.lava.name=Statikus láva
 tile.lava_cauldron.name=Láva üst
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Powered Repeater
 tile.purpur_block.smooth.name=Sima Purpur
 tile.reserved6.name=Fenntartva 6
 tile.spruce_door.name=Lucfenyő ajtó
-tile.spruce_wall_sign.name=Lucfenyő fal jele
 tile.stickypistonarmcollision.name=Ragadós dugattyús kar ütközés
 tile.stone_slab.wood.name=Megkövesedett tölgyfödém
-tile.underwater_torch.name=Víz alatti fáklya 
 tile.unpowered_comparator.name=Unpowered Comparator
 tile.unpowered_repeater.name=Tápellátás nélküli átjátszó
 tile.wall_banner.name=Fali Banner
-tile.wall_sign.name=tölgy fal jele
-tile.warped_wall_sign.name=Elvetemült faltábla
 tile.water.name=Statikus víz
 tile.waxed_double_cut_copper_slab.name=Viaszított dupla vágott rézlap
 tile.waxed_exposed_double_cut_copper_slab.name=Viaszított, dupla vágott rézlap

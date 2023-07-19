@@ -1,0 +1,54 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.block_worn_zombie_villager_v2",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 3,
+        "visible_bounds_height": 4,
+        "visible_bounds_offset": [0, 1, 0]
+      },
+      "bones": [
+        {
+          "name": "head",
+          "pivot": [0, 24, 0],
+          "cubes": [
+            {
+              "origin": [-5, 24, -5],
+              "size": [10, 10, 10],
+              "inflate": 1.5,
+              "uv": {
+                "north": {
+                  "uv": [0, 0],
+                  "uv_size": [16, 16]
+                },
+                "east": {
+                  "uv": [0, 0],
+                  "uv_size": [16, 16]
+                },
+                "south": {
+                  "uv": [0, 0],
+                  "uv_size": [16, 16]
+                },
+                "west": {
+                  "uv": [0, 0],
+                  "uv_size": [16, 16]
+                },
+                "up": {
+                  "uv": [16, 16],
+                  "uv_size": [-16, -16]
+                },
+                "down": {
+                  "uv": [16, 16],
+                  "uv_size": [-16, -16]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

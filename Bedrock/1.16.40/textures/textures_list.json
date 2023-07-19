@@ -281,6 +281,6 @@
   "textures/misc/invisible_top",
   "textures/ui/Marketplace_Default",
   "textures/ui/Marketplace_Hover",
-  "textures/ui/toastBorder",
-  "textures/ui/update_news_button"
+  "textures/ui/pack_changelog_button",
+  "textures/ui/toastBorder"
 ]

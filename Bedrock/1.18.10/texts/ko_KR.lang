@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=플라이(오래된)
+item.minecraft.goat_horn.sound.9=꿈(구)
+
+
+
 ## Banner Base
 item.banner.base.black=블랙 배너 베이스
 item.banner.base.blue=블루 배너 베이스
@@ -16,15 +22,46 @@ item.banner.base.silver=라이트 그레이 배너 베이스
 item.banner.base.white=화이트 배너 베이스
 item.banner.base.yellow=노란색 배너 베이스
 
+
+
 ## Items
 item.copper_horn.name=구리 뿔 
 item.glow_stick.black.name=블랙 글로우 스틱 
 item.spawn_egg.name=알
 
-## Tiles=삼
-tile.acacia_door.name=아카시아 문
+
+
+## Wall Signs
+tile.wall_sign.name=오크 벽 표시
+tile.birch_wall_sign.name=자작나무 벽 표지판
+tile.spruce_wall_sign.name=가문비나무 벽 표시
+tile.jungle_wall_sign.name=정글 벽 표시
 tile.acacia_wall_sign.name=아카시아 벽 표지판
+tile.darkoak_wall_sign.name=다크 오크 벽 사인
+tile.crimson_wall_sign.name=크림슨 월 사인
+tile.warped_wall_sign.name=뒤틀린 벽 표지판
+tile.mangrove_wall_sign.name=맹그로브 벽 표지판
+tile.bamboo_wall_sign.name=대나무 벽 표시
+tile.cherry_wall_sign.name=체리 벽 사인
+tile.mangrove_standing_sign.name=맹그로브 표지판
+tile.bamboo_standing_sign.name=대나무 표시
+tile.cherry_standing_sign.name=체리 사인
+
+
+
+## Education Edition
+tile.border_block.name=테두리
+tile.chemical_heat.name=화학열 
 tile.allow.name=허용 
+tile.deny.name=거부 
+tile.underwater_torch.name=수중 토치 
+tile.hard_glass.name=단단한 유리 
+tile.hard_glass_pane.name=단단한 유리창 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=아카시아 문
 tile.bamboo_sapling.acacia.name=아카시아 대나무 묘목
 tile.bamboo_sapling.big_oak.name=다크 오크 대나무 묘목
 tile.bamboo_sapling.birch.name=자작나무 대나무 묘목
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=정글 대나무 묘목
 tile.bamboo_sapling.oak.name=참나무 묘목
 tile.bamboo_sapling.spruce.name=가문비나무 대나무 묘목
 tile.birch_door.name=자작나무 문
-tile.birch_wall_sign.name=자작나무 벽 표지판
 tile.blackstone_double_slab.name=블랙스톤 더블 슬래브
-tile.border_block.name=테두리
 tile.bubble_column.name=버블 칼럼
-tile.chemical_heat.name=화학열 
 tile.chorus_plant.name=후렴구
 tile.client_request_placeholder_block.name=클라이언트 요청 자리 표시자 블록
 tile.colored_torch.blue.name=블루 토치
 tile.colored_torch.green.name=그린 토치
 tile.colored_torch.purple.name=퍼플 토치
 tile.colored_torch.red.name=레드 토치
-tile.crimson_wall_sign.name=크림슨 월 사인
 tile.cut_copper_block.exposed.name=노출 컷 구리 블록 
 tile.cut_copper_block.exposed.waxed.name=왁스 노출 컷 구리 블록 
 tile.cut_copper_block.name=컷 구리 블록 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=왁스 컷 구리 블록 
 tile.cut_copper_block.weathered.name=웨더드 컷 구리 블록 
 tile.cut_copper_block.weathered.waxed.name=왁스 웨더드 컷 구리 블록 
 tile.dark_oak_door.name=다크 오크 우드 도어
-tile.darkoak_wall_sign.name=다크 오크 벽 사인
 tile.daylight_detector_inverted.name=거꾸로 된 일광 감지기
-tile.deny.name=거부 
 tile.double_cut_copper_slab.name=더블 컷 구리 슬래브
 tile.double_stone_slab.wood.name=석화된 오크 석판
 tile.double_stone_slab3.end_brick.name=더블 엔드 벽돌 슬래브
@@ -69,12 +100,9 @@ tile.flowing_water.name=흐르는 물
 tile.frame.name=액자
 tile.glow_frame.name=글로우 프레임
 tile.glowingobsidian.name=빛나는 흑요석
-tile.hard_glass.name=단단한 유리 
-tile.hard_glass_pane.name=단단한 유리창 
 tile.info_update.name=블록 업데이트
 tile.info_update2.name=업데이트 블록 2
 tile.jungle_door.name=정글도어
-tile.jungle_wall_sign.name=정글 벽 표시
 tile.kelp.name=켈프
 tile.lava.name=정적 용암
 tile.lava_cauldron.name=용암 가마솥
@@ -95,15 +123,11 @@ tile.powered_repeater.name=파워 리피터
 tile.purpur_block.smooth.name=부드러운 퍼퍼
 tile.reserved6.name=예약됨 6
 tile.spruce_door.name=가문비나무 문
-tile.spruce_wall_sign.name=가문비나무 벽 표시
 tile.stickypistonarmcollision.name=끈끈한 피스톤 암 충돌
 tile.stone_slab.wood.name=석화된 오크 석판
-tile.underwater_torch.name=수중 토치 
 tile.unpowered_comparator.name=무전원 비교기
 tile.unpowered_repeater.name=전원이 꺼진 중계기
 tile.wall_banner.name=월 배너
-tile.wall_sign.name=오크 벽 표시
-tile.warped_wall_sign.name=뒤틀린 벽 표지판
 tile.water.name=정적 물
 tile.waxed_double_cut_copper_slab.name=왁스 더블 컷 구리 슬래브
 tile.waxed_exposed_double_cut_copper_slab.name=왁스 노출 이중 절단 구리 슬래브

@@ -1,3 +1,9 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Fly (old)
+item.minecraft.goat_horn.sound.9=Dream (old)
+
+
+
 ## Banner Base
 item.banner.base.black=Black Banner Base
 item.banner.base.blue=Blue Banner Base
@@ -16,15 +22,46 @@ item.banner.base.silver=Light Gray Banner Base
 item.banner.base.white=White Banner Base
 item.banner.base.yellow=Yellow Banner Base
 
+
+
 ## Items
 item.copper_horn.name=Copper Horn 
 item.glow_stick.black.name=Black Glow Stick 
 item.spawn_egg.name=Spawn
 
-## Tiles
-tile.acacia_door.name=Acacia Door
+
+
+## Wall Signs
+tile.wall_sign.name=Oak Wall Sign
+tile.birch_wall_sign.name=Birch Wall Sign
+tile.spruce_wall_sign.name=Spruce Wall Sign
+tile.jungle_wall_sign.name=Jungle Wall Sign
 tile.acacia_wall_sign.name=Acacia Wall Sign
+tile.darkoak_wall_sign.name=Dark Oak Wall Sign
+tile.crimson_wall_sign.name=Crimson Wall Sign
+tile.warped_wall_sign.name=Warped Wall Sign
+tile.mangrove_wall_sign.name=Mangrove Wall Sign
+tile.bamboo_wall_sign.name=Bamboo Wall Sign
+tile.cherry_wall_sign.name=Cherry Wall Sign
+tile.mangrove_standing_sign.name=Mangrove Sign
+tile.bamboo_standing_sign.name=Bamboo Sign
+tile.cherry_standing_sign.name=Cherry Sign
+
+
+
+## Education Edition
+tile.border_block.name=Border 
+tile.chemical_heat.name=Chemical Heat 
 tile.allow.name=Allow 
+tile.deny.name=Deny 
+tile.underwater_torch.name=Underwater Torch 
+tile.hard_glass.name=Hard Glass 
+tile.hard_glass_pane.name=Hard Glass Pane 
+
+
+
+## Misc Tiles
+tile.acacia_door.name=Acacia Door
 tile.bamboo_sapling.acacia.name=Acacia Bamboo Sapling
 tile.bamboo_sapling.big_oak.name=Dark Oak Bamboo Sapling
 tile.bamboo_sapling.birch.name=Birch Bamboo Sapling
@@ -32,18 +69,14 @@ tile.bamboo_sapling.jungle.name=Jungle Bamboo Sapling
 tile.bamboo_sapling.oak.name=Oak Bamboo Sapling
 tile.bamboo_sapling.spruce.name=Spruce Bamboo Sapling
 tile.birch_door.name=Birch Door
-tile.birch_wall_sign.name=Birch Wall Sign
 tile.blackstone_double_slab.name=Blackstone Double Slab
-tile.border_block.name=Border 
 tile.bubble_column.name=Bubble Column
-tile.chemical_heat.name=Chemical Heat 
 tile.chorus_plant.name=Chorus Stem
 tile.client_request_placeholder_block.name=Client Request Placeholder Block
 tile.colored_torch.blue.name=Blue Torch
 tile.colored_torch.green.name=Green Torch
 tile.colored_torch.purple.name=Purple Torch
 tile.colored_torch.red.name=Red Torch
-tile.crimson_wall_sign.name=Crimson Wall Sign
 tile.cut_copper_block.exposed.name=Exposed Cut Copper Block 
 tile.cut_copper_block.exposed.waxed.name=Waxed Exposed Cut Copper Block 
 tile.cut_copper_block.name=Cut Copper Block 
@@ -52,9 +85,7 @@ tile.cut_copper_block.waxed.name=Waxed Cut Copper Block 
 tile.cut_copper_block.weathered.name=Weathered Cut Copper Block 
 tile.cut_copper_block.weathered.waxed.name=Waxed Weathered Cut Copper Block 
 tile.dark_oak_door.name=Dark Oak Wood Door
-tile.darkoak_wall_sign.name=Dark Oak Wall Sign
 tile.daylight_detector_inverted.name=Inverted Daylight Detector
-tile.deny.name=Deny 
 tile.double_cut_copper_slab.name=Double Cut Copper Slab
 tile.double_stone_slab.wood.name=Petrified Oak Slab
 tile.double_stone_slab3.end_brick.name=Double End Brick Slab
@@ -69,12 +100,9 @@ tile.flowing_water.name=Flowing Water
 tile.frame.name=Frame
 tile.glow_frame.name=Glow Frame
 tile.glowingobsidian.name=Glowing Obsidian
-tile.hard_glass.name=Hard Glass 
-tile.hard_glass_pane.name=Hard Glass Pane 
 tile.info_update.name=Update Block
 tile.info_update2.name=Update Block 2
 tile.jungle_door.name=Jungle Door
-tile.jungle_wall_sign.name=Jungle Wall Sign
 tile.kelp.name=Kelp
 tile.lava.name=Static Lava
 tile.lava_cauldron.name=Lava Cauldron
@@ -95,15 +123,11 @@ tile.powered_repeater.name=Powered Repeater
 tile.purpur_block.smooth.name=Smooth Purpur
 tile.reserved6.name=Reserved 6
 tile.spruce_door.name=Spruce Door
-tile.spruce_wall_sign.name=Spruce Wall Sign
 tile.stickypistonarmcollision.name=Sticky Piston Arm Collision
 tile.stone_slab.wood.name=Petrified Oak Slab
-tile.underwater_torch.name=Underwater Torch 
 tile.unpowered_comparator.name=Unpowered Comparator
 tile.unpowered_repeater.name=Unpowered Repeater
 tile.wall_banner.name=Wall Banner
-tile.wall_sign.name=Oak Wall Sign
-tile.warped_wall_sign.name=Warped Wall Sign
 tile.water.name=Static Water
 tile.waxed_double_cut_copper_slab.name=Waxed Double Cut Copper Slab
 tile.waxed_exposed_double_cut_copper_slab.name=Waxed Exposed Double Cut Copper Slab
