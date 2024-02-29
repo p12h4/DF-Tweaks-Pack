@@ -1,0 +1,75 @@
+{
+  "namespace": "pack_changelog",
+  /*
+   #================#
+   #     Screen     #
+   #================#
+  */
+  "changelog_panel@common_dialogs.main_panel_no_buttons": {
+    "size": ["80%", "80%"],
+    "$text_name": "Changelog",
+    "$child_control": "pack_changelog.scrolling_panel"
+  },
+  "scrolling_panel@common.scrolling_panel": {
+    "$show_background": false,
+    "$scrolling_content": "pack_changelog.panel_content"
+  },
+  /*
+   #========================#
+   #     Screen Content     #
+   #========================#
+  */
+  "panel_content": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": ["100%", 256],
+    "offset": [4, 4],
+    "controls": [
+      {
+        "content": {
+          "type": "stack_panel",
+          "size": ["fill", "100%"],
+          "controls": [
+            {
+              "current_version": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "$pack_version"
+              }
+            },
+            {
+              "current_version_changelog": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- added a unique texture to vindicator captains\n- improved korean translations\n- improved polish translations\n- improved spanish translations\n- made armor visible on foxes\n- made crash block outlines brighter\n"
+              }
+            },
+            {
+              "previous_version_header": {
+                "type": "label",
+                "font_scale_factor": 0.9,
+                "text": "\nPrevious Version"
+              }
+            },
+            {
+              "previous_version": {
+                "type": "label",
+                "font_scale_factor": 0.8,
+                "color": [0.4, 0.4, 0.4],
+                "text": "\nPack Version: 4.3.0"
+              }
+            },
+            {
+              "previous_version_changelog": {
+                "type": "label",
+                "font_scale_factor": 0.7,
+                "text": "- added a red outline to all element blocks that previously did not have one\n- added translation strings for goat horn sound 8 and 9\n- added translation strings for mangrove, bamboo and cherry sign tiles\n- changed the item renaming character limit to the 32-bit integer limit\n- internal changes\n- made pumpkins visible on witches"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

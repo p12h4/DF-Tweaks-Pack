@@ -1,0 +1,138 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=летя (стар)
+item.minecraft.goat_horn.sound.9=мечта (стара)
+
+
+
+## Banner Base
+item.banner.base.black=Основа за черен банер
+item.banner.base.blue=База със синьо знаме
+item.banner.base.brown=Основа за кафяв банер
+item.banner.base.cyan=Основа за циан банер
+item.banner.base.gray=Сива банерна основа
+item.banner.base.green=Основа на зеления банер
+item.banner.base.lightBlue=Светлосиня банерна основа
+item.banner.base.lime=Основа за банер от вар
+item.banner.base.magenta=Магента банерна основа
+item.banner.base.orange=Оранжева банерна основа
+item.banner.base.pink=Основа за розов банер
+item.banner.base.purple=Лилава основа за банер
+item.banner.base.red=База на Червеното знаме
+item.banner.base.silver=Светло сива банерна основа
+item.banner.base.white=Бяла банерна основа
+item.banner.base.yellow=Основа за жълто знаме
+
+
+
+## Items
+item.copper_horn.name=Меден рог 
+item.glow_stick.black.name=Черен светещ стик 
+item.spawn_egg.name=Спаун
+
+
+
+## Wall Signs
+tile.wall_sign.name=Табела за стена от дъб
+tile.birch_wall_sign.name=Знак за стена Бреза
+tile.spruce_wall_sign.name=Табела за стена смърч
+tile.jungle_wall_sign.name=Знак за стена в джунглата
+tile.acacia_wall_sign.name=Стенен знак от акация
+tile.darkoak_wall_sign.name=Табела за стена от тъмен дъб
+tile.crimson_wall_sign.name=Пурпурен стенен знак
+tile.warped_wall_sign.name=Знак за изкривена стена
+tile.mangrove_wall_sign.name=Мангрова стена
+tile.bamboo_wall_sign.name=Бамбукова табела за стена
+tile.cherry_wall_sign.name=Знак за стена Череша
+tile.mangrove_standing_sign.name=Мангрова гора
+tile.bamboo_standing_sign.name=Бамбуков знак
+tile.cherry_standing_sign.name=Черешов знак
+
+
+
+## Education Edition
+tile.border_block.name=Граница 
+tile.chemical_heat.name=Химическа топлина 
+tile.allow.name=Разрешете 
+tile.deny.name=Отказ 
+tile.underwater_torch.name=Подводен факел 
+tile.hard_glass.name=Твърдо стъкло 
+tile.hard_glass_pane.name=Твърдо стъкло 
+
+
+
+## Misc
+item..name=Празно
+tile.acacia_door.name=Врата от акация
+tile.bamboo_sapling.acacia.name=Бамбукова фиданка от акация
+tile.bamboo_sapling.big_oak.name=Бамбукова фиданка тъмен дъб
+tile.bamboo_sapling.birch.name=Фиданка от бамбук от бреза
+tile.bamboo_sapling.jungle.name=Бамбукова фиданка от джунглата
+tile.bamboo_sapling.oak.name=Фиданка от бамбук от дъб
+tile.bamboo_sapling.spruce.name=Смърч бамбукова фиданка
+tile.birch_door.name=Бреза врата
+tile.blackstone_double_slab.name=Blackstone двойна плоча
+tile.bubble_column.name=Мехурчеста колона
+tile.chorus_plant.name=Припев
+tile.client_request_placeholder_block.name=Заместващ блок за клиентска заявка
+tile.colored_torch.blue.name=Син факел
+tile.colored_torch.green.name=Зелен факел
+tile.colored_torch.purple.name=Лилав факел
+tile.colored_torch.red.name=Червен факел
+tile.cut_copper_block.exposed.name=Открит изрязан меден блок 
+tile.cut_copper_block.exposed.waxed.name=Восъчен изрязан меден блок 
+tile.cut_copper_block.name=Изрязан меден блок 
+tile.cut_copper_block.oxidized.name=Оксидиран меден блок 
+tile.cut_copper_block.waxed.name=Восъчен меден блок 
+tile.cut_copper_block.weathered.name=Изгорел меден блок 
+tile.cut_copper_block.weathered.waxed.name=Восъчен изветрял изрязан меден блок 
+tile.dark_oak_door.name=Врата от тъмен дъб
+tile.daylight_detector_inverted.name=Обърнат детектор за дневна светлина
+tile.double_cut_copper_slab.name=Двойно изрязана медна плоча
+tile.double_stone_slab.wood.name=Плоча от вкаменен дъб
+tile.double_stone_slab3.end_brick.name=Тухлена плоча с двоен край
+tile.double_stone_slab4.mossy_stone_brick.name=Двойна мъхеста каменна тухлена плоча
+tile.end_gateway.name=Краен шлюз
+tile.end_portal.name=Крайна портална плочка
+tile.end_portal_frame.name=Крайна портална рамка
+tile.exposed_double_cut_copper_slab.name=Изложена двойно изрязана медна плоча
+tile.flower_pot.name=Саксия
+tile.flowing_lava.name=Течаща лава
+tile.flowing_water.name=Течаща вода
+tile.frame.name=Кадър
+tile.glow_frame.name=Светеща рамка
+tile.glowingobsidian.name=Светещ обсидиан
+tile.info_update.name=Актуализирай блок
+tile.info_update2.name=Актуализирайте блок 2
+tile.jungle_door.name=Вратата на джунглата
+tile.kelp.name=Келп
+tile.lava.name=Статична лава
+tile.lava_cauldron.name=Котел от лава
+tile.lit_blast_furnace.name=Запалена доменна пещ
+tile.lit_deepslate_redstone_ore.name=Осветена руда Deepslate Redstone
+tile.lit_furnace.name=Запалена пещ
+tile.lit_redstone_lamp.name=Осветена лампа от Редстоун
+tile.lit_redstone_ore.name=Осветена руда Redstone
+tile.lit_smoker.name=Запален пушач
+tile.movingBlock.name=Движеща се блокова плочка
+tile.oxidized_double_cut_copper_slab.name=Оксидирана двойно изрязана медна плоча
+tile.pistonarmcollision.name=Сблъсък с бутално рамо
+tile.polished_blackstone_brick_double_slab.name=Двойна плоча от тухла Blackstone
+tile.polished_blackstone_double_slab.name=Полирана двойна плоча Blackstone
+tile.powder_snow.name=Прахообразен снежен блок
+tile.powered_comparator.name=Захранван компаратор
+tile.powered_repeater.name=Захранван ретранслатор
+tile.purpur_block.smooth.name=Гладък пурпур
+tile.reserved6.name=Запазено 6
+tile.spruce_door.name=Смърч Врата
+tile.stickypistonarmcollision.name=Сблъсък със залепващо бутално рамо
+tile.stone_slab.wood.name=Плоча от вкаменен дъб
+tile.unpowered_comparator.name=Компаратор без захранване
+tile.unpowered_repeater.name=Ретранслатор без захранване
+tile.wall_banner.name=Банер за стена
+tile.water.name=Статична вода
+tile.waxed_double_cut_copper_slab.name=Восъчна двойно изрязана медна плоча
+tile.waxed_exposed_double_cut_copper_slab.name=Восъчна открита двойно изрязана медна плоча
+tile.waxed_oxidized_double_cut_copper_slab.name=Восъчна оксидирана двойно изрязана медна плоча
+tile.waxed_weathered_double_cut_copper_slab.name=Восъчна изветряла двойно изрязана медна плоча
+tile.weathered_double_cut_copper_slab.name=Изветряла двойно изрязана медна плоча
+tile.wooden_door.name=Дъбова дървена врата

@@ -1,0 +1,138 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Lot (stare)
+item.minecraft.goat_horn.sound.9=Marzenie (stare)
+
+
+
+## Banner Base
+item.banner.base.black=Czarny sztandar bazowy
+item.banner.base.blue=Niebieski sztandar bazowy
+item.banner.base.brown=Brązowy sztandar bazowy
+item.banner.base.cyan=Błękitny sztandar bazowy
+item.banner.base.gray=Szary sztandar bazowy
+item.banner.base.green=Zielony sztandar bazowy
+item.banner.base.lightBlue=Jasnoniebieski sztandar bazowy
+item.banner.base.lime=Jasnozielony sztandar bazowy
+item.banner.base.magenta=Karmazynowy sztandar bazowy
+item.banner.base.orange=Pomarańczowy sztandar bazowy
+item.banner.base.pink=Różowy sztandar bazowy
+item.banner.base.purple=Fioletowy sztandar bazowy
+item.banner.base.red=Czerwony sztandar bazowy
+item.banner.base.silver=Jasnoszary sztandar bazowy
+item.banner.base.white=Biały sztandar bazowy
+item.banner.base.yellow=Żółty sztandar bazowy
+
+
+
+## Items
+item.copper_horn.name=Miedziany róg 
+item.glow_stick.black.name=Czarny świetlik 
+item.spawn_egg.name=Jajo
+
+
+
+## Wall Signs
+tile.wall_sign.name=Dębowa tabliczka ścienna
+tile.birch_wall_sign.name=Brzozowa tabliczka ścienna
+tile.spruce_wall_sign.name=Świerkowa tabliczka ścienna
+tile.jungle_wall_sign.name=Tropikalna tabliczka ścienna
+tile.acacia_wall_sign.name=Akacjowa tabliczka ścienna
+tile.darkoak_wall_sign.name=Ciemna dębowa tabliczka ścienna
+tile.crimson_wall_sign.name=Szkarłatna tabliczka ścienna
+tile.warped_wall_sign.name=Spaczona tabliczka ścienna
+tile.mangrove_wall_sign.name=Namorzynowa tabliczka ścienna
+tile.bamboo_wall_sign.name=Bambusowa tabliczka ścienna
+tile.cherry_wall_sign.name=Wiśniowa tabliczka ścienna
+tile.mangrove_standing_sign.name=Namorzynowa tabliczka
+tile.bamboo_standing_sign.name=Bambusowa tabliczka
+tile.cherry_standing_sign.name=Wiśniowa tabliczka
+
+
+
+## Education Edition
+tile.border_block.name=Granica 
+tile.chemical_heat.name=Blok ciepła 
+tile.allow.name=Zezwól 
+tile.deny.name=Odmów 
+tile.underwater_torch.name=Podwodna pochodnia 
+tile.hard_glass.name=Wzmocnione szkło 
+tile.hard_glass_pane.name=Szyba ze wzmocnionego szkła 
+
+
+
+## Misc
+item..name=Pusty
+tile.acacia_door.name=Akacjowe drzwi
+tile.bamboo_sapling.acacia.name=Akacjowa sadzonka bambusu
+tile.bamboo_sapling.big_oak.name=Ciemna dębowa sadzonka bambusu
+tile.bamboo_sapling.birch.name=Brzozowa sadzonka bambusu
+tile.bamboo_sapling.jungle.name=Tropikalna sadzonka bambusu
+tile.bamboo_sapling.oak.name=Dębowa sadzonka bambusu
+tile.bamboo_sapling.spruce.name=Świerkowa sadzonka bambusu
+tile.birch_door.name=Brzozowe drzwi
+tile.blackstone_double_slab.name=Podwójna czernitowa płyta
+tile.bubble_column.name=Kolumna bąbelkowa
+tile.chorus_plant.name=Roślina refrenusu
+tile.client_request_placeholder_block.name=Blok zastępczy żądania klienta
+tile.colored_torch.blue.name=Niebieska pochodnia
+tile.colored_torch.green.name=Zielona pochodnia
+tile.colored_torch.purple.name=Fioletowa pochodnia
+tile.colored_torch.red.name=Czerwona pochodnia
+tile.cut_copper_block.exposed.name=Zwietrzały żłobiony blok miedzi 
+tile.cut_copper_block.exposed.waxed.name=Woskowany zwietrzały żłobiony blok miedzi 
+tile.cut_copper_block.name=Źłobiony blok miedzi 
+tile.cut_copper_block.oxidized.name=Utleniony żłobiony blok miedzi 
+tile.cut_copper_block.waxed.name=Woskowany żłobiony blok miedzi 
+tile.cut_copper_block.weathered.name=Zaśniedziały żłobiony blok miedzi 
+tile.cut_copper_block.weathered.waxed.name=Woskowany zaśniedziały żłobiony blok miedzi 
+tile.dark_oak_door.name=Ciemne dębowe drewniane drzwi
+tile.daylight_detector_inverted.name=Odwrócony detektor światła dziennego
+tile.double_cut_copper_slab.name=Podwójna żłobiona miedziana płyta
+tile.double_stone_slab.wood.name=Podwójna skamieniała dębowa płyta
+tile.double_stone_slab3.end_brick.name=Podwójna endowa kamienna ceglana płyta
+tile.double_stone_slab4.mossy_stone_brick.name=Podwójna zamszona kamienna ceglana płyta
+tile.end_gateway.name=Brama Endu
+tile.end_portal.name=Blok portalu do Endu
+tile.end_portal_frame.name=Rama portalu do Endu
+tile.exposed_double_cut_copper_slab.name=Podwójna zwietrzała żłobiona miedziana płyta
+tile.flower_pot.name=Doniczka
+tile.flowing_lava.name=Płynąca lawa
+tile.flowing_water.name=Płynąca woda
+tile.frame.name=Ramka
+tile.glow_frame.name=Świecąca ramka
+tile.glowingobsidian.name=Świecący obsydian
+tile.info_update.name=Blok aktualizacji
+tile.info_update2.name=Blok aktualizacji 2
+tile.jungle_door.name=Tropikalne drzwi
+tile.kelp.name=Wodorosty
+tile.lava.name=Stojąca lawa
+tile.lava_cauldron.name=Kocioł z lawą
+tile.lit_blast_furnace.name=Płonący piec hutniczy
+tile.lit_deepslate_redstone_ore.name=Świecące łupkowe złoże redstone
+tile.lit_furnace.name=Płonący piec
+tile.lit_redstone_lamp.name=Świecąca lampa
+tile.lit_redstone_ore.name=Świecące złoże redstone
+tile.lit_smoker.name=Płonąca wędzarka
+tile.movingBlock.name=Pchany blok
+tile.oxidized_double_cut_copper_slab.name=Podwójna utleniona żłobiona miedziana płyta
+tile.pistonarmcollision.name=Głowica tłoka
+tile.polished_blackstone_brick_double_slab.name=Podwójna wypolerowana czernitowa ceglana płyta
+tile.polished_blackstone_double_slab.name=Podwójna wypolerowana czernitowa płyta
+tile.powder_snow.name=Blok sypkiego śniegu
+tile.powered_comparator.name=Uruchomiony komparator
+tile.powered_repeater.name=Uruchomiony przekaźnik
+tile.purpur_block.smooth.name=Gładki purpur
+tile.reserved6.name=Zarezerwowany 6
+tile.spruce_door.name=Świerkowe drzwi
+tile.stickypistonarmcollision.name=Głowica lepkiego tłoka
+tile.stone_slab.wood.name=Skamieniała dębowa płyta
+tile.unpowered_comparator.name=Wyłączony komparator
+tile.unpowered_repeater.name=Wyłączony przekaźnik
+tile.wall_banner.name=Sztandar ścienny
+tile.water.name=Stojąca woda
+tile.waxed_double_cut_copper_slab.name=Podwójna woskowana żłobiona miedziana płyta
+tile.waxed_exposed_double_cut_copper_slab.name=Podwójna woskowana zwietrzała żłobiona miedziana płyta
+tile.waxed_oxidized_double_cut_copper_slab.name=Podwójna woskowana utleniona żłobiona miedziana płyta
+tile.waxed_weathered_double_cut_copper_slab.name=Podwójna woskowana zaśniedziała żłobiona miedziana płyta
+tile.weathered_double_cut_copper_slab.name=Podwójna zaśniedziała żłobiona miedziana płyta
+tile.wooden_door.name=Dębowe drzwi

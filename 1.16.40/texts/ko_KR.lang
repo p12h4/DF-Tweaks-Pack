@@ -1,0 +1,138 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=비행 (구형)
+item.minecraft.goat_horn.sound.9=꿈결 (구형)
+
+
+
+## Banner Base
+item.banner.base.black=검은색 밑바탕 현수막 
+item.banner.base.blue=파란색 밑바탕 현수막
+item.banner.base.brown=갈색 밑바탕 현수막
+item.banner.base.cyan=파란색 밑바탕 현수막
+item.banner.base.gray=회색 밑바탕 현수막
+item.banner.base.green=초록색 밑바탕 현수막
+item.banner.base.lightBlue=하늘색 밑바탕 현수막
+item.banner.base.lime=연두색 밑바탕 현수막
+item.banner.base.magenta=자홍색 밑바탕 현수막
+item.banner.base.orange=주황색 밑바탕 현수막
+item.banner.base.pink=분홍색 밑바탕 현수막
+item.banner.base.purple=보라색 밑바탕 현수막
+item.banner.base.red=빨간색 밑바탕 현수막
+item.banner.base.silver=회백색 밑바탕 현수막
+item.banner.base.white=흰색 밑바탕 현수막
+item.banner.base.yellow=노란색 밑바탕 현수막
+
+
+
+## Items
+item.copper_horn.name=구리 나팔 
+item.glow_stick.black.name=검은색 야광봉 
+item.spawn_egg.name=생성알
+
+
+
+## Wall Signs
+tile.wall_sign.name=참나무 벽 표지판
+tile.birch_wall_sign.name=자작나무 벽 표지판
+tile.spruce_wall_sign.name=가문비나무 벽 표지판
+tile.jungle_wall_sign.name=정글나무 벽 표지판
+tile.acacia_wall_sign.name=아카시아 벽 표지판
+tile.darkoak_wall_sign.name=짙은 참나무 벽 표지판
+tile.crimson_wall_sign.name=진홍빛 벽 표지판
+tile.warped_wall_sign.name=뒤틀린 벽 표지판
+tile.mangrove_wall_sign.name=맹그로브나무 벽 표지판
+tile.bamboo_wall_sign.name=대나무 벽 표지판
+tile.cherry_wall_sign.name=벚나무 벽 표지판
+tile.mangrove_standing_sign.name=맹그로브나무 표지판
+tile.bamboo_standing_sign.name=대나무 표지판
+tile.cherry_standing_sign.name=벚나무 표지판
+
+
+
+## Education Edition
+tile.border_block.name=경계 
+tile.chemical_heat.name=열 블록 
+tile.allow.name=허용 
+tile.deny.name=거부 
+tile.underwater_torch.name=수중 횃불 
+tile.hard_glass.name=강화 유리 
+tile.hard_glass_pane.name=강화 판유리 
+
+
+
+## Misc
+item..name=공백
+tile.acacia_door.name=아카시아나무 문
+tile.bamboo_sapling.acacia.name=아카시아나무 대나무 묘목
+tile.bamboo_sapling.big_oak.name=짙은 참나무 대나무 묘목
+tile.bamboo_sapling.birch.name=자작나무 대나무 묘목
+tile.bamboo_sapling.jungle.name=정글나무 대나무 묘목
+tile.bamboo_sapling.oak.name=참나무 대나무 묘목
+tile.bamboo_sapling.spruce.name=가문비나무 대나무 묘목
+tile.birch_door.name=자작나무 문
+tile.blackstone_double_slab.name=흑암 이중 판
+tile.bubble_column.name=거품 기둥
+tile.chorus_plant.name=후렴초
+tile.client_request_placeholder_block.name=클라이언트 요청 플레이스홀더 블록
+tile.colored_torch.blue.name=파란색 횃불
+tile.colored_torch.green.name=초록색 횃불
+tile.colored_torch.purple.name=보라색 횃불
+tile.colored_torch.red.name=빨간색 횃불
+tile.cut_copper_block.exposed.name=약간 녹슨 깎인 구리 블록 
+tile.cut_copper_block.exposed.waxed.name=밀랍칠한 약간 녹슨 깎인 구리 블록 
+tile.cut_copper_block.name=깎인 구리 블록 
+tile.cut_copper_block.oxidized.name=산화된 깎인 구리 블록 
+tile.cut_copper_block.waxed.name=밀랍칠한 깎인 구리 블록 
+tile.cut_copper_block.weathered.name=녹슨 깎인 구리 블록 
+tile.cut_copper_block.weathered.waxed.name=밀랍칠한 녹슨 깎인 구리 블록   
+tile.dark_oak_door.name=짙은 참나무 문
+tile.daylight_detector_inverted.name=거꾸로된 햇빛감지기
+tile.double_cut_copper_slab.name=깎인 구리 이중 판
+tile.double_stone_slab.wood.name=규화한 참나무 이중 판
+tile.double_stone_slab3.end_brick.name=엔드 스톤 벽돌 이중 판
+tile.double_stone_slab4.mossy_stone_brick.name=이끼 낀 조약돌 이중 판
+tile.end_gateway.name=엔드 관문
+tile.end_portal.name=엔드 차원문 타일
+tile.end_portal_frame.name=엔드 차원문 틀
+tile.exposed_double_cut_copper_slab.name=약간 녹슨 깎인 구리 이중 판
+tile.flower_pot.name=화분
+tile.flowing_lava.name=흐르는 용암
+tile.flowing_water.name=흐르는 물
+tile.frame.name=아이템 액자
+tile.glow_frame.name=빛나는 아이템 액자
+tile.glowingobsidian.name=빛나는 흑요석
+tile.info_update.name=업데이트 블록
+tile.info_update2.name=업데이트 블록 2
+tile.jungle_door.name=정글나무 문
+tile.kelp.name=켈프
+tile.lava.name=정적인 용암
+tile.lava_cauldron.name=용암이 찬 가마솥
+tile.lit_blast_furnace.name=불타는 용광로
+tile.lit_deepslate_redstone_ore.name=빛나는 심층암 레드스톤 광석
+tile.lit_furnace.name=불타는 화로
+tile.lit_redstone_lamp.name=빛나는 레드스톤 조명
+tile.lit_redstone_ore.name=빛나는 레드스톤 광석
+tile.lit_smoker.name=불타는 훈연기
+tile.movingBlock.name=이동 블록
+tile.oxidized_double_cut_copper_slab.name=산화된 깎인 구리 이중 판
+tile.pistonarmcollision.name=피스톤 머리
+tile.polished_blackstone_brick_double_slab.name=광택 흑암 벽돌 이중 판
+tile.polished_blackstone_double_slab.name=광택 흑암 이중 판
+tile.powder_snow.name=가루눈 블록
+tile.powered_comparator.name=활성화된 비교기
+tile.powered_repeater.name=활성화된 중계기
+tile.purpur_block.smooth.name=매끄러운 퍼퍼 블록
+tile.reserved6.name=예비 6번
+tile.spruce_door.name=가문비나무 문
+tile.stickypistonarmcollision.name=끈끈이 피스톤 머리
+tile.stone_slab.wood.name=규화한 참나무 판
+tile.unpowered_comparator.name=비활성화된 비교기
+tile.unpowered_repeater.name=비활성화된 중계기
+tile.wall_banner.name=벽 현수막
+tile.water.name=정적인 물
+tile.waxed_double_cut_copper_slab.name=밀랍칠한 깎인 구리 이중 판
+tile.waxed_exposed_double_cut_copper_slab.name=밀랍칠한 약간 녹슨 깎인 구리 이중 판
+tile.waxed_oxidized_double_cut_copper_slab.name=밀랍칠한 산화된 깎인 구리 이중 판
+tile.waxed_weathered_double_cut_copper_slab.name=밀랍칠한 녹슨 깎인 구리 이중 판
+tile.weathered_double_cut_copper_slab.name=녹슨 깎인 구리 이중 판
+tile.wooden_door.name=참나무 문

@@ -1,0 +1,138 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Летать (стар.)
+item.minecraft.goat_horn.sound.9=Сон (старый)
+
+
+
+## Banner Base
+item.banner.base.black=База Черного Знамени
+item.banner.base.blue=База Синего Знамени
+item.banner.base.brown=База коричневого знамени
+item.banner.base.cyan=База голубого знамени
+item.banner.base.gray=База Серого Знамени
+item.banner.base.green=База Зеленого Знамени
+item.banner.base.lightBlue=Голубая основа баннера
+item.banner.base.lime=Лаймовое знамя
+item.banner.base.magenta=База пурпурного баннера
+item.banner.base.orange=База оранжевого баннера
+item.banner.base.pink=База розового знамени
+item.banner.base.purple=База фиолетового знамени
+item.banner.base.red=База Красного Знамени
+item.banner.base.silver=Светло-серая основа баннера
+item.banner.base.white=База Белого Знамени
+item.banner.base.yellow=База желтого знамени
+
+
+
+## Items
+item.copper_horn.name=Медный рог 
+item.glow_stick.black.name=Черная светящаяся палочка 
+item.spawn_egg.name=Порождать
+
+
+
+## Wall Signs
+tile.wall_sign.name=Дубовая стена
+tile.birch_wall_sign.name=Знак стены березы
+tile.spruce_wall_sign.name=Еловая стена
+tile.jungle_wall_sign.name=Знак стены джунглей
+tile.acacia_wall_sign.name=Настенный знак акации
+tile.darkoak_wall_sign.name=Настенный знак из темного дуба
+tile.crimson_wall_sign.name=Знак малиновой стены
+tile.warped_wall_sign.name=Деформированный настенный знак
+tile.mangrove_wall_sign.name=Знак стены мангровых зарослей
+tile.bamboo_wall_sign.name=Бамбуковый настенный знак
+tile.cherry_wall_sign.name=Знак вишневой стены
+tile.mangrove_standing_sign.name=Знак мангровых зарослей
+tile.bamboo_standing_sign.name=Бамбуковый знак
+tile.cherry_standing_sign.name=Вишневый знак
+
+
+
+## Education Edition
+tile.border_block.name=Граница 
+tile.chemical_heat.name=Химический нагрев 
+tile.allow.name=Разрешить 
+tile.deny.name=Запретить 
+tile.underwater_torch.name=Подводный фонарь 
+tile.hard_glass.name=Твердое стекло 
+tile.hard_glass_pane.name=Твердое стекло 
+
+
+
+## Misc
+item..name=Пустой
+tile.acacia_door.name=Дверь из акации
+tile.bamboo_sapling.acacia.name=Саженец бамбука акации
+tile.bamboo_sapling.big_oak.name=Саженец темного дуба бамбука
+tile.bamboo_sapling.birch.name=Березовый саженец бамбука
+tile.bamboo_sapling.jungle.name=Саженец джунглей бамбука
+tile.bamboo_sapling.oak.name=Дуб Бамбуковый Саженец
+tile.bamboo_sapling.spruce.name=Ель бамбуковый саженец
+tile.birch_door.name=Березовая дверь
+tile.blackstone_double_slab.name=Двойная плита Blackstone
+tile.bubble_column.name=Пузырьковая колонка
+tile.chorus_plant.name=Хор Стебель
+tile.client_request_placeholder_block.name=Блок-заполнитель запроса клиента
+tile.colored_torch.blue.name=Синий факел
+tile.colored_torch.green.name=Зеленый факел
+tile.colored_torch.purple.name=Фиолетовый факел
+tile.colored_torch.red.name=Красный факел
+tile.cut_copper_block.exposed.name=Медный блок с открытым разрезом 
+tile.cut_copper_block.exposed.waxed.name=Вощеный медный блок с открытой огранкой 
+tile.cut_copper_block.name=Вырезать медный блок 
+tile.cut_copper_block.oxidized.name=Окисленный медный блок 
+tile.cut_copper_block.waxed.name=Вощеный медный блок 
+tile.cut_copper_block.weathered.name=Выветрившийся медный блок 
+tile.cut_copper_block.weathered.waxed.name=Вощеный медный блок, подвергнутый атмосферной огранке 
+tile.dark_oak_door.name=Дверь из темного дуба
+tile.daylight_detector_inverted.name=Инвертированный детектор дневного света
+tile.double_cut_copper_slab.name=Двойная медная плита
+tile.double_stone_slab.wood.name=Окаменевшая дубовая плита
+tile.double_stone_slab3.end_brick.name=Двусторонняя кирпичная плита
+tile.double_stone_slab4.mossy_stone_brick.name=Двойная моховая каменная кирпичная плита
+tile.end_gateway.name=Конечный шлюз
+tile.end_portal.name=Тайл портала конца
+tile.end_portal_frame.name=Конечная рамка портала
+tile.exposed_double_cut_copper_slab.name=Открытая медная плита с двойным разрезом
+tile.flower_pot.name=Цветочный горшок
+tile.flowing_lava.name=Текущая лава
+tile.flowing_water.name=Текущая вода
+tile.frame.name=Рамка
+tile.glow_frame.name=Светящаяся рамка
+tile.glowingobsidian.name=Светящийся обсидиан
+tile.info_update.name=Обновить блок
+tile.info_update2.name=Обновление блока 2
+tile.jungle_door.name=Дверь джунглей
+tile.kelp.name=водоросли
+tile.lava.name=Статическая лава
+tile.lava_cauldron.name=Лавовый котел
+tile.lit_blast_furnace.name=Зажженная доменная печь
+tile.lit_deepslate_redstone_ore.name=Зажженная руда из глубокосланцевого красного камня
+tile.lit_furnace.name=Зажженная печь
+tile.lit_redstone_lamp.name=Зажженная лампа из красного камня
+tile.lit_redstone_ore.name=Зажженная руда красного камня
+tile.lit_smoker.name=Зажженный курильщик
+tile.movingBlock.name=Плитка с движущимся блоком
+tile.oxidized_double_cut_copper_slab.name=Окисленная медная плита с двойной огранкой
+tile.pistonarmcollision.name=Столкновение с поршнем
+tile.polished_blackstone_brick_double_slab.name=Двойная плита из полированного кирпича Blackstone
+tile.polished_blackstone_double_slab.name=Полированная двойная плита Blackstone
+tile.powder_snow.name=Порошковый снежный блок
+tile.powered_comparator.name=Компаратор с питанием
+tile.powered_repeater.name=Мощный повторитель
+tile.purpur_block.smooth.name=Гладкая пурпура
+tile.reserved6.name=Зарезервировано 6
+tile.spruce_door.name=Еловая дверь
+tile.stickypistonarmcollision.name=Столкновение залипшего поршневого рычага
+tile.stone_slab.wood.name=Окаменевшая дубовая плита
+tile.unpowered_comparator.name=Компаратор без питания
+tile.unpowered_repeater.name=Ретранслятор без питания
+tile.wall_banner.name=Настенный баннер
+tile.water.name=Статическая вода
+tile.waxed_double_cut_copper_slab.name=Вощеная медная плита с двойной огранкой
+tile.waxed_exposed_double_cut_copper_slab.name=Вощеная открытая медная плита с двойным разрезом
+tile.waxed_oxidized_double_cut_copper_slab.name=Вощеная оксидированная медная плита с двойным разрезом
+tile.waxed_weathered_double_cut_copper_slab.name=Вощеная выветренная медная плита с двойной огранкой
+tile.weathered_double_cut_copper_slab.name=Выветренная медная плита с двойной огранкой
+tile.wooden_door.name=Дубовая деревянная дверь

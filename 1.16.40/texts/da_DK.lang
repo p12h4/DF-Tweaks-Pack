@@ -1,0 +1,138 @@
+## Goat Horn Sounds
+item.minecraft.goat_horn.sound.8=Flyv (gammel)
+item.minecraft.goat_horn.sound.9=Drøm (gammel)
+
+
+
+## Banner Base
+item.banner.base.black=Sort banner base
+item.banner.base.blue=Blå Banner Base
+item.banner.base.brown=Brun banner base
+item.banner.base.cyan=Cyan banner base
+item.banner.base.gray=Grå banner base
+item.banner.base.green=Grøn Banner Base
+item.banner.base.lightBlue=Lyseblå bannerbase
+item.banner.base.lime=Lime Banner Base
+item.banner.base.magenta=Magenta banner base
+item.banner.base.orange=Orange Banner Base
+item.banner.base.pink=Pink Banner Base
+item.banner.base.purple=Lilla Banner Base
+item.banner.base.red=Rød Banner Base
+item.banner.base.silver=Lysegrå bannerbase
+item.banner.base.white=Hvid banner base
+item.banner.base.yellow=Gul banner base
+
+
+
+## Items
+item.copper_horn.name=Kobberhorn 
+item.glow_stick.black.name=Black Glow Stick 
+item.spawn_egg.name=Spawn
+
+
+
+## Wall Signs
+tile.wall_sign.name=Eget vægskilt
+tile.birch_wall_sign.name=Birkevægskilt
+tile.spruce_wall_sign.name=Gran Vægskilt
+tile.jungle_wall_sign.name=Junglevægskilt
+tile.acacia_wall_sign.name=Acacia vægskilt
+tile.darkoak_wall_sign.name=Mørk Eg Vægskilt
+tile.crimson_wall_sign.name=Crimson vægskilt
+tile.warped_wall_sign.name=Forvredet vægskilt
+tile.mangrove_wall_sign.name=Mangrove vægskilt
+tile.bamboo_wall_sign.name=Bambus vægskilt
+tile.cherry_wall_sign.name=Kirsebær vægskilt
+tile.mangrove_standing_sign.name=Mangrove tegn
+tile.bamboo_standing_sign.name=Bambus tegn
+tile.cherry_standing_sign.name=Kirsebær tegn
+
+
+
+## Education Edition
+tile.border_block.name=Grænse 
+tile.chemical_heat.name=Kemisk varme 
+tile.allow.name=Tillad 
+tile.deny.name=Afvis 
+tile.underwater_torch.name=Undervandsfakkel 
+tile.hard_glass.name=Hårdt glas 
+tile.hard_glass_pane.name=Hård glasrude 
+
+
+
+## Misc
+item..name=Blank
+tile.acacia_door.name=Akacie dør
+tile.bamboo_sapling.acacia.name=Acacia bambus træplante
+tile.bamboo_sapling.big_oak.name=Mørk eg bambus træplante
+tile.bamboo_sapling.birch.name=Birk bambus træplante
+tile.bamboo_sapling.jungle.name=Jungle Bamboo Sapling
+tile.bamboo_sapling.oak.name=Eg bambus træplante
+tile.bamboo_sapling.spruce.name=Bambustræ af gran
+tile.birch_door.name=Birkedør
+tile.blackstone_double_slab.name=Blackstone dobbeltplade
+tile.bubble_column.name=Boblesøjle
+tile.chorus_plant.name=Korstamme
+tile.client_request_placeholder_block.name=Klientanmodningspladsholderblok
+tile.colored_torch.blue.name=Blå fakkel
+tile.colored_torch.green.name=Grøn fakkel
+tile.colored_torch.purple.name=Lilla fakkel
+tile.colored_torch.red.name=Rød fakkel
+tile.cut_copper_block.exposed.name=Frilagt udskåret kobberblok 
+tile.cut_copper_block.exposed.waxed.name=Voksbehandlet eksponeret skåret kobberblok 
+tile.cut_copper_block.name=Skær kobberblok 
+tile.cut_copper_block.oxidized.name=Oxideret skåret kobberblok 
+tile.cut_copper_block.waxed.name=Voksbehandlet kobberblok 
+tile.cut_copper_block.weathered.name=Forvitret afskåret kobberblok 
+tile.cut_copper_block.weathered.waxed.name=Voksbehandlet, forvitret, skåret kobberblok 
+tile.dark_oak_door.name=Mørk egetræsdør
+tile.daylight_detector_inverted.name=Inverteret dagslysdetektor
+tile.double_cut_copper_slab.name=Dobbeltskåret kobberplade
+tile.double_stone_slab.wood.name=Forstenet egetræsplade
+tile.double_stone_slab3.end_brick.name=Dobbelt ende murstensplade
+tile.double_stone_slab4.mossy_stone_brick.name=Dobbelt mossy sten murstensplade
+tile.end_gateway.name=Afslut gateway
+tile.end_portal.name=Slutportalflise
+tile.end_portal_frame.name=Slutportalramme
+tile.exposed_double_cut_copper_slab.name=Eksponeret dobbeltskåret kobberplade
+tile.flower_pot.name=Blomsterkrukke
+tile.flowing_lava.name=Flydende lava
+tile.flowing_water.name=rindende vand
+tile.frame.name=Ramme
+tile.glow_frame.name=Glødende ramme
+tile.glowingobsidian.name=Glødende Obsidian
+tile.info_update.name=Opdater blok
+tile.info_update2.name=Opdater blok 2
+tile.jungle_door.name=Jungledør
+tile.kelp.name=Kelp
+tile.lava.name=Statisk lava
+tile.lava_cauldron.name=Lava kedel
+tile.lit_blast_furnace.name=Tændt højovn
+tile.lit_deepslate_redstone_ore.name=Oplyst Deepslate Redstone Ore
+tile.lit_furnace.name=tændt ovn
+tile.lit_redstone_lamp.name=Tændt rødstenslampe
+tile.lit_redstone_ore.name=Tændt Redstone Ore
+tile.lit_smoker.name=Tændt ryger
+tile.movingBlock.name=Flytende blokflise
+tile.oxidized_double_cut_copper_slab.name=Oxideret dobbeltskåret kobberplade
+tile.pistonarmcollision.name=Stempelarmkollision
+tile.polished_blackstone_brick_double_slab.name=Poleret sortsten mursten dobbeltplade
+tile.polished_blackstone_double_slab.name=Poleret Blackstone dobbeltplade
+tile.powder_snow.name=Sneblok i pulverform
+tile.powered_comparator.name=Powered komparator
+tile.powered_repeater.name=Powered Repeater
+tile.purpur_block.smooth.name=Glat purpur
+tile.reserved6.name=Reserveret 6
+tile.spruce_door.name=Dør af gran
+tile.stickypistonarmcollision.name=Klæbende stempelarmkollision
+tile.stone_slab.wood.name=Forstenet egetræsplade
+tile.unpowered_comparator.name=Komparator uden strøm
+tile.unpowered_repeater.name=Repeater uden strøm
+tile.wall_banner.name=Væg banner
+tile.water.name=Statisk vand
+tile.waxed_double_cut_copper_slab.name=Vokset dobbeltskåret kobberplade
+tile.waxed_exposed_double_cut_copper_slab.name=Voksbehandlet eksponeret dobbeltskåret kobberplade
+tile.waxed_oxidized_double_cut_copper_slab.name=Vokset oxideret dobbeltskåret kobberplade
+tile.waxed_weathered_double_cut_copper_slab.name=Voksbehandlet forvitret dobbeltskåret kobberplade
+tile.weathered_double_cut_copper_slab.name=Forvitret dobbeltskåret kobberplade
+tile.wooden_door.name=Egetræsdør
