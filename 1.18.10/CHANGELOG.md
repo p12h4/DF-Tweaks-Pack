@@ -170,3 +170,9 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - improved spanish translations
 - made armor visible on foxes
 - made crash block outlines brighter
+
+
+4.4.1:
+- made glowstone visibile on pillagers, vindicators and evokers
+- made skulls visible on foxes
+- updated the water tipped arrow texture to match with java's uncraftable tipped arrow texture

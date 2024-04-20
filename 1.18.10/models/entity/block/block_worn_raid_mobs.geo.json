@@ -3,7 +3,7 @@
   "minecraft:geometry": [
     {
       "description": {
-        "identifier": "geometry.block_worn_witch",
+        "identifier": "geometry.block_worn_raid_mobs",
         "texture_width": 16,
         "texture_height": 16,
         "visible_bounds_width": 2,
@@ -16,8 +16,8 @@
           "pivot": [0, 24, 0],
           "cubes": [
             {
-              "origin": [-4, 24, -4],
-              "size": [8, 9, 8],
+              "origin": [-4, 24, -4.55],
+              "size": [8, 9, 8.5],
               "inflate": 1.5,
               "uv": {
                 "north": {

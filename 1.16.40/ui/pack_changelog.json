@@ -42,7 +42,7 @@
               "current_version_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- added a unique texture to vindicator captains\n- improved korean translations\n- improved polish translations\n- improved spanish translations\n- made armor visible on foxes\n- made crash block outlines brighter\n"
+                "text": "- made glowstone visibile on pillagers, vindicators and evokers\n- made skulls visible on foxes\n- updated the water tipped arrow texture to match with java's uncraftable tipped arrow texture\n"
               }
             },
             {
@@ -57,14 +57,14 @@
                 "type": "label",
                 "font_scale_factor": 0.8,
                 "color": [0.4, 0.4, 0.4],
-                "text": "\nPack Version: 4.3.0"
+                "text": "\nPack Version: 4.4.0"
               }
             },
             {
               "previous_version_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- added a red outline to all element blocks that previously did not have one\n- added translation strings for goat horn sound 8 and 9\n- added translation strings for mangrove, bamboo and cherry sign tiles\n- changed the item renaming character limit to the 32-bit integer limit\n- internal changes\n- made pumpkins visible on witches"
+                "text": "- added a unique texture to vindicator captains\n- improved korean translations\n- improved polish translations\n- improved spanish translations\n- made armor visible on foxes\n- made crash block outlines brighter\n"
               }
             }
           ]
