@@ -15,7 +15,10 @@
       },
       "scripts": {
         "scale": "0.9375",
-        "animate": ["controller_general", "controller_move"]
+        "animate": [
+          "controller_general",
+          "controller_move"
+        ]
       },
       "animations": {
         "general": "animation.evoker.general",

@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:chainmail_helmet.fox",
       "item": {
-        "minecraft:chainmail_helmet": "query.is_owner_identifier_any('minecraft:fox') == 1.0"
+        "minecraft:chainmail_helmet": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },
       "materials": {
         "default": "armor",
@@ -18,7 +18,7 @@
         "default": "geometry.fox_helmet"
       },
       "scripts": {
-        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+        "parent_setup": "v.helmet_layer_visible = 0.0;"
       },
       "render_controllers": ["controller.render.fox_armor"]
     }

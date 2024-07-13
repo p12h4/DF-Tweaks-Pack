@@ -42,7 +42,7 @@
               "current_version_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- made glowstone visibile on pillagers, vindicators and evokers\n- made skulls visible on foxes\n- updated the water tipped arrow texture to match with java's uncraftable tipped arrow texture\n"
+                "text": "- added lots of translation strings\n- added unique textures to candle cake tiles\n- fixed \u0022invisible_top.png\u0022 not rendering properly\n- fixed infested block outlines not lining up\n- fixed UI issues that appeared in version 1.21.0 and above\n- updated textures of smooth stone bricks\n"
               }
             },
             {
@@ -57,14 +57,14 @@
                 "type": "label",
                 "font_scale_factor": 0.8,
                 "color": [0.4, 0.4, 0.4],
-                "text": "\nPack Version: 4.4.0"
+                "text": "\nPack Version: 4.4.1"
               }
             },
             {
               "previous_version_changelog": {
                 "type": "label",
                 "font_scale_factor": 0.7,
-                "text": "- added a unique texture to vindicator captains\n- improved korean translations\n- improved polish translations\n- improved spanish translations\n- made armor visible on foxes\n- made crash block outlines brighter\n"
+                "text": "- made glowstone visibile on pillagers, vindicators and evokers\n- made skulls visible on foxes\n- updated the water tipped arrow texture to match with java's uncraftable tipped arrow texture\n"
               }
             }
           ]

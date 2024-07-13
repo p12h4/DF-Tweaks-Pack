@@ -9,7 +9,7 @@
       },
       "geometry": "geometry.default",
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Array.variants[query.max_health == 6 ? 1 : 0 ]" ]
+      "textures": [ "Array.variants[q.max_health == 6 ? 1 : 0 ]" ]
     },
     "controller.render.pufferfish.medium": {
       "arrays": {
@@ -19,7 +19,7 @@
       },
       "geometry": "geometry.mid",
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Array.variants[query.max_health == 6 ? 1 : 0 ]" ]
+      "textures": [ "Array.variants[q.max_health == 6 ? 1 : 0 ]" ]
     },
     "controller.render.pufferfish.large": {
       "arrays": {
@@ -29,7 +29,7 @@
       },
       "geometry": "geometry.large",
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Array.variants[query.max_health == 6 ? 1 : 0 ]" ]
+      "textures": [ "Array.variants[q.max_health == 6 ? 1 : 0 ]" ]
     }
   }
 }

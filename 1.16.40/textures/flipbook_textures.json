@@ -1,6 +1,7 @@
 [
   {
     "atlas_tile": "chemical_heat",
+    "blend_frames": true,
     "flipbook_texture": "textures/blocks/chemical_heat",
     "ticks_per_frame": 10
   }

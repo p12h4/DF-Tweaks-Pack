@@ -1,114 +1,110 @@
 1.0.0:
-- release
+- initial release
 
 
 1.0.1:
-- Added a Texture to Client Request Placeholder Blocks
-- Added the Visual Infested Stone Texture Pack from https://bedrocktweaks.net/resource-packs/
-- Merged the Glowstone Armor Texture Pack with Discontinued Feature Tweaks
+- added a texture for client request placeholder blocks
+- added the visual infested stone texture pack from https://bedrocktweaks.net/resource-packs/
+- merged the glowstone armor texture pack with discontinued feature tweaks
 
 
 1.0.2:
-- Added a Panorama (Panorama Seed (1.18.0): -1512240178, Coordinates: 16777149 15 -83691)
-- Added a Texture to Unknown Blocks
-- Added more tile.name items to the .lang files
-- Made Glowstone visible on other mobs
+- added a panorama (Panorama Seed (1.18.0): -1512240178, Coordinates: 16777149 15 -83691)
+- added a texture for unknown blocks
+- added more tile.name items to the language files
+- made glowstone visible on other mobs
 
 
 1.0.3:
-- added more tile.name items to the lang files
+- added more tile.name items to the language files
 
 
 1.0.4:
-- added the Trading Helper Texture Pack from https://bedrocktweaks.net/resource-packs/
+- added the trading helper texture pack from https://bedrocktweaks.net/resource-packs/
 
 
 1.0.5:
-- added Textures to Mysterious Frames and Mysterious Frame Slots
+- added textures to mysterious frames and mysterious frame slots
 
 
 1.0.6-1:
-- added Sounds to Mysterious Frames and Mysterious Frame Slots
-- added a different texture for missing textures
-- made Glowstone Visible on Zombie Villagers, Wither Skeletons, Piglin Brutes and Zombified Piglins
+- added sounds to mysterious frames and mysterious frame slots
+- added a new texture for "missing textures"
+- made glowstone visible on zombie villagers, wither skeletons, piglin brutes and zombified piglins
 
 
 1.0.6-2:
-- made Glowstone visible on Piglins
+- made glowstone visible on piglins
 
 
 2.0.0:
-- added the Directional Observers Pack from https://bedrocktweaks.net/resource-packs/
-- fixed a bug where glowstone will render on your head even if you aren't wearing Glowstone. This fix only works for 1.18.10 and above
+- added the directional observers texture pack from https://bedrocktweaks.net/resource-packs/
+- fixed a bug where glowstone will render on your head even if you aren't wearing glowstone. This fix only works for 1.18.10 and above
 
 
 2.1.0:
-- changed the Mysterious Frame textures
+- changed the mysterious frame textures
 
 
 2.2.0:
 - added support for 1.16.220 & 1.16.221
-- added textures to Compound Creators, Lab Tables, Material Reducers, Element Constructors, Hardened Stained Glass (all colors) and Element blocks
-- added the original copper block textures to the old cut copper
+- added textures to compound creators, lab tables, material reducers, element constructors, hardened stained glass (all colors) and element blocks
 
 
 2.2.1:
 - added a red outline to all crash blocks that can be obtained at the moment
-- added textures to colored Torches
+- added textures to colored torches
 
 
 3.0.0:
-- added a slightly different texture to Petrified Oak Slabs to be able to distinguish them from normal Oak Slabs
+- added a slightly different texture to petrified oak ylabs to be able to distinguish them from normal oak slabs
 - added the pack version to the texture pack name
-- merged the Fire Visualizer Texture Pack with Discontinued Feature Tweaks
+- merged the fire visualizer texture pack with discontinued feature tweaks
 - the pack is now compatible with 1.16.100
 - updated the description
 
 
 4.0.0:
-- added Chorus Plants to the .lang files and renamed them to Chrous Stems
+- added chorus plants to the language files and renamed them to shrous stems
 - added a custom icon:
-  • EDU logo (U+E0BF: )
-- added a red outline to White Hardened Stained Glass
-- changed the panorama (Same seed, but day time instead of night time)
-- illegals now have rarities. Any illegals that aren't mentioned are common. List of rarities:
-
-Uncommon (yellow hover color): Update Block, Update Block 2, Reserved 6, Chemical Heat, Hard Glass, Hard Glass Panes, Allow, Deny
-
-Rare (cyan hover color): Unknown, Lit Furnace, Bedrock, Chorus Plant, Underwater Torch, Nether Reactor Core, Sculk Shrieker
-
-Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigsaw Blocks, Mob Spawners, Barriers, Structure Void, Structure Block, Command Block (all variants), Light Block (all variants), Monster Eggs (all variants), Portal, Black Glow Stick, Invisible Bedrock
+  - EDU logo (U+E0BF: )
+- added a red outline to white hardened stained glass
+- changed the panorama (same seed, but day time instead of night time)
+- illegals now have rarities; any illegals that aren't mentioned are common. List of rarities:
+  - Uncommon (yellow hover color): Update Block, Update Block 2, Reserved 6, Chemical Heat, Hard Glass, Hard Glass Panes, Allow, Deny
+  - Rare (cyan hover color): Unknown, Lit Furnace, Bedrock, Chorus Plant, Underwater Torch, Nether Reactor Core, Sculk Shrieker
+  - Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigsaw Blocks, Mob Spawners, Barriers, Structure Void, Structure Block, Command Block (all variants), Light Block (all variants), Monster Eggs (all variants), Portal, Black Glow Stick, Invisible Bedrock
 
 
 4.1.0:
-- added Cut Copper Blocks (Removed ones, not the current ones) to the "Epic" rarity
+- added cut copper blocks to the epic rarity
 - added a custom icon:
   • "Removed Item" logo (U+E09F: )
-- added more strings to the .lang files
+- added more strings to the language files
 
 
 4.1.1:
-- added Nether wall signs to the lang files
+- added nether wall signs to the language files
 - added the pack version at the bottom of the start screen
 - removed unnecessary code in the ui files which now makes the pack compatible with older minecraft versions
 
 
 4.2.0 (first github release):
-- 1.18.10+ Glowstone Entity Rendering is now selected by default
+- 1.18.10+ glowstone entity rendering is now selected by default
 - added a carried texture to colored torches
 - added a changelog button to the start screen
-- added a green shrub texture to tallgrass with the default state
+- added a green shrub texture to tallgrass with the "default" state
 - added a new texture to "Reserved 6" blocks
 - added missing education edition textures
 - added new textures to smooth stone bricks, chiseled purpur and the changelog icon
 - added new textures to structure void and structure air
 - added red outlines to most crash blocks. element blocks, however, still need red outlines
-- added support for every language (translations may not be fully accurate. lang files were generated with AnyLanguage, https://solveddev.github.io/AnyLanguage/)
+- added support for every language (translations may not be fully accurate. language files were generated with [AnyLanguage](https://solveddev.github.io/AnyLanguage/))
 - added texture_list.json to the textures folder to cache each texture so that it can retrieve it faster than looking through each image in the textures folder
 - added textures to illegal cod, salmon, pufferfish and tropical fish (thanks to CalzLight for adding detail to the skeleton textures)
 - added textures to illegal phantoms and illegal tadpoles to make them distinguishable from normal variants
-- added the old fox spawn egg icon to nether sprout tiles
-- added the old mangrove sign tile texture
+- added the original icon to nether sprout tiles
+- added the original mangrove sign tile texture
 - changed the changelog font size to be smaller
 - changed the changelog title color
 - fixed errors in terrain_texture.json
@@ -117,17 +113,17 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - fixed the start screen ui
 - removed unused entries in blocks.json
 - the pack is now compatible with 1.16.40
-  - from now on, there will be a 1.16.40-1.18.2 variant and a 1.18.10+ variant of the resource pack
-- updated broken anvil textures (added a white outline at the top of the anvil)
+  - from now on, there will be a 1.16.40 - 1.18.2 variant and a 1.18.10+ variant of the resource pack
+- updated broken anvil textures
 - updated the manifest description
 
 
 4.2.1:
-- fixed "[Geometry][error]-minecraft:tadpole | minecraft:tadpole | geometry not found?" Content Log Error
+- fixed "[Geometry][error]-minecraft:tadpole | minecraft:tadpole | geometry not found?" content log errors
 - fixed the zombie villager glowstone model
 - made glowstone visible on zombified piglins
 - minor changes and improvements
-- replaced deprecated molang queries with new ones
+- replaced deprecated molang queries with newer ones
 - replaced the pack version text at the bottom of the screen with a toast notification
 
 
@@ -139,7 +135,7 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 
 4.2.2-2:
 - more internal changes
-- reduced texture file sizes by using pngquant
+- reduced texture file sizes with [pngquant](https://pngquant.org/)
 - resolved an issue where nether sprout tiles were displaying excessively large in item frames
 
 
@@ -150,8 +146,8 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 
 4.2.4:
 - added a distinguishable water color to deep warm oceans
-- added unique water colors to the remaining Nether biomes that use the default water color
-- resolved an issue where the pack notification was appearing below the title image
+- added unique water colors to the remaining nether biomes that use the default water color
+- resolved an issue where the pack notification was rendering below the title image
 
 
 4.3.0:
@@ -176,3 +172,12 @@ Epic (magenta hover color): End Portal Tile, End Portal Frame, End Gateway, Jigs
 - made glowstone visibile on pillagers, vindicators and evokers
 - made skulls visible on foxes
 - updated the water tipped arrow texture to match with java's uncraftable tipped arrow texture
+
+
+4.4.2:
+- added lots of translation strings
+- added unique textures to candle cake tiles
+- fixed "invisible_top.png" not rendering properly
+- fixed infested block outlines not lining up
+- fixed UI issues that appeared in version 1.21.0 and above
+- updated textures of smooth stone bricks

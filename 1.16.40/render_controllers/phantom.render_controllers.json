@@ -11,8 +11,8 @@
         }
       },
       "geometry": "Geometry.default",
-      "materials": [ { "*": "Array.materials[query.is_invisible]" } ],
-      "textures": ["Array.variants[query.max_health == 10 ? 1 : 0 ]"]
+      "materials": [ { "*": "Array.materials[q.is_invisible]" } ],
+      "textures": ["Array.variants[q.max_health == 10 ? 1 : 0 ]"]
     }
   }
 }

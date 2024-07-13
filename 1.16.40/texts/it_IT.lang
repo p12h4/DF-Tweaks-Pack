@@ -1,138 +1,466 @@
-## Goat Horn Sounds
-item.minecraft.goat_horn.sound.8=Vola (vecchio)
-item.minecraft.goat_horn.sound.9=Sogno (vecchio)
-
-
-
-## Banner Base
-item.banner.base.black=Base della bandiera nera
-item.banner.base.blue=Base della bandiera blu
-item.banner.base.brown=Base per striscione marrone
-item.banner.base.cyan=Base striscione ciano
-item.banner.base.gray=Base per striscione grigia
-item.banner.base.green=Base per striscione verde
-item.banner.base.lightBlue=Base per striscione azzurra
-item.banner.base.lime=Base per striscione color lime
-item.banner.base.magenta=Base dello striscione magenta
-item.banner.base.orange=Base per striscione arancione
-item.banner.base.pink=Base per striscione rosa
-item.banner.base.purple=Base per striscione viola
-item.banner.base.red=Base bandiera rossa
-item.banner.base.silver=Base per striscione grigio chiaro
-item.banner.base.white=Base della bandiera bianca
-item.banner.base.yellow=Base bandiera gialla
-
-
-
-## Items
-item.copper_horn.name=Corno di rame 
-item.glow_stick.black.name=Bastone luminoso nero 
+### Items
+## Regular Items
+item.copper_horn.name=Corno in rame 
 item.spawn_egg.name=Produrre
 
 
+## Education Edition Items
+item.balloon.black.name=Palloncino Nero 
+item.balloon.blue.name=Palloncino Blu 
+item.balloon.brown.name=Palloncino Marrone 
+item.balloon.cyan.name=Palloncino ciano 
+item.balloon.gray.name=Palloncino grigio 
+item.balloon.green.name=Palloncino Verde 
+item.balloon.lightBlue.name=Palloncino Azzurro 
+item.balloon.lime.name=Palloncino al lime 
+item.balloon.magenta.name=Palloncino magenta 
+item.balloon.orange.name=Palloncino Arancione 
+item.balloon.pink.name=Palloncino Rosa 
+item.balloon.purple.name=Palloncino Viola 
+item.balloon.red.name=Palloncino Rosso 
+item.balloon.silver.name=Palloncino Grigio Chiaro 
+item.balloon.white.name=Palloncino Bianco 
+item.balloon.yellow.name=Palloncino Giallo 
+item.bleach.name=Candeggina 
+item.compound..name=Composto 
+item.compound.aluminumoxide.name=Ossido di alluminio 
+item.compound.ammonia.name=Ammoniaca 
+item.compound.bariumsulfate.name=Solfato di bario 
+item.compound.benzene.name=Benzene 
+item.compound.borontrioxide.name=Triossido di boro 
+item.compound.calciumbromide.name=Bromuro di calcio 
+item.compound.calciumchloride.name=Cloruro di calcio 
+item.compound.ceriumchloride.name=Cloruro di cerio 
+item.compound.charcoal.name=Carbone 
+item.compound.crudeoil.name=Petrolio greggio 
+item.compound.garbage.name=Immondizia 
+item.compound.glue.name=Colla 
+item.compound.hydrogenperoxide.name=Acqua ossigenata 
+item.compound.hypochlorite.name=Ipoclorito 
+item.compound.ink.name=Inchiostro 
+item.compound.ironsulfide.name=Solfuro di ferro 
+item.compound.latex.name=Lattice 
+item.compound.lithiumhydride.name=Litio Idruro 
+item.compound.luminol.name=Luminol 
+item.compound.magnesiumnitrate.name=Nitrato di magnesio 
+item.compound.magnesiumoxide.name=Ossido di magnesio 
+item.compound.magnesiumsalts.name=Sali di magnesio 
+item.compound.mercuricchloride.name=Cloruro di mercurio 
+item.compound.polyethylene.name=Polietilene 
+item.compound.potassiumchloride.name=Cloruro di potassio 
+item.compound.potassiumiodide.name=Ioduro di potassio 
+item.compound.salt.name=Sale 
+item.compound.soap.name=Sapone 
+item.compound.sodiumacetate.name=Acetato di sodio 
+item.compound.sodiumfluoride.name=Fluoruro di sodio 
+item.compound.sodiumhydride.name=Idruro di sodio 
+item.compound.sodiumhydroxide.name=Liscivia 
+item.compound.sodiumhypochlorite.name=Ipoclorito di sodio 
+item.compound.sodiumoxide.name=Ossido di sodio 
+item.compound.sugar.name=Zucchero 
+item.compound.sulfate.name=Solfato 
+item.compound.tungstenchloride.name=Cloruro di tungsteno 
+item.compound.water.name=Acqua 
+item.glow_stick.black.name=Bastoncino luminoso nero 
+item.glow_stick.blue.name=Bastoncino luminoso blu 
+item.glow_stick.brown.name=Bastoncino luminoso marrone 
+item.glow_stick.cyan.name=Bastoncino luminoso ciano 
+item.glow_stick.gray.name=Bastoncino luminoso grigio 
+item.glow_stick.green.name=Bastoncino luminoso verde 
+item.glow_stick.lightBlue.name=Bastoncino luminoso azzurro 
+item.glow_stick.lime.name=Bastoncino luminoso al lime 
+item.glow_stick.magenta.name=Bastoncino luminoso magenta 
+item.glow_stick.orange.name=Bastoncino luminoso arancione 
+item.glow_stick.pink.name=Bastoncino luminoso rosa 
+item.glow_stick.purple.name=Bastoncino luminoso viola 
+item.glow_stick.red.name=Bastoncino luminoso rosso 
+item.glow_stick.silver.name=Bastoncino luminoso grigio chiaro 
+item.glow_stick.white.name=Bastoncino luminoso bianco 
+item.glow_stick.yellow.name=Bastoncino luminoso giallo 
+item.ice_bomb.name=Bomba di ghiaccio 
+item.medicine..name=Medicina 
+item.medicine.blindness.name=Collirio 
+item.medicine.nausea.name=Tonico 
+item.medicine.poison.name=Antidoto 
+item.medicine.weakness.name=Elisir 
+item.rapid_fertilizer.name=Super fertilizzante 
+item.sparkler.black.name=Scintillante Nero 
+item.sparkler.blue.name=Scintillante Blu 
+item.sparkler.brown.name=Marrone Sparkler 
+item.sparkler.cyan.name=Ciano Sparkler 
+item.sparkler.gray.name=Scintillante grigio 
+item.sparkler.green.name=Scintillante Verde 
+item.sparkler.lightblue.name=Scintillante Azzurro 
+item.sparkler.lime.name=Sparkler al lime 
+item.sparkler.magenta.name=Magenta Scintillante 
+item.sparkler.orange.name=Sparkler all'arancia 
+item.sparkler.pink.name=Scintillante Rosa 
+item.sparkler.purple.name=Scintillante Viola 
+item.sparkler.red.name=Stella Rossa 
+item.sparkler.silver.name=Scintillante Grigio Chiaro 
+item.sparkler.white.name=Sparkler bianco 
+item.sparkler.yellow.name=Stella filante gialla 
 
-## Wall Signs
-tile.wall_sign.name=Segno della parete della quercia
-tile.birch_wall_sign.name=Segno della parete della betulla
-tile.spruce_wall_sign.name=Segno di muro di abete rosso
-tile.jungle_wall_sign.name=Segno della parete della giungla
-tile.acacia_wall_sign.name=Segno della parete dell'acacia
-tile.darkoak_wall_sign.name=Targa da parete in rovere scuro
-tile.crimson_wall_sign.name=Segno di parete cremisi
-tile.warped_wall_sign.name=Segno di muro deformato
-tile.mangrove_wall_sign.name=Segno della parete della mangrovia
-tile.bamboo_wall_sign.name=Segno della parete di bambù
-tile.cherry_wall_sign.name=Segno della parete della ciliegia
-tile.mangrove_standing_sign.name=Segno di mangrovie
-tile.bamboo_standing_sign.name=Segno di bambù
-tile.cherry_standing_sign.name=Segno di ciliegia
 
 
 
-## Education Edition
-tile.border_block.name=Bordo 
-tile.chemical_heat.name=Calore chimico 
-tile.allow.name=Consentire 
-tile.deny.name=Nega 
-tile.underwater_torch.name=Torcia subacquea 
-tile.hard_glass.name=Vetro duro 
-tile.hard_glass_pane.name=Pannello in vetro duro 
 
-
-
-## Misc
-item..name=Vuoto
-tile.acacia_door.name=Porta d'acacia
-tile.bamboo_sapling.acacia.name=Alberello Di Bambù Di Acacia
-tile.bamboo_sapling.big_oak.name=Alberello di bambù di quercia scura
-tile.bamboo_sapling.birch.name=Alberello Di Bambù Di Betulla
-tile.bamboo_sapling.jungle.name=Alberello Di Bambù Della Giungla
-tile.bamboo_sapling.oak.name=Alberello Di Bambù Di Quercia
-tile.bamboo_sapling.spruce.name=Alberello Di Bambù Abete Rosso
+### Tiles
+## Doors
+tile.wooden_door.name=Porta in quercia
+tile.spruce_door.name=Porta di abete rosso
 tile.birch_door.name=Porta di betulla
-tile.blackstone_double_slab.name=Lastra doppia Blackstone
-tile.bubble_column.name=Colonna a bolle
-tile.chorus_plant.name=Stelo del coro
-tile.client_request_placeholder_block.name=Blocco segnaposto richiesta cliente
-tile.colored_torch.blue.name=Torcia Blu
-tile.colored_torch.green.name=Torcia Verde
-tile.colored_torch.purple.name=Torcia Viola
-tile.colored_torch.red.name=Torcia Rossa
-tile.cut_copper_block.exposed.name=Blocco di rame a taglio a vista 
-tile.cut_copper_block.exposed.waxed.name=Blocco di rame a taglio a vista cerato 
-tile.cut_copper_block.name=Blocco di rame tagliato 
-tile.cut_copper_block.oxidized.name=Blocco di rame a taglio ossidato 
-tile.cut_copper_block.waxed.name=Blocco di rame tagliato a cera 
-tile.cut_copper_block.weathered.name=Blocco di rame tagliato dall'aria 
-tile.cut_copper_block.weathered.waxed.name=Blocco di rame a taglio stagionato cerato 
-tile.dark_oak_door.name=Porta in legno rovere moro
-tile.daylight_detector_inverted.name=Rilevatore di luce diurna invertito
-tile.double_cut_copper_slab.name=Lastra di rame a doppio taglio
-tile.double_stone_slab.wood.name=Lastra di quercia pietrificata
-tile.double_stone_slab3.end_brick.name=Lastra di mattoni a doppia estremità
+tile.jungle_door.name=Porta della giungla
+tile.acacia_door.name=Porta d'acacia
+tile.dark_oak_door.name=Porta in rovere scuro
+tile.mangrove_door.name=Porta delle mangrovie
+
+
+## Signs
+tile.wall_sign.name=Targa da muro in quercia
+tile.spruce_wall_sign.name=Cartello da muro in abete rosso
+tile.birch_wall_sign.name=Targa da muro in betulla
+tile.jungle_wall_sign.name=Segno della parete della giungla
+tile.acacia_wall_sign.name=Insegna da muro di acacia
+tile.darkoak_wall_sign.name=Targa da muro in rovere scuro
+tile.mangrove_standing_sign.name=Segno di mangrovie
+tile.mangrove_wall_sign.name=Segno del muro di mangrovie
+tile.bamboo_standing_sign.name=Segno di bambù
+tile.bamboo_wall_sign.name=Segno della parete di bambù
+tile.cherry_standing_sign.name=Segno di ciliegia
+tile.cherry_wall_sign.name=Cartello da muro in ciliegio
+tile.crimson_wall_sign.name=Segno del muro cremisi
+tile.warped_wall_sign.name=Segno di muro deformato
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Rovere Doppia Lastra
+tile.double_wooden_slab.spruce.name=Doppia Lastra di Abete
+tile.double_wooden_slab.birch.name=Doppia Lastra Di Betulla
+tile.double_wooden_slab.jungle.name=Doppia lastra Jungle
+tile.double_wooden_slab.acacia.name=Doppia Lastra di Acacia
+tile.double_wooden_slab.big_oak.name=Doppia Lastra Rovere Moro
+tile.mangrove_double_slab.name=Doppia lastra di mangrovia
+tile.bamboo_double_slab.name=Doppia lastra di bambù
+tile.bamboo_mosaic_double_slab.name=Mosaico in Bambù Doppia Lastra
+tile.crimson_double_slab.name=Doppia lastra cremisi
+tile.warped_double_slab.name=Doppia lastra deformata
+tile.double_stone_slab.wood.name=Doppia Lastra di Rovere Pietrificato
+tile.double_stone_slab2.mossy_cobblestone.name=Doppia lastra di ciottoli muschiosi
+tile.double_stone_slab4.stone.name=Doppia Lastra di Pietra
+tile.double_stone_slab3.andesite.name=Doppia lastra di andesite
+tile.double_stone_slab3.andesite.smooth.name=Doppia lastra di andesite liscia
+tile.double_stone_slab3.diorite.name=Doppia lastra di diorite
+tile.double_stone_slab3.diorite.smooth.name=Doppia lastra di Diorite liscia
+tile.double_stone_slab3.granite.name=Doppia lastra di granito
+tile.double_stone_slab3.granite.smooth.name=Doppia lastra di granito liscio
 tile.double_stone_slab4.mossy_stone_brick.name=Doppia lastra di mattoni di pietra muschiosa
-tile.end_gateway.name=Fine Portale
-tile.end_portal.name=Tessera portale finale
-tile.end_portal_frame.name=Portale finale Frame
-tile.exposed_double_cut_copper_slab.name=Lastra di rame a doppio taglio a vista
-tile.flower_pot.name=Vaso di fiori
+tile.double_stone_slab4.cut_sandstone.name=Doppia lastra di arenaria tagliata
+tile.double_stone_slab2.sandstone.smooth.name=Doppia lastra di arenaria liscia
+tile.double_stone_slab4.cut_red_sandstone.name=Doppia lastra di arenaria rossa tagliata
+tile.double_stone_slab3.red_sandstone.smooth.name=Doppia lastra liscia di arenaria rossa
+tile.mud_brick_double_slab.name=Doppia lastra in mattoni di fango
+tile.polished_tuff_double_slab.name=Doppia Lastra di Tufo Lucido
+tile.tuff_brick_double_slab.name=Doppia Lastra in Mattone di Tufo
+tile.tuff_double_slab.name=Doppia Lastra di Tufo
+tile.double_cut_copper_slab.name=Doppia lastra di rame tagliata
+tile.exposed_double_cut_copper_slab.name=Doppia lastra in rame con taglio a vista
+tile.oxidized_double_cut_copper_slab.name=Doppia Lastra di Rame Ossidato Tagliato
+tile.waxed_double_cut_copper_slab.name=Doppia Lastra di Rame a Taglio Cerato
+tile.waxed_exposed_double_cut_copper_slab.name=Doppia Lastra in Rame Taglio a Vista Cerato
+tile.waxed_oxidized_double_cut_copper_slab.name=Doppia Lastra di Rame Taglio Ossido Cerato
+tile.waxed_weathered_double_cut_copper_slab.name=Doppia lastra in rame a taglio stagionato cerato
+tile.weathered_double_cut_copper_slab.name=Doppia lastra di rame tagliata stagionata
+tile.double_stone_slab2.prismarine.rough.name=Doppia lastra Prismarine
+tile.double_stone_slab2.prismarine.bricks.name=Doppia lastra in mattoni Prismarine
+tile.double_stone_slab2.prismarine.dark.name=Doppia lastra Prismarine scura
+tile.double_stone_slab4.smooth_quartz.name=Doppia lastra di Quarzo Liscio
+tile.blackstone_double_slab.name=Doppia lastra di pietra nera
+tile.polished_blackstone_brick_double_slab.name=Doppia lastra in mattoni Blackstone lucidato
+tile.polished_blackstone_double_slab.name=Doppia lastra in pietra nera lucida
+tile.double_stone_slab2.red_nether_brick.name=Doppia lastra di mattoni rossi del Nether
+tile.double_stone_slab3.end_brick.name=Fine lastra doppia in mattoni
+tile.double_stone_slab2.purpur.name=Doppia lastra Purpur
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Blocco di rame tagliato a vista 
+tile.cut_copper_block.exposed.waxed.name=Blocco di Rame Taglio a Vista Cerato 
+tile.cut_copper_block.name=Taglia il blocco di rame 
+tile.cut_copper_block.oxidized.name=Blocco di rame tagliato ossidato 
+tile.cut_copper_block.waxed.name=Blocco di rame tagliato a cera 
+tile.cut_copper_block.weathered.name=Blocco di rame tagliato dalle intemperie 
+tile.cut_copper_block.weathered.waxed.name=Blocco di rame tagliato a cera e invecchiato 
+
+
+## Nature
+tile.bamboo_sapling.name=Alberello di bambù
+tile.bamboo_sapling.oak.name=Alberello di bambù di quercia
+tile.bamboo_sapling.spruce.name=Alberello Di Bambù Abete Rosso
+tile.bamboo_sapling.birch.name=Alberello Di Bambù Di Betulla
+tile.bamboo_sapling.jungle.name=Alberello di bambù della giungla
+tile.bamboo_sapling.acacia.name=Alberello di bambù dell'acacia
+tile.bamboo_sapling.big_oak.name=Alberello di bambù di quercia scura
+tile.chorus_plant.name=Gambo del coro
+tile.melon_stem.name=Gambo di melone
+tile.pitcher_crop.name=Pod lanciatore
+tile.torchflower_crop.name=Fiaccolata
+tile.mangrove_propagule_hanging.name=Propagulo di mangrovie pendenti 
+tile.kelp.name=Fuco
+
+
+## Liquids
 tile.flowing_lava.name=Lava che scorre
 tile.flowing_water.name=Acqua corrente
-tile.frame.name=Telaio
-tile.glow_frame.name=Cornice bagliore
-tile.glowingobsidian.name=Ossidiana incandescente
-tile.info_update.name=Aggiorna blocco
-tile.info_update2.name=Aggiorna blocco 2
-tile.jungle_door.name=Porta della giungla
-tile.kelp.name=Fuco
 tile.lava.name=Lava statica
-tile.lava_cauldron.name=Calderone di lava
-tile.lit_blast_furnace.name=Altoforno acceso
-tile.lit_deepslate_redstone_ore.name=Minerale di pietrarossa di Deepslate acceso
-tile.lit_furnace.name=Forno acceso
-tile.lit_redstone_lamp.name=Lampada di pietra rossa accesa
-tile.lit_redstone_ore.name=Minerale di pietra rossa acceso
-tile.lit_smoker.name=Fumatore acceso
-tile.movingBlock.name=Piastrella blocco in movimento
-tile.oxidized_double_cut_copper_slab.name=Lastra di rame a doppio taglio ossidato
-tile.pistonarmcollision.name=Collisione del braccio del pistone
-tile.polished_blackstone_brick_double_slab.name=Lastra doppia in mattoni di pietra nera lucidata
-tile.polished_blackstone_double_slab.name=Doppia lastra di Blackstone lucidata
-tile.powder_snow.name=Blocco di neve polverosa
-tile.powered_comparator.name=Comparatore potenziato
-tile.powered_repeater.name=Ripetitore alimentato
-tile.purpur_block.smooth.name=Purpureo Liscio
-tile.reserved6.name=Riservato 6
-tile.spruce_door.name=Porta di abete rosso
-tile.stickypistonarmcollision.name=Collisione del braccio del pistone appiccicoso
-tile.stone_slab.wood.name=Lastra di quercia pietrificata
-tile.unpowered_comparator.name=Comparatore non alimentato
-tile.unpowered_repeater.name=Ripetitore non alimentato
-tile.wall_banner.name=Stendardo da parete
 tile.water.name=Acqua statica
-tile.waxed_double_cut_copper_slab.name=Lastra di rame a doppio taglio cerato
-tile.waxed_exposed_double_cut_copper_slab.name=Lastra di rame a doppio taglio a vista cerata
-tile.waxed_oxidized_double_cut_copper_slab.name=Lastra di rame a doppio taglio ossidato cerato
-tile.waxed_weathered_double_cut_copper_slab.name=Lastra di rame a doppio taglio stagionato cerato
-tile.weathered_double_cut_copper_slab.name=Lastra di rame a doppio taglio stagionato
-tile.wooden_door.name=Porta in legno di quercia
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Rilevatore di luce diurna invertita
+tile.lit_redstone_lamp.name=Lampada Redstone accesa
+tile.lit_redstone_ore.name=Minerale di pietrarossa acceso
+tile.lit_deepslate_redstone_ore.name=Minerale di pietra rossa di ardesia profonda illuminato
+tile.pistonarmcollision.name=Collisione del braccio del pistone
+tile.piston_arm_collision.name=Collisione del braccio del pistone
+tile.stickypistonarmcollision.name=Collisione del braccio del pistone appiccicoso
+tile.sticky_piston_arm_collision.name=Collisione del braccio del pistone appiccicoso
+tile.unpowered_repeater.name=Ripetitore non alimentato
+tile.unpowered_comparator.name=Comparatore non alimentato
+tile.powered_repeater.name=Ripetitore alimentato
+tile.powered_comparator.name=Comparatore alimentato
+
+
+## Light Sources
+tile.lit_furnace.name=Fornace accesa
+tile.lit_blast_furnace.name=Altoforno acceso
+tile.lit_smoker.name=Fumatore acceso
+
+
+## Decorative Blocks
+tile.flower_pot.name=Vaso di fiori
+tile.frame.name=Telaio
+tile.glow_frame.name=Cornice luminosa
+tile.wall_banner.name=Stendardo da muro
+tile.stone_slab.wood.name=Lastra di quercia pietrificata
+tile.purpur_block.smooth.name=Viola liscio
+tile.skull.name=Teschio da muro
+
+
+## Functional Blocks
+tile.allow.name=Permettere
+tile.border_block.name=Confine
+tile.bubble_column.name=Colonna di bolle
+tile.deny.name=Negare
+tile.end_gateway.name=Fine Gateway
+tile.end_portal.name=Tessera Portale Fine
+tile.end_portal_frame.name=Fine del frame del portale
+tile.lava_cauldron.name=Calderone di lava
+tile.powder_snow.name=Blocco di neve farinosa
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Blocco segnaposto richiesta cliente
+tile.glowingobsidian.name=Ossidiana luminosa
+tile.reserved6.name=Riservato 6
+tile.info_update.name=Aggiorna blocco
+tile.info_update2.name=Aggiorna il blocco 2
+tile.movingBlock.name=Blocco in movimento
+tile.moving_block.name=Blocco in movimento
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Calore chimico 
+tile.colored_torch.blue.name=Torcia Blu 
+tile.colored_torch.green.name=Torcia Verde 
+tile.colored_torch.purple.name=Torcia Viola 
+tile.colored_torch.red.name=Torcia Rossa 
+tile.compoundcreator.name=Creatore composto 
+tile.element.ac.name=Attinio 
+tile.element.ag.name=Argento 
+tile.element.al.name=Alluminio 
+tile.element.am.name=Americio 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsenico 
+tile.element.at.name=Astato 
+tile.element.au.name=Oro 
+tile.element.b.name=Boro 
+tile.element.ba.name=Bario 
+tile.element.be.name=Berillio 
+tile.element.bh.name=Borio 
+tile.element.bi.name=Bismuto 
+tile.element.bk.name=Berkelio 
+tile.element.br.name=Bromo 
+tile.element.c.name=Carbonio 
+tile.element.ca.name=Calcio 
+tile.element.cd.name=Cadmio 
+tile.element.ce.name=Cerio 
+tile.element.cf.name=Californio 
+tile.element.cl.name=Cloro 
+tile.element.cm.name=Curio 
+tile.element.cn.name=Copernicio 
+tile.element.co.name=Cobalto 
+tile.element.cr.name=Cromo 
+tile.element.cs.name=Cesio 
+tile.element.cu.name=Rame 
+tile.element.db.name=Dubbio 
+tile.element.ds.name=Darmstadio 
+tile.element.dy.name=Disprosio 
+tile.element.er.name=Erbio 
+tile.element.es.name=Einsteinio 
+tile.element.eu.name=Europio 
+tile.element.f.name=Fluoro 
+tile.element.fe.name=Ferro da stiro 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermio 
+tile.element.fr.name=Francio 
+tile.element.ga.name=Gallio 
+tile.element.gd.name=Gadolinio 
+tile.element.ge.name=Germanio 
+tile.element.h.name=Idrogeno 
+tile.element.he.name=Elio 
+tile.element.hf.name=Afnio 
+tile.element.hg.name=Mercurio 
+tile.element.ho.name=Olmio 
+tile.element.hs.name=Hassio 
+tile.element.i.name=Iodio 
+tile.element.in.name=Indio 
+tile.element.ir.name=Iridio 
+tile.element.k.name=Potassio 
+tile.element.kr.name=Kripton 
+tile.element.la.name=Lantanio 
+tile.element.li.name=Litio 
+tile.element.lr.name=Lawrence 
+tile.element.lu.name=Lutezio 
+tile.element.lv.name=Livermorio 
+tile.element.mc.name=Mosca 
+tile.element.md.name=Mendelevio 
+tile.element.mg.name=Magnesio 
+tile.element.mn.name=Manganese 
+tile.element.mo.name=Molibdeno 
+tile.element.mt.name=Meitnerio 
+tile.element.n.name=Azoto 
+tile.element.na.name=Sodio 
+tile.element.nb.name=Niobio 
+tile.element.nd.name=Neodimio 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonio 
+tile.element.ni.name=Nichel 
+tile.element.no.name=Nobelio 
+tile.element.np.name=Nettunio 
+tile.element.o.name=Ossigeno 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmio 
+tile.element.p.name=Fosforo 
+tile.element.pa.name=Protoattinio 
+tile.element.pb.name=Piombo 
+tile.element.pd.name=Palladio 
+tile.element.pm.name=Promezio 
+tile.element.po.name=Polonio 
+tile.element.pr.name=Praseodimio 
+tile.element.pt.name=Platino 
+tile.element.pu.name=Plutonio 
+tile.element.ra.name=Radio 
+tile.element.rb.name=Rubidio 
+tile.element.re.name=Renio 
+tile.element.rf.name=Rutherfordio 
+tile.element.rg.name=Roentgenio 
+tile.element.rh.name=Rodio 
+tile.element.rn.name=Radon
+tile.element.ru.name=Rutenio 
+tile.element.s.name=Zolfo 
+tile.element.sb.name=Antimonio 
+tile.element.sc.name=Scandio 
+tile.element.se.name=Selenio 
+tile.element.sg.name=Seaborgio 
+tile.element.si.name=Silicio 
+tile.element.sm.name=Samario 
+tile.element.sn.name=Latta 
+tile.element.sr.name=Stronzio 
+tile.element.ta.name=Tantalio 
+tile.element.tb.name=Terbio 
+tile.element.tc.name=Tecnezio 
+tile.element.te.name=Tellurio 
+tile.element.th.name=Torio 
+tile.element.ti.name=Titanio 
+tile.element.tl.name=Tallio 
+tile.element.tm.name=Tulio 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uranio 
+tile.element.unknown.name=Elemento sconosciuto 
+tile.element.v.name=Vanadio 
+tile.element.w.name=Tungsteno 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Ittrio 
+tile.element.yb.name=Itterbio 
+tile.element.zn.name=Zinco 
+tile.element.zr.name=Zirconio 
+tile.elementconstructor.name=Costruttore di elementi 
+tile.hard_glass.name=Vetro temperato 
+tile.hard_glass_pane.name=Lastra di vetro temprato 
+tile.hard_stained_glass.black.name=Vetrata nera temprata 
+tile.hard_stained_glass.blue.name=Vetrata blu temprata 
+tile.hard_stained_glass.brown.name=Vetrata marrone temprata 
+tile.hard_stained_glass.cyan.name=Vetro colorato ciano temprato 
+tile.hard_stained_glass.gray.name=Vetrata grigia temprata 
+tile.hard_stained_glass.green.name=Vetrata verde temprata 
+tile.hard_stained_glass.light_blue.name=Vetrata temprata azzurra 
+tile.hard_stained_glass.lime.name=Vetrata in calce temprata 
+tile.hard_stained_glass.magenta.name=Vetrata magenta temprata 
+tile.hard_stained_glass.orange.name=Vetrata arancione temprata 
+tile.hard_stained_glass.pink.name=Vetro colorato rosa temprato 
+tile.hard_stained_glass.purple.name=Vetrata viola temprata 
+tile.hard_stained_glass.red.name=Vetrata rossa temprata 
+tile.hard_stained_glass.silver.name=Vetro colorato grigio chiaro temprato 
+tile.hard_stained_glass.white.name=Vetrata bianca temprata 
+tile.hard_stained_glass.yellow.name=Vetrata gialla temprata 
+tile.hard_stained_glass_pane.black.name=Pannello in vetro colorato nero temprato 
+tile.hard_stained_glass_pane.blue.name=Lastra di vetro colorato blu temprato 
+tile.hard_stained_glass_pane.brown.name=Lastra di vetro colorato marrone temprato 
+tile.hard_stained_glass_pane.cyan.name=Pannello in vetro colorato ciano temprato 
+tile.hard_stained_glass_pane.gray.name=Lastra di vetro colorato grigio temprato 
+tile.hard_stained_glass_pane.green.name=Lastra di vetro colorato verde temprato 
+tile.hard_stained_glass_pane.light_blue.name=Lastra di vetro colorato azzurro temprato 
+tile.hard_stained_glass_pane.lime.name=Vetro colorato a calce temprata 
+tile.hard_stained_glass_pane.magenta.name=Vetro colorato magenta temprato 
+tile.hard_stained_glass_pane.orange.name=Lastra di vetro colorato arancione temprato 
+tile.hard_stained_glass_pane.pink.name=Lastra di vetro colorato rosa temprato 
+tile.hard_stained_glass_pane.purple.name=Lastra di vetro colorato viola temprato 
+tile.hard_stained_glass_pane.red.name=Lastra di vetro colorato rosso temprato 
+tile.hard_stained_glass_pane.silver.name=Lastra di vetro colorato grigio chiaro temprato 
+tile.hard_stained_glass_pane.white.name=Pannello in vetro colorato bianco temprato 
+tile.hard_stained_glass_pane.yellow.name=Lastra di vetro colorato giallo temprato 
+tile.labtable.name=Tavolo da laboratorio 
+tile.materialreducer.name=Riduttore di materiale 
+tile.underwater_tnt.name=TNT subacqueo 
+tile.underwater_torch.name=Torcia subacquea 
+
+
+
+
+
+### Miscellaneous
+item..name=Vuoto
+item.banner.base.black=Base per bandiera nera
+item.banner.base.blue=Base della bandiera blu
+item.banner.base.brown=Base per striscione marrone
+item.banner.base.cyan=Base per banner ciano
+item.banner.base.gray=Base per striscione grigia
+item.banner.base.green=Base per striscione verde
+item.banner.base.lightBlue=Base per banner azzurra
+item.banner.base.lime=Base per striscione di lime
+item.banner.base.magenta=Base per striscione magenta
+item.banner.base.orange=Base per bandiera arancione
+item.banner.base.pink=Base per striscione rosa
+item.banner.base.purple=Base per striscione viola
+item.banner.base.red=Base della bandiera rossa
+item.banner.base.silver=Base per banner grigio chiaro
+item.banner.base.white=Base per bandiera bianca
+item.banner.base.yellow=Base per bandiera gialla
+item.minecraft.goat_horn.sound.8=Volare (vecchio)
+item.minecraft.goat_horn.sound.9=Sogno (vecchio)
+tipped_arrow.effect.empty=Freccia con punta non realizzabile
+tipped_arrow.effect.awkward=Freccia dalla punta scomoda
+tipped_arrow.effect.mundane.extended=Freccia con punta mondana estesa
+tipped_arrow.effect.mundane=Freccia dalla punta mondana
+tipped_arrow.effect.thick=Freccia a punta spessa

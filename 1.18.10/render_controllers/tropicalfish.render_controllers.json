@@ -28,11 +28,11 @@
           ]
         }
       },
-      "geometry": "Array.models[query.max_health == 6 ? 0 : variable.TropicalFish.Base]",
-      "materials": [ { "*": "Array.materials[query.max_health == 6 ? 1 : 0]" } ],
+      "geometry": "Array.models[q.max_health == 6 ? 0 : v.TropicalFish.Base]",
+      "materials": [ { "*": "Array.materials[q.max_health == 6 ? 1 : 0]" } ],
       "textures": [
-        "Array.types[query.max_health == 6 ? 2 : variable.TropicalFish.Base]",
-        "Array.patterns[query.max_health == 6 ? 12 : variable.TropicalFish.Pattern]"
+        "Array.types[q.max_health == 6 ? 2 : v.TropicalFish.Base]",
+        "Array.patterns[q.max_health == 6 ? 12 : v.TropicalFish.Pattern]"
       ]
     }
   }

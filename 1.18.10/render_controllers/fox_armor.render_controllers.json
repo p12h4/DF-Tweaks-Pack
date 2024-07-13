@@ -5,7 +5,7 @@
       "geometry": "geometry.default",
       "materials": [
         {
-          "*": "variable.is_enchanted ? Material.enchanted : Material.default"
+          "*": "v.is_enchanted ? Material.enchanted : Material.default"
         }
       ],
       "textures": [
@@ -14,7 +14,7 @@
       ],
       "part_visibility": [
         {
-          "leg*": "!query.is_sleeping"
+          "leg*": "!q.is_sleeping"
         }
       ]
     }

@@ -10,16 +10,16 @@
       "geometry": "Geometry.default",
       "part_visibility": [
         {
-          "rightArm": "query.is_angry || query.is_celebrating"
+          "rightArm": "q.is_angry || q.is_celebrating"
         },
         {
-          "leftArm": "query.is_angry || query.is_celebrating"
+          "leftArm": "q.is_angry || q.is_celebrating"
         },
         {
-          "rightItem": "query.is_angry"
+          "rightItem": "q.is_angry"
         },
         {
-          "arms": "!(query.is_angry || query.is_celebrating)"
+          "arms": "!(q.is_angry || q.is_celebrating)"
         }
       ],
       "materials": [
@@ -27,7 +27,7 @@
           "*": "Material.default"
         }
       ],
-      "textures": ["Array.variants[query.is_illager_captain ? 1 : 0 ]"]
+      "textures": ["Array.variants[q.is_illager_captain ? 1 : 0 ]"]
     }
   }
 }

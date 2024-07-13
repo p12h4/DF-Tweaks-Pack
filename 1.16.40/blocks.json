@@ -1,4 +1,56 @@
 {
+  "format_version": [1, 16, 40],
+  "candle_cake": {
+    "carried_textures": "candle_cake_carried"
+  },
+  "black_candle_cake": {
+    "carried_textures": "black_candle_cake_carried"
+  },
+  "red_candle_cake": {
+    "carried_textures": "red_candle_cake_carried"
+  },
+  "green_candle_cake": {
+    "carried_textures": "green_candle_cake_carried"
+  },
+  "brown_candle_cake": {
+    "carried_textures": "brown_candle_cake_carried"
+  },
+  "blue_candle_cake": {
+    "carried_textures": "blue_candle_cake_carried"
+  },
+  "purple_candle_cake": {
+    "carried_textures": "purple_candle_cake_carried"
+  },
+  "cyan_candle_cake": {
+    "carried_textures": "cyan_candle_cake_carried"
+  },
+  "light_gray_candle_cake": {
+    "carried_textures": "light_gray_candle_cake_carried"
+  },
+  "gray_candle_cake": {
+    "carried_textures": "gray_candle_cake_carried"
+  },
+  "pink_candle_cake": {
+    "carried_textures": "pink_candle_cake_carried"
+  },
+  "lime_candle_cake": {
+    "carried_textures": "lime_candle_cake_carried"
+  },
+  "yellow_candle_cake": {
+    "carried_textures": "yellow_candle_cake_carried"
+  },
+  "light_blue_candle_cake": {
+    "carried_textures": "light_blue_candle_cake_carried"
+  },
+  "magenta_candle_cake": {
+    "carried_textures": "magenta_candle_cake_carried"
+  },
+  "orange_candle_cake": {
+    "carried_textures": "orange_candle_cake_carried"
+  },
+  "white_candle_cake": {
+    "carried_textures": "white_candle_cake_carried"
+  },
   "chemical_heat": {
     "textures": "chemical_heat"
   },
@@ -17,13 +69,13 @@
     "carried_textures": "client_request_placeholder"
   },
   "colored_torch_bp": {
-    "carried_textures": "colored_torch_carried",
     "sound": "wood",
+    "carried_textures": "colored_torch_carried",
     "textures": "colored_torch"
   },
   "colored_torch_rg": {
-    "carried_textures": "colored_torch_carried",
     "sound": "wood",
+    "carried_textures": "colored_torch_carried",
     "textures": "colored_torch"
   },
   "element_0": {
@@ -422,6 +474,7 @@
     }
   },
   "infested_deepslate": {
+    "sound": "deepslate",
     "carried_textures": {
       "down": "infested_deepslate_top",
       "side": "infested_deepslate",
@@ -430,8 +483,7 @@
     "isotropic": {
       "down": true,
       "up": true
-    },
-    "sound": "deepslate"
+    }
   },
   "info_update": {
     "sound": "gravel",
@@ -442,14 +494,14 @@
     "textures": "info_update2"
   },
   "invisibleBedrock": {
-    "carried_textures": "invisibleBedrock"
+    "carried_textures": "invisible_bedrock"
   },
   "monster_egg": {
     "carried_textures": "infested_blocks",
     "textures": "monster_egg"
   },
   "movingBlock": {
-    "textures": "movingBlock"
+    "textures": "moving_block"
   },
   "mysterious_frame": {
     "sound": "netherite",
@@ -468,8 +520,8 @@
     }
   },
   "nether_sprouts": {
-    "carried_textures": "nether_sprouts_carried",
     "sound": "nether_sprouts",
+    "carried_textures": "nether_sprouts_carried",
     "textures": "nether_sprouts"
   },
   "reserved6": {

@@ -25,24 +25,6 @@
       }
     ]
   },
-  "main_buttons_panel/stacked_rows": {
-    "modifications": [
-      {
-        "array_name": "controls",
-        "operation": "remove",
-        "control_name": "store"
-      },
-      {
-        "array_name": "controls",
-        "operation": "insert_back",
-        "value": [
-          {
-            "custom_store@start.custom_store_button_stack": {} // prevent treatments from overriding the marketplace button
-          }
-        ]
-      }
-    ]
-  },
   /*
    #==============================#
    #     Pack Version Display     #
@@ -85,7 +67,6 @@
       }
     ]
   },
-  // delay the animation for 2 seconds before starting it.
   "toast_animation_init": {
     "anim_type": "wait",
     "duration": 2,
@@ -99,7 +80,6 @@
     "to": [-5, 5],
     "next": "@start.toast_animation_playing"
   },
-  // let the notification stay on screen for 5 seconds before ending it.
   "toast_animation_playing": {
     "anim_type": "wait",
     "duration": 5,
@@ -145,7 +125,8 @@
                 ],
                 "bindings": [
                   {
-                    "binding_condition": "#visible"
+                    "binding_condition": "#visible",
+                    "binding_name": "#column_binding"
                   }
                 ]
               }
@@ -156,7 +137,8 @@
     ],
     "bindings": [
       {
-        "binding_condition": "#visible"
+        "binding_condition": "#visible",
+        "binding_name": "#button_panel_binding"
       }
     ]
   },
@@ -181,49 +163,5 @@
         }
       }
     ]
-  },
-  /*
-   #============================#
-   #     Marketplace Button     #
-   #============================#
-  */
-  "custom_store_button_content": {
-    "type": "panel",
-    "controls": [
-      {
-        "button_label@common_buttons.new_ui_binding_button_label": {
-          "layer": 50
-        }
-      }
-    ]
-  },
-  "custom_store_button_stack@start.stacked_row": {
-    "controls": [
-      {
-        "store_button@start.custom_store_button": {
-          "enabled": "(not $store_disabled)",
-          "$default_button_texture": "textures/ui/Marketplace_Default",
-          "$hover_button_texture": "textures/ui/Marketplace_Hover",
-          "$pressed_button_texture": "textures/ui/Marketplace_Hover",
-          "$default_text_color": [0, 0, 0],
-          "$light_button_hover_text_color": [0.499, 0.195, 0.515],
-          "$light_button_pressed_text_color": [1, 1, 1],
-          "$light_border_default_color": [0.075, 0.075, 0.075],
-          "$light_border_hover_color": [1, 1, 0.086],
-          "$light_border_pressed_color": [1, 1, 1]
-        }
-      }
-    ]
-  },
-  "custom_store_button@common_buttons.light_content_button": {
-    "size": ["100% - 2px", "100% - 2px"],
-    "$pressed_button_name": "button.menu_store",
-    "$button_text": "menu.store",
-    "$button_content": "start.custom_store_button_content",
-    "$button_text_binding_type": "none",
-    "$button_binding_condition": "none",
-    "$button_text_grid_collection_name": "",
-    "tts_inherit_siblings": true,
-    "$button_pressed_offset": [0, 0]
   }
 }

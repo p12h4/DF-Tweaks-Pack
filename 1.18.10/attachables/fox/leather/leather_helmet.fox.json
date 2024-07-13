@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:leather_helmet.fox",
       "item": {
-        "minecraft:leather_helmet": "query.is_owner_identifier_any('minecraft:fox') == 1.0"
+        "minecraft:leather_helmet": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },
       "materials": {
         "default": "armor_leather",
@@ -18,7 +18,7 @@
         "default": "geometry.fox_helmet"
       },
       "scripts": {
-        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+        "parent_setup": "v.helmet_layer_visible = 0.0;"
       },
       "render_controllers": ["controller.render.fox_armor"]
     }

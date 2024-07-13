@@ -12,6 +12,57 @@
         "textures/blocks/anvil_top_damaged_3"
       ]
     },
+    "candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/candle_cake"
+    },
+    "black_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/black_candle_cake"
+    },
+    "red_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/red_candle_cake"
+    },
+    "green_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/green_candle_cake"
+    },
+    "brown_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/brown_candle_cake"
+    },
+    "blue_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/blue_candle_cake"
+    },
+    "purple_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/purple_candle_cake"
+    },
+    "cyan_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/cyan_candle_cake"
+    },
+    "light_gray_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/light_gray_candle_cake"
+    },
+    "gray_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/gray_candle_cake"
+    },
+    "pink_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/pink_candle_cake"
+    },
+    "lime_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/lime_candle_cake"
+    },
+    "yellow_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/yellow_candle_cake"
+    },
+    "light_blue_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/light_blue_candle_cake"
+    },
+    "magenta_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/magenta_candle_cake"
+    },
+    "orange_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/orange_candle_cake"
+    },
+    "white_candle_cake_carried": {
+      "textures": "textures/items/carried/candle_cake/white_candle_cake"
+    },
     "chemical_heat": {
       "textures": "textures/blocks/chemical_heat"
     },
@@ -76,10 +127,10 @@
     },
     "colored_torch_carried": {
       "textures": [
-        "textures/items/torch_red",
-        "textures/items/torch_green",
-        "textures/items/torch_blue",
-        "textures/items/torch_purple"
+        "textures/items/carried/torch_red",
+        "textures/items/carried/torch_green",
+        "textures/items/carried/torch_blue",
+        "textures/items/carried/torch_purple"
       ]
     },
     "element_label_0": {
@@ -442,6 +493,7 @@
     "glow_stick": {
       "textures": [
         "textures/blocks/glow_stick_red",
+        // black
         "textures/blocks/glow_stick_red",
         "textures/blocks/glow_stick_green",
         "textures/blocks/glow_stick_brown",
@@ -449,6 +501,7 @@
         "textures/blocks/glow_stick_purple",
         "textures/blocks/glow_stick_cyan",
         "textures/blocks/glow_stick_red",
+        // silver/light gray
         "textures/blocks/glow_stick_gray",
         "textures/blocks/glow_stick_pink",
         "textures/blocks/glow_stick_lime",
@@ -507,14 +560,11 @@
     "invisible_top": {
       "textures": "textures/misc/invisible_top"
     },
-    "invisibleBedrock": {
-      "textures": "textures/blocks/invisibleBedrock"
+    "invisible_bedrock": {
+      "textures": "textures/blocks/invisible_bedrock"
     },
-    "mangrove_sign": {
-      "textures": "textures/items/mangrove_sign_entity"
-    },
-    "movingBlock": {
-      "textures": "textures/blocks/movingBlock"
+    "moving_block": {
+      "textures": "textures/blocks/moving_block"
     },
     "mysterious_frame_bottom": {
       "textures": "textures/blocks/mysterious_frame_bottom"
@@ -526,7 +576,7 @@
       "textures": "textures/blocks/mysterious_frame_top"
     },
     "nether_sprouts_carried": {
-      "textures": "textures/items/nether_sprouts_tile_carried"
+      "textures": "textures/items/carried/nether_sprouts_tile"
     },
     "observer_bottom": {
       "textures": ["textures/blocks/observer_top", "textures/blocks/observer_top_lit"]
@@ -576,42 +626,6 @@
     "reserved6_top_bottom": {
       "textures": "textures/blocks/reserved6_top_bottom"
     },
-    "stone_slab_bottom": {
-      "textures": [
-        "textures/blocks/stone_slab_top",
-        "textures/blocks/sandstone_bottom",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_bottom",
-        "textures/blocks/nether_brick"
-      ]
-    },
-    "stone_slab_side": {
-      "textures": [
-        "textures/blocks/stone_slab_side",
-        "textures/blocks/sandstone_normal",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_side",
-        "textures/blocks/nether_brick"
-      ]
-    },
-    "stone_slab_top": {
-      "textures": [
-        "textures/blocks/stone_slab_top",
-        "textures/blocks/sandstone_top",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_top",
-        "textures/blocks/nether_brick"
-      ]
-    },
     "stonebrick": {
       "textures": [
         "textures/blocks/stonebrick",
@@ -622,15 +636,10 @@
       ]
     },
     "structure_void": {
-      "textures": ["textures/items/structure_void", "textures/items/structure_air"]
+      "textures": ["textures/items/carried/structure_void", "textures/items/carried/structure_air"]
     },
     "tallgrass": {
-      "textures": [
-        "textures/blocks/shrub",
-        "textures/blocks/tallgrass",
-        "textures/blocks/fern",
-        "textures/blocks/fern"
-      ]
+      "textures": ["textures/blocks/shrub", "textures/blocks/tallgrass", "textures/blocks/fern", "textures/blocks/fern"]
     },
     "tallgrass_carried": {
       "textures": [

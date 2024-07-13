@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:glowstone_worn.zombie_villager_v2",
       "item": {
-        "minecraft:glowstone": "query.is_owner_identifier_any('minecraft:zombie_villager_v2') == 1.0"
+        "minecraft:glowstone": "q.is_owner_identifier_any('minecraft:zombie_villager_v2') == 1.0"
       },
       "materials": {
         "default": "armor",
@@ -18,14 +18,14 @@
         "default": "geometry.block_worn_zombie_villager_v2"
       },
       "scripts": {
-        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+        "parent_setup": "v.helmet_layer_visible = 0.0;"
       },
       "render_controllers": [
         {
-          "controller.render.block_worn.disabled": "c.is_first_person || !query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "controller.render.block_worn.disabled": "c.is_first_person || !q.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
         },
         {
-          "controller.render.block_worn.enabled": "!c.is_first_person && query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "controller.render.block_worn.enabled": "!c.is_first_person && q.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
         }
       ]
     }

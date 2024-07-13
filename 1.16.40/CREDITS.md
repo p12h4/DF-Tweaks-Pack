@@ -11,6 +11,7 @@
 
 - **Korean Translations** by Yeoseol and icecoffee1133
 
-- **Polish Translations** by [Porktuga](https://www.youtube.com/channel/UCvhSEtGfWDrhREhrlGCf_Xg)
 
-- **Spanish Translations** by [heffalump16](https://www.youtube.com/channel/UCitNK0Zk2jilVQiWKll0b8A)
+## Contributors
+
+ - **Fish & Vindicator Textures** by [CalzLight](https://www.youtube.com/channel/UCj1eKVXc9USlbYSaGL82kDQ)

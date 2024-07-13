@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:pumpkin_worn.witch",
       "item": {
-        "minecraft:pumpkin": "query.is_owner_identifier_any('minecraft:witch') == 1.0"
+        "minecraft:pumpkin": "q.is_owner_identifier_any('minecraft:witch') == 1.0"
       },
       "materials": {
         "default": "armor",
@@ -18,14 +18,14 @@
         "default": "geometry.pumpkin_worn_witch"
       },
       "scripts": {
-        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+        "parent_setup": "v.helmet_layer_visible = 0.0;"
       },
       "render_controllers": [
         {
-          "controller.render.block_worn.disabled": "c.is_first_person || !query.is_item_name_any('slot.armor.head', 'minecraft:pumpkin')"
+          "controller.render.block_worn.disabled": "c.is_first_person || !q.is_item_name_any('slot.armor.head', 'minecraft:pumpkin')"
         },
         {
-          "controller.render.block_worn.enabled": "!c.is_first_person && query.is_item_name_any('slot.armor.head', 'minecraft:pumpkin')"
+          "controller.render.block_worn.enabled": "!c.is_first_person && q.is_item_name_any('slot.armor.head', 'minecraft:pumpkin')"
         }
       ]
     }

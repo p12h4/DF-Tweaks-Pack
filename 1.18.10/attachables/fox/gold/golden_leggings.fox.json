@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:golden_leggings.fox",
       "item": {
-        "minecraft:golden_leggings": "query.is_owner_identifier_any('minecraft:fox') == 1.0"
+        "minecraft:golden_leggings": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },
       "materials": {
         "default": "armor",
@@ -18,7 +18,7 @@
         "default": "geometry.fox_leggings"
       },
       "scripts": {
-        "parent_setup": "variable.leg_layer_visible = 0.0;"
+        "parent_setup": "v.leg_layer_visible = 0.0;"
       },
       "render_controllers": ["controller.render.fox_armor"]
     }

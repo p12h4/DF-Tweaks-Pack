@@ -1,10 +1,446 @@
-## Goat Horn Sounds
-item.minecraft.goat_horn.sound.8=Fluga (gammal)
-item.minecraft.goat_horn.sound.9=Dröm (gammal)
+### Items
+## Regular Items
+item.copper_horn.name=Kopparhorn 
+item.spawn_egg.name=Ge upphov till
+
+
+## Education Edition Items
+item.balloon.black.name=Svart ballong 
+item.balloon.blue.name=Blå ballong 
+item.balloon.brown.name=Brun ballong 
+item.balloon.cyan.name=Cyan ballong 
+item.balloon.gray.name=Grå ballong 
+item.balloon.green.name=Grön ballong 
+item.balloon.lightBlue.name=Ljusblå ballong 
+item.balloon.lime.name=Limeballong 
+item.balloon.magenta.name=Magenta ballong 
+item.balloon.orange.name=Orange ballong 
+item.balloon.pink.name=Rosa ballong 
+item.balloon.purple.name=Lila ballong 
+item.balloon.red.name=Röd ballong 
+item.balloon.silver.name=Ljusgrå ballong 
+item.balloon.white.name=Vit ballong 
+item.balloon.yellow.name=Gul ballong 
+item.bleach.name=Blekmedel 
+item.compound..name=Sammansättning 
+item.compound.aluminumoxide.name=Aluminiumoxid 
+item.compound.ammonia.name=Ammoniak 
+item.compound.bariumsulfate.name=Bariumsulfat 
+item.compound.benzene.name=Bensen 
+item.compound.borontrioxide.name=Bortrioxid 
+item.compound.calciumbromide.name=Kalciumbromid 
+item.compound.calciumchloride.name=Kalciumklorid 
+item.compound.ceriumchloride.name=Ceriumklorid 
+item.compound.charcoal.name=Träkol 
+item.compound.crudeoil.name=Råolja 
+item.compound.garbage.name=Skräp 
+item.compound.glue.name=Limma 
+item.compound.hydrogenperoxide.name=Väteperoxid 
+item.compound.hypochlorite.name=Hypoklorit 
+item.compound.ink.name=Bläck 
+item.compound.ironsulfide.name=Järnsulfid 
+item.compound.latex.name=Latex 
+item.compound.lithiumhydride.name=Litiumhydrid 
+item.compound.luminol.name=Luminol 
+item.compound.magnesiumnitrate.name=Magnesiumnitrat 
+item.compound.magnesiumoxide.name=Magnesiumoxid 
+item.compound.magnesiumsalts.name=Magnesiumsalter 
+item.compound.mercuricchloride.name=Kvicksilverklorid 
+item.compound.polyethylene.name=Polyeten 
+item.compound.potassiumchloride.name=Kaliumklorid 
+item.compound.potassiumiodide.name=Kaliumjodid 
+item.compound.salt.name=Salt 
+item.compound.soap.name=Tvål 
+item.compound.sodiumacetate.name=Natriumacetat 
+item.compound.sodiumfluoride.name=Natriumfluorid 
+item.compound.sodiumhydride.name=Natriumhydrid 
+item.compound.sodiumhydroxide.name=Lut 
+item.compound.sodiumhypochlorite.name=Natriumhypoklorit 
+item.compound.sodiumoxide.name=Natriumoxid 
+item.compound.sugar.name=Socker 
+item.compound.sulfate.name=Sulfat 
+item.compound.tungstenchloride.name=Volframklorid 
+item.compound.water.name=Vatten 
+item.glow_stick.black.name=Black Glow Stick 
+item.glow_stick.blue.name=Blue Glow Stick 
+item.glow_stick.brown.name=Brown Glow Stick 
+item.glow_stick.cyan.name=Cyan Glow Stick 
+item.glow_stick.gray.name=Grey Glow Stick 
+item.glow_stick.green.name=Green Glow Stick 
+item.glow_stick.lightBlue.name=Light Blue Glow Stick 
+item.glow_stick.lime.name=Lime Glow Stick 
+item.glow_stick.magenta.name=Magenta Glow Stick 
+item.glow_stick.orange.name=Orange Glow Stick 
+item.glow_stick.pink.name=Pink Glow Stick 
+item.glow_stick.purple.name=Purple Glow Stick 
+item.glow_stick.red.name=Red Glow Stick 
+item.glow_stick.silver.name=Ljusgrå Glow Stick 
+item.glow_stick.white.name=White Glow Stick 
+item.glow_stick.yellow.name=Yellow Glow Stick 
+item.ice_bomb.name=Isbomb 
+item.medicine..name=Medicin 
+item.medicine.blindness.name=Ögondroppar 
+item.medicine.nausea.name=Tonic 
+item.medicine.poison.name=Motgift 
+item.medicine.weakness.name=Elixir 
+item.rapid_fertilizer.name=Supergödsel 
+item.sparkler.black.name=Svart tomtebloss 
+item.sparkler.blue.name=Blått tomtebloss 
+item.sparkler.brown.name=Brunt tomtebloss 
+item.sparkler.cyan.name=Cyan Sparkler 
+item.sparkler.gray.name=Grå Sparkler 
+item.sparkler.green.name=Grönt tomtebloss 
+item.sparkler.lightblue.name=Ljusblått tomtebloss 
+item.sparkler.lime.name=Lime Sparkler 
+item.sparkler.magenta.name=Magenta Sparkler 
+item.sparkler.orange.name=Orange tomtebloss 
+item.sparkler.pink.name=Rosa Sparkler 
+item.sparkler.purple.name=Purple Sparkler 
+item.sparkler.red.name=Röd Sparkler 
+item.sparkler.silver.name=Ljusgrå tomtebloss 
+item.sparkler.white.name=Vit tomtebloss 
+item.sparkler.yellow.name=Gul tomtebloss 
 
 
 
-## Banner Base
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Ekdörr
+tile.spruce_door.name=Grandörr
+tile.birch_door.name=Björkdörr
+tile.jungle_door.name=Djungeldörr
+tile.acacia_door.name=Acaciadörr
+tile.dark_oak_door.name=Mörk ekdörr
+tile.mangrove_door.name=Mangrovedörr
+
+
+## Signs
+tile.wall_sign.name=Ekväggskylt
+tile.spruce_wall_sign.name=Granväggskylt
+tile.birch_wall_sign.name=Björkväggskylt
+tile.jungle_wall_sign.name=Djungelväggskylt
+tile.acacia_wall_sign.name=Acacia väggskylt
+tile.darkoak_wall_sign.name=Mörk ekväggskylt
+tile.mangrove_standing_sign.name=Mangrove tecken
+tile.mangrove_wall_sign.name=Mangroveväggskylt
+tile.bamboo_standing_sign.name=Bambu tecken
+tile.bamboo_wall_sign.name=Bambuväggskylt
+tile.cherry_standing_sign.name=Körsbärsskylt
+tile.cherry_wall_sign.name=Körsbär vägg tecken
+tile.crimson_wall_sign.name=Crimson väggskylt
+tile.warped_wall_sign.name=Skev väggskylt
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Ek dubbelplatta
+tile.double_wooden_slab.spruce.name=Dubbelplatta av gran
+tile.double_wooden_slab.birch.name=Björk dubbelplatta
+tile.double_wooden_slab.jungle.name=Jungle Double Slab
+tile.double_wooden_slab.acacia.name=Acacia dubbelplatta
+tile.double_wooden_slab.big_oak.name=Dubbelplatta av mörk ek
+tile.mangrove_double_slab.name=Mangrove dubbelplatta
+tile.bamboo_double_slab.name=Bambu dubbelplatta
+tile.bamboo_mosaic_double_slab.name=Mosaic Bamboo Double Slab
+tile.crimson_double_slab.name=Crimson Double Slab
+tile.warped_double_slab.name=Skev dubbel platta
+tile.double_stone_slab.wood.name=Förstenad ek dubbelplatta
+tile.double_stone_slab2.mossy_cobblestone.name=Mossig kullersten dubbelplatta
+tile.double_stone_slab4.stone.name=Sten dubbelplatta
+tile.double_stone_slab3.andesite.name=Andesit dubbelplatta
+tile.double_stone_slab3.andesite.smooth.name=Slät andesit dubbelplatta
+tile.double_stone_slab3.diorite.name=Diorite dubbelplatta
+tile.double_stone_slab3.diorite.smooth.name=Slät Diorite dubbelplatta
+tile.double_stone_slab3.granite.name=Granit dubbelplatta
+tile.double_stone_slab3.granite.smooth.name=Slät granit dubbelplatta
+tile.double_stone_slab4.mossy_stone_brick.name=Mossig stentegel dubbelplatta
+tile.double_stone_slab4.cut_sandstone.name=Kapad sandsten dubbelplatta
+tile.double_stone_slab2.sandstone.smooth.name=Slät sandsten dubbelplatta
+tile.double_stone_slab4.cut_red_sandstone.name=Klipp röd sandsten dubbelplatta
+tile.double_stone_slab3.red_sandstone.smooth.name=Slät röd sandsten dubbelplatta
+tile.mud_brick_double_slab.name=Mud Brick Double Slab
+tile.polished_tuff_double_slab.name=Polerad tuff dubbelplatta
+tile.tuff_brick_double_slab.name=Tuff Brick Double Slab
+tile.tuff_double_slab.name=Tuff dubbelplatta
+tile.double_cut_copper_slab.name=Skär koppar dubbelplatta
+tile.exposed_double_cut_copper_slab.name=Exponerad skuren koppar dubbelplatta
+tile.oxidized_double_cut_copper_slab.name=Oxiderad skuren koppar dubbelplatta
+tile.waxed_double_cut_copper_slab.name=Vaxad skuren koppar dubbelplatta
+tile.waxed_exposed_double_cut_copper_slab.name=Vaxad exponerad skuren koppar dubbelplatta
+tile.waxed_oxidized_double_cut_copper_slab.name=Vaxad oxiderad skuren koppar dubbelplatta
+tile.waxed_weathered_double_cut_copper_slab.name=Vaxad vittrad skuren koppar dubbelplatta
+tile.weathered_double_cut_copper_slab.name=Vitrad skuren koppar dubbelplatta
+tile.double_stone_slab2.prismarine.rough.name=Prismarine dubbelplatta
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Brick Double Slab
+tile.double_stone_slab2.prismarine.dark.name=Dark Prismarine Double Slab
+tile.double_stone_slab4.smooth_quartz.name=Slät kvarts dubbelplatta
+tile.blackstone_double_slab.name=Blackstone dubbelplatta
+tile.polished_blackstone_brick_double_slab.name=Dubbelplatta av polerad svartsten tegel
+tile.polished_blackstone_double_slab.name=Polerad Blackstone dubbelplatta
+tile.double_stone_slab2.red_nether_brick.name=Red Nether Brick Double Slab
+tile.double_stone_slab3.end_brick.name=Ändtegel dubbelplatta
+tile.double_stone_slab2.purpur.name=Purpur dubbelplatta
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Exponerat skuret kopparblock 
+tile.cut_copper_block.exposed.waxed.name=Vaxat exponerat skuret kopparblock 
+tile.cut_copper_block.name=Klipp kopparblock 
+tile.cut_copper_block.oxidized.name=Oxiderat skuren kopparblock 
+tile.cut_copper_block.waxed.name=Vaxad skuren kopparblock 
+tile.cut_copper_block.weathered.name=Förvittrad kopparblock 
+tile.cut_copper_block.weathered.waxed.name=Vaxad vittrad skuren kopparblock 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambu planta
+tile.bamboo_sapling.oak.name=Ek Bambu planta
+tile.bamboo_sapling.spruce.name=Gran Bambu planta
+tile.bamboo_sapling.birch.name=Björk Bambu planta
+tile.bamboo_sapling.jungle.name=Jungle Bamboo Sapling
+tile.bamboo_sapling.acacia.name=Acacia bambu planta
+tile.bamboo_sapling.big_oak.name=Mörk ek bambu planta
+tile.chorus_plant.name=Körstam
+tile.melon_stem.name=Melonstjälk
+tile.pitcher_crop.name=Pitcher Pod
+tile.torchflower_crop.name=Fackelblomma
+tile.mangrove_propagule_hanging.name=Hängande mangrovepropagula 
+tile.kelp.name=Kelp
+
+
+## Liquids
+tile.flowing_lava.name=Flödande lava
+tile.flowing_water.name=Flödande vatten
+tile.lava.name=Statisk lava
+tile.water.name=Statiskt vatten
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Inverterad dagsljusdetektor
+tile.lit_redstone_lamp.name=Tänd Redstone-lampa
+tile.lit_redstone_ore.name=Tänd Redstone Ore
+tile.lit_deepslate_redstone_ore.name=Tänd Deepslate Redstone Ore
+tile.pistonarmcollision.name=Kolvarmskollision
+tile.piston_arm_collision.name=Kolvarmskollision
+tile.stickypistonarmcollision.name=Sticky Piston Arm Collision
+tile.sticky_piston_arm_collision.name=Sticky Piston Arm Collision
+tile.unpowered_repeater.name=Repeater utan ström
+tile.unpowered_comparator.name=Komparator utan ström
+tile.powered_repeater.name=Powered Repeater
+tile.powered_comparator.name=Powered komparator
+
+
+## Light Sources
+tile.lit_furnace.name=Tänd ugn
+tile.lit_blast_furnace.name=Tänd masugn
+tile.lit_smoker.name=Tänd rökare
+
+
+## Decorative Blocks
+tile.flower_pot.name=Blomkruka
+tile.frame.name=Ram
+tile.glow_frame.name=Glöd ram
+tile.wall_banner.name=Väggbanner
+tile.stone_slab.wood.name=Förstenad ekplatta
+tile.purpur_block.smooth.name=Smidig purpur
+tile.skull.name=Väggskalle
+
+
+## Functional Blocks
+tile.allow.name=Tillåta
+tile.border_block.name=Gräns
+tile.bubble_column.name=Bubbelkolumn
+tile.deny.name=Förneka
+tile.end_gateway.name=Avsluta gateway
+tile.end_portal.name=Slutportalbricka
+tile.end_portal_frame.name=Slutportalram
+tile.lava_cauldron.name=Lava kittel
+tile.powder_snow.name=Puder snöblock
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Klientbegäran platshållarblock
+tile.glowingobsidian.name=Glödande Obsidian
+tile.reserved6.name=Reserverad 6
+tile.info_update.name=Uppdatera block
+tile.info_update2.name=Uppdatera block 2
+tile.movingBlock.name=Flyttblock
+tile.moving_block.name=Flyttblock
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Kemisk värme 
+tile.colored_torch.blue.name=Blå ficklampa 
+tile.colored_torch.green.name=Green Torch 
+tile.colored_torch.purple.name=Lila ficklampa 
+tile.colored_torch.red.name=Röd ficklampa 
+tile.compoundcreator.name=Compound Creator 
+tile.element.ac.name=Aktinium 
+tile.element.ag.name=Silver 
+tile.element.al.name=Aluminium 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsenik 
+tile.element.at.name=Astatin 
+tile.element.au.name=Guld 
+tile.element.b.name=Bor 
+tile.element.ba.name=Barium 
+tile.element.be.name=Beryllium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Vismut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Brom 
+tile.element.c.name=Kol 
+tile.element.ca.name=Kalcium 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=Kalifornien 
+tile.element.cl.name=Klor 
+tile.element.cm.name=Curium 
+tile.element.cn.name=Copernicium 
+tile.element.co.name=Kobolt 
+tile.element.cr.name=Krom 
+tile.element.cs.name=Cesium 
+tile.element.cu.name=Koppar 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europium 
+tile.element.f.name=Fluor 
+tile.element.fe.name=Järn 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Francium 
+tile.element.ga.name=Gallium 
+tile.element.gd.name=Gadolinium 
+tile.element.ge.name=Germanium 
+tile.element.h.name=Väte 
+tile.element.he.name=Helium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Kvicksilver 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jod 
+tile.element.in.name=Indium 
+tile.element.ir.name=Iridium 
+tile.element.k.name=Kalium 
+tile.element.kr.name=Krypton 
+tile.element.la.name=Lantan 
+tile.element.li.name=Litium 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Lutetium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moscovium 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnesium 
+tile.element.mn.name=Mangan 
+tile.element.mo.name=Molybden 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Kväve 
+tile.element.na.name=Natrium 
+tile.element.nb.name=Niob 
+tile.element.nd.name=Neodym 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nickel 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptunium 
+tile.element.o.name=Syre 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protactinium 
+tile.element.pb.name=Bly 
+tile.element.pd.name=Palladium 
+tile.element.pm.name=Prometium 
+tile.element.po.name=Polonium 
+tile.element.pr.name=Praseodymium 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutonium 
+tile.element.ra.name=Radium 
+tile.element.rb.name=Rubidium 
+tile.element.re.name=Rhenium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Röntgenium 
+tile.element.rh.name=Rhodium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Rutenium 
+tile.element.s.name=Svavel 
+tile.element.sb.name=Antimon 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Selen 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Kisel 
+tile.element.sm.name=Samarium 
+tile.element.sn.name=Plåt 
+tile.element.sr.name=Strontium 
+tile.element.ta.name=Tantal 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Teknetium 
+tile.element.te.name=Tellur 
+tile.element.th.name=Torium 
+tile.element.ti.name=Titan 
+tile.element.tl.name=Tallium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uran 
+tile.element.unknown.name=Okänt element 
+tile.element.v.name=Vanadin 
+tile.element.w.name=Volfram 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Yttrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Zink 
+tile.element.zr.name=Zirkonium 
+tile.elementconstructor.name=Element Constructor 
+tile.hard_glass.name=Härdat glas 
+tile.hard_glass_pane.name=Härdat glasruta 
+tile.hard_stained_glass.black.name=Härdat svart målat glas 
+tile.hard_stained_glass.blue.name=Härdat blåmålat glas 
+tile.hard_stained_glass.brown.name=Härdat brunmålat glas 
+tile.hard_stained_glass.cyan.name=Härdat cyanmålat glas 
+tile.hard_stained_glass.gray.name=Härdat gråmålat glas 
+tile.hard_stained_glass.green.name=Härdat grönt målat glas 
+tile.hard_stained_glass.light_blue.name=Härdat ljusblått målat glas 
+tile.hard_stained_glass.lime.name=Härdat kalkmålat glas 
+tile.hard_stained_glass.magenta.name=Härdat magenta målat glas 
+tile.hard_stained_glass.orange.name=Härdat orange målat glas 
+tile.hard_stained_glass.pink.name=Härdat rosa målat glas 
+tile.hard_stained_glass.purple.name=Härdat lila målat glas 
+tile.hard_stained_glass.red.name=Härdat rött målat glas 
+tile.hard_stained_glass.silver.name=Härdat ljusgrå målat glas 
+tile.hard_stained_glass.white.name=Härdat vitmålat glas 
+tile.hard_stained_glass.yellow.name=Härdat gulmålat glas 
+tile.hard_stained_glass_pane.black.name=Härdad svart målad glasruta 
+tile.hard_stained_glass_pane.blue.name=Härdad blå målad glasruta 
+tile.hard_stained_glass_pane.brown.name=Härdad brun målad glasruta 
+tile.hard_stained_glass_pane.cyan.name=Härdat cyan målat glas 
+tile.hard_stained_glass_pane.gray.name=Härdad gråmålad glasruta 
+tile.hard_stained_glass_pane.green.name=Härdad grön målad glasruta 
+tile.hard_stained_glass_pane.light_blue.name=Härdad ljusblå glasmålning 
+tile.hard_stained_glass_pane.lime.name=Härdad kalkmålad glasruta 
+tile.hard_stained_glass_pane.magenta.name=Härdat magenta målat glas 
+tile.hard_stained_glass_pane.orange.name=Härdad orange glasmålning 
+tile.hard_stained_glass_pane.pink.name=Härdad rosa målad glasruta 
+tile.hard_stained_glass_pane.purple.name=Härdat lila målat glas 
+tile.hard_stained_glass_pane.red.name=Härdad röd glasmålning 
+tile.hard_stained_glass_pane.silver.name=Härdad ljusgrå målad glasruta 
+tile.hard_stained_glass_pane.white.name=Härdad vitmålad glasruta 
+tile.hard_stained_glass_pane.yellow.name=Härdad gul målad glasruta 
+tile.labtable.name=Labbord 
+tile.materialreducer.name=Materialreducerare 
+tile.underwater_tnt.name=Undervattens TNT 
+tile.underwater_torch.name=Undervattensfackla 
+
+
+
+
+
+### Miscellaneous
+item..name=Tom
 item.banner.base.black=Svart Banner Base
 item.banner.base.blue=Blå Banner Base
 item.banner.base.brown=Brun Banner Base
@@ -21,118 +457,10 @@ item.banner.base.red=Röd Banner Base
 item.banner.base.silver=Ljusgrå bannerbas
 item.banner.base.white=Vit Banner Base
 item.banner.base.yellow=Gul Banner Base
-
-
-
-## Items
-item.copper_horn.name=Kopparhorn 
-item.glow_stick.black.name=Black Glow Stick 
-item.spawn_egg.name=Ge upphov till
-
-
-
-## Wall Signs
-tile.wall_sign.name=Ekväggskylt
-tile.birch_wall_sign.name=Björkväggskylt
-tile.spruce_wall_sign.name=Granväggskylt
-tile.jungle_wall_sign.name=Djungelväggskylt
-tile.acacia_wall_sign.name=Acacia väggskylt
-tile.darkoak_wall_sign.name=Mörkt ekväggskylt
-tile.crimson_wall_sign.name=Crimson väggskylt
-tile.warped_wall_sign.name=Skev väggskylt
-tile.mangrove_wall_sign.name=Mangroveväggskylt
-tile.bamboo_wall_sign.name=Bambuväggskylt
-tile.cherry_wall_sign.name=Körsbär vägg tecken
-tile.mangrove_standing_sign.name=Mangrove tecken
-tile.bamboo_standing_sign.name=Bambu tecken
-tile.cherry_standing_sign.name=Körsbärsskylt
-
-
-
-## Education Edition
-tile.border_block.name=Kant 
-tile.chemical_heat.name=Kemisk värme 
-tile.allow.name=Tillåt 
-tile.deny.name=Förneka 
-tile.underwater_torch.name=Undervattensfackla 
-tile.hard_glass.name=Hårt glas 
-tile.hard_glass_pane.name=Hård glasruta 
-
-
-
-## Misc
-item..name=Tom
-tile.acacia_door.name=Acaciadörr
-tile.bamboo_sapling.acacia.name=Acacia bambu planta
-tile.bamboo_sapling.big_oak.name=Mörk ek bambu planta
-tile.bamboo_sapling.birch.name=Björk Bambu planta
-tile.bamboo_sapling.jungle.name=Jungle Bamboo Sapling
-tile.bamboo_sapling.oak.name=Ek Bambu planta
-tile.bamboo_sapling.spruce.name=Gran Bambu planta
-tile.birch_door.name=Björkdörr
-tile.blackstone_double_slab.name=Blackstone dubbelplatta
-tile.bubble_column.name=Bubbelkolumn
-tile.chorus_plant.name=Körstam
-tile.client_request_placeholder_block.name=Klientbegäran platshållarblock
-tile.colored_torch.blue.name=Blå Fackla
-tile.colored_torch.green.name=Grön fackla
-tile.colored_torch.purple.name=Lila ficklampa
-tile.colored_torch.red.name=Röd Fackla
-tile.cut_copper_block.exposed.name=Exponerat skuret kopparblock 
-tile.cut_copper_block.exposed.waxed.name=Vaxat exponerat skuret kopparblock 
-tile.cut_copper_block.name=Klipp kopparblock 
-tile.cut_copper_block.oxidized.name=Oxiderat skuren kopparblock 
-tile.cut_copper_block.waxed.name=Vaxad skuren kopparblock 
-tile.cut_copper_block.weathered.name=Vädersatt kopparblock 
-tile.cut_copper_block.weathered.waxed.name=Vaxad vittrad skuren kopparblock 
-tile.dark_oak_door.name=Dörr i mörk ek
-tile.daylight_detector_inverted.name=Inverterad dagsljusdetektor
-tile.double_cut_copper_slab.name=Dubbelskuren kopparplatta
-tile.double_stone_slab.wood.name=Förstenad ekplatta
-tile.double_stone_slab3.end_brick.name=Dubbel ändtegelplatta
-tile.double_stone_slab4.mossy_stone_brick.name=Dubbel mossig stentegelplatta
-tile.end_gateway.name=Avsluta Gateway
-tile.end_portal.name=Slutportalbricka
-tile.end_portal_frame.name=Slutportalram
-tile.exposed_double_cut_copper_slab.name=Exponerad dubbelskuren kopparplatta
-tile.flower_pot.name=Blomkruka
-tile.flowing_lava.name=Flödande lava
-tile.flowing_water.name=Flödande vatten
-tile.frame.name=Ram
-tile.glow_frame.name=Glöd ram
-tile.glowingobsidian.name=Glödande Obsidian
-tile.info_update.name=Uppdatera block
-tile.info_update2.name=Uppdatera block 2
-tile.jungle_door.name=Djungeldörr
-tile.kelp.name=Kelp
-tile.lava.name=Statisk lava
-tile.lava_cauldron.name=Lava kittel
-tile.lit_blast_furnace.name=Tänd masugn
-tile.lit_deepslate_redstone_ore.name=Tänd Deepslate Redstone Ore
-tile.lit_furnace.name=Tänd ugn
-tile.lit_redstone_lamp.name=Tänd Redstone-lampa
-tile.lit_redstone_ore.name=Tänd Redstone Malm
-tile.lit_smoker.name=Tänd rökare
-tile.movingBlock.name=Moving Block Tile
-tile.oxidized_double_cut_copper_slab.name=Oxiderad dubbelskuren kopparplatta
-tile.pistonarmcollision.name=Kolvarmskollision
-tile.polished_blackstone_brick_double_slab.name=Dubbelplatta av polerad svartsten tegel
-tile.polished_blackstone_double_slab.name=Polerad Blackstone dubbelplatta
-tile.powder_snow.name=Powder Snow Block
-tile.powered_comparator.name=Powered komparator
-tile.powered_repeater.name=Powered Repeater
-tile.purpur_block.smooth.name=Smidig purpur
-tile.reserved6.name=Reserverad 6
-tile.spruce_door.name=Grandörr
-tile.stickypistonarmcollision.name=Sticky Piston Arm Collision
-tile.stone_slab.wood.name=Förstenad ekplatta
-tile.unpowered_comparator.name=Komparator utan ström
-tile.unpowered_repeater.name=Repeater utan ström
-tile.wall_banner.name=Väggbanner
-tile.water.name=Statiskt vatten
-tile.waxed_double_cut_copper_slab.name=Vaxad dubbelskuren kopparplatta
-tile.waxed_exposed_double_cut_copper_slab.name=Vaxad exponerad dubbelskuren kopparplatta
-tile.waxed_oxidized_double_cut_copper_slab.name=Vaxad oxiderad dubbelskuren kopparplatta
-tile.waxed_weathered_double_cut_copper_slab.name=Vaxad vittrad dubbelskuren kopparplatta
-tile.weathered_double_cut_copper_slab.name=Vittrad dubbelskuren kopparplatta
-tile.wooden_door.name=Ek Trä Dörr
+item.minecraft.goat_horn.sound.8=Fluga (gammal)
+item.minecraft.goat_horn.sound.9=Dröm (gammal)
+tipped_arrow.effect.empty=Uncraftable Tipped Arrow
+tipped_arrow.effect.awkward=Besvärlig tippad pil
+tipped_arrow.effect.mundane.extended=Extended Mundane Tipped Arrow
+tipped_arrow.effect.mundane=Mundane Tipped Arrow
+tipped_arrow.effect.thick=Tjock tippad pil

@@ -10,7 +10,7 @@
       ],
       "part_visibility": [
         {
-          "*ear": "!query.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
+          "*ear": "!q.is_item_name_any('slot.armor.head', 'minecraft:glowstone')"
         }
       ],
       "textures": ["Texture.default"]

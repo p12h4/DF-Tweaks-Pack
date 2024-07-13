@@ -6,7 +6,7 @@
       "category": "none"
     },
     "components": {
-      "minecraft:hover_text_color": "aqua"
+      "minecraft:hover_text_color": "yellow"
     }
   }
 }

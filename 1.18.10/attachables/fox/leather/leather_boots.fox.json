@@ -4,7 +4,7 @@
     "description": {
       "identifier": "tweaks:leather_boots.fox",
       "item": {
-        "minecraft:leather_boots": "query.is_owner_identifier_any('minecraft:fox') == 1.0"
+        "minecraft:leather_boots": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },
       "materials": {
         "default": "armor_leather",
@@ -18,7 +18,7 @@
         "default": "geometry.fox_boots"
       },
       "scripts": {
-        "parent_setup": "variable.boot_layer_visible = 0.0;"
+        "parent_setup": "v.boot_layer_visible = 0.0;"
       },
       "render_controllers": ["controller.render.fox_armor"]
     }
